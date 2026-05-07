@@ -39,15 +39,15 @@ def choose_option(type_option,option,target_folder):
         print(dir)
         read_Directory(option, dir,target_path)
     elif type_option == 'repo-url':
-        request_url(option,target_folder)
+        request_url(option,)
     elif type_option == 'user':
-        run_user(option,target_folder)
+        run_user(option,target_path)
     else:
         sys.exit('Incorrect Option')
 
 
 
-
+target_path
 if __name__ == "__main__":
     
     try:
@@ -58,8 +58,7 @@ if __name__ == "__main__":
                  "'repo-url', 'user') option(directory, url, user)")
     
     target_folder = os.path.dirname(os.path.abspath(__file__)) + "/data/"
- 
-
+  
      
     choose_option(type_option, option,target_folder)
 
