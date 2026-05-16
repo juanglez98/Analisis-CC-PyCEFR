@@ -1,0 +1,16 @@
+Repository,File Name,Type,Name,Line,Complexity,Rank
+Analisis-CC-PyCEFR,main.py,function,get_folder_name,7,4,A
+Analisis-CC-PyCEFR,main.py,function,choose_option,32,4,A
+Analisis-CC-PyCEFR,generator.py,function,extract_records,206,10,B
+Analisis-CC-PyCEFR,generator.py,function,print_report,328,10,B
+Analisis-CC-PyCEFR,generator.py,function,read_json,66,8,B
+Analisis-CC-PyCEFR,generator.py,function,normalize_record,182,8,B
+Analisis-CC-PyCEFR,generator.py,function,compare,269,7,B
+Analisis-CC-PyCEFR,generator.py,function,as_number,160,4,A
+Analisis-CC-PyCEFR,generator.py,function,pick_first,171,3,A
+Analisis-CC-PyCEFR,generator.py,function,index_records,260,3,A
+Analisis-CC-PyCEFR,generator.py,function,debug_log,27,2,A
+Analisis-CC-PyCEFR,generator.py,function,looks_like_path_key,178,2,A
+Analisis-CC-PyCEFR,generator.py,function,main,374,2,A
+Analisis-CC-PyCEFR,generator.py,function,parse_args,45,1,A
+Analisis-CC-PyCEFR,generator.py,function,make_key,251,1,A
