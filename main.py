@@ -10,6 +10,7 @@ def get_folder_name(type_option,option):
         
         if type_option == 'repo-url':
             # Caso URL: https://github.com/user/mi-repo.git -> "mi-repo"
+            print(target_folder + 'processed/' +  clean_input.split('/')[-1].replace('.git', ''))
             return target_folder + 'processed/' +  clean_input.split('/')[-1].replace('.git', '')
         
         elif type_option == 'user':
@@ -39,7 +40,7 @@ def choose_option(type_option,option,target_folder):
         print(dir)
         read_Directory(option, dir,target_path)
     elif type_option == 'repo-url':
-        request_url(option,)
+        request_url(option,target_path)
     elif type_option == 'user':
         run_user(option,target_path)
     else:
@@ -47,7 +48,7 @@ def choose_option(type_option,option,target_folder):
 
 
 
-target_path
+
 if __name__ == "__main__":
     
     try:
@@ -61,6 +62,9 @@ if __name__ == "__main__":
   
      
     choose_option(type_option, option,target_folder)
+
+
+    summary_Levels(target_folder)
 
 
 

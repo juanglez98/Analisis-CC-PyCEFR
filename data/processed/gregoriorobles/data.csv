@@ -1,0 +1,2003 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+ConfBookGenerator,creator.py,Simple List,166,166,22,A1
+ConfBookGenerator,creator.py,Simple List,277,277,19,A1
+ConfBookGenerator,creator.py,Simple List,291,291,23,A1
+ConfBookGenerator,creator.py,Simple List,292,292,22,A1
+ConfBookGenerator,creator.py,Simple List,43,43,24,A1
+ConfBookGenerator,creator.py,Simple List,211,211,38,A1
+ConfBookGenerator,creator.py,Simple List,170,170,57,A1
+ConfBookGenerator,creator.py,Simple Tuple,41,41,8,A1
+ConfBookGenerator,creator.py,Simple Tuple,93,93,11,A1
+ConfBookGenerator,creator.py,Simple Tuple,307,307,12,A1
+ConfBookGenerator,creator.py,Simple Dictionary,51,51,41,A2
+ConfBookGenerator,creator.py,Starred,219,219,46,A1
+ConfBookGenerator,creator.py,'zip' call function,41,41,22,C2
+ConfBookGenerator,creator.py,Files --> 'open' call function,34,34,9,A2
+ConfBookGenerator,creator.py,Files --> 'write' call function,35,35,8,A2
+ConfBookGenerator,creator.py,Print,275,275,8,A1
+ConfBookGenerator,creator.py,Files --> 'read' call function,375,375,17,A2
+ConfBookGenerator,creator.py,Files --> 'open' call function,382,382,9,A2
+ConfBookGenerator,creator.py,Print,395,395,8,A1
+ConfBookGenerator,creator.py,Print,193,193,12,A1
+ConfBookGenerator,creator.py,Print,214,214,12,A1
+ConfBookGenerator,creator.py,Print,299,299,12,A1
+ConfBookGenerator,creator.py,Print,300,300,12,A1
+ConfBookGenerator,creator.py,Files --> 'open' call function,384,384,21,A2
+ConfBookGenerator,creator.py,Files --> 'write' call function,387,387,12,A2
+ConfBookGenerator,creator.py,Print,397,397,8,A1
+ConfBookGenerator,creator.py,Print,84,84,16,A1
+ConfBookGenerator,creator.py,Files --> 'open' call function,174,174,8,A2
+ConfBookGenerator,creator.py,Files --> 'open' call function,375,375,17,A2
+ConfBookGenerator,creator.py,Files --> 'write' call function,389,389,12,A2
+ConfBookGenerator,creator.py,Print,390,390,12,A1
+ConfBookGenerator,creator.py,Files --> 'read' call function,385,385,22,A2
+ConfBookGenerator,creator.py,Simple Atributte,64,64,10,A2
+ConfBookGenerator,creator.py,Simple Atributte,41,41,31,A2
+ConfBookGenerator,creator.py,Simple Atributte,108,108,11,A2
+ConfBookGenerator,creator.py,Simple Atributte,128,128,19,A2
+ConfBookGenerator,creator.py,Simple Atributte,166,166,8,A2
+ConfBookGenerator,creator.py,Simple Atributte,285,285,8,A2
+ConfBookGenerator,creator.py,Simple Atributte,298,298,19,A2
+ConfBookGenerator,creator.py,Simple Atributte,376,376,17,A2
+ConfBookGenerator,creator.py,Simple Atributte,380,380,4,A2
+ConfBookGenerator,creator.py,Simple Atributte,381,381,23,A2
+ConfBookGenerator,creator.py,Simple Atributte,34,34,14,A2
+ConfBookGenerator,creator.py,Simple Atributte,35,35,8,A2
+ConfBookGenerator,creator.py,Simple Atributte,71,71,15,A2
+ConfBookGenerator,creator.py,Simple Atributte,72,72,23,A2
+ConfBookGenerator,creator.py,Simple Atributte,73,73,11,A2
+ConfBookGenerator,creator.py,Simple Atributte,93,93,12,A2
+ConfBookGenerator,creator.py,Simple Atributte,93,93,36,A2
+ConfBookGenerator,creator.py,Simple Atributte,112,112,14,A2
+ConfBookGenerator,creator.py,Simple Atributte,126,126,15,A2
+ConfBookGenerator,creator.py,Simple Atributte,170,170,12,A2
+ConfBookGenerator,creator.py,Simple Atributte,174,174,8,A2
+ConfBookGenerator,creator.py,Simple Atributte,180,180,19,A2
+ConfBookGenerator,creator.py,Simple Atributte,181,181,25,A2
+ConfBookGenerator,creator.py,Simple Atributte,184,184,26,A2
+ConfBookGenerator,creator.py,Simple Atributte,188,188,22,A2
+ConfBookGenerator,creator.py,Simple Atributte,189,189,30,A2
+ConfBookGenerator,creator.py,Simple Atributte,191,191,12,A2
+ConfBookGenerator,creator.py,Simple Atributte,191,191,30,A2
+ConfBookGenerator,creator.py,Simple Atributte,201,201,22,A2
+ConfBookGenerator,creator.py,Simple Atributte,202,202,15,A2
+ConfBookGenerator,creator.py,Simple Atributte,205,205,18,A2
+ConfBookGenerator,creator.py,Simple Atributte,209,210,17,A2
+ConfBookGenerator,creator.py,Simple Atributte,211,211,17,A2
+ConfBookGenerator,creator.py,Simple Atributte,274,274,8,A2
+ConfBookGenerator,creator.py,Simple Atributte,279,279,25,A2
+ConfBookGenerator,creator.py,Simple Atributte,296,296,8,A2
+ConfBookGenerator,creator.py,Simple Atributte,307,307,28,A2
+ConfBookGenerator,creator.py,Simple Atributte,328,328,15,A2
+ConfBookGenerator,creator.py,Simple Atributte,342,342,15,A2
+ConfBookGenerator,creator.py,Simple Atributte,346,346,15,A2
+ConfBookGenerator,creator.py,Simple Atributte,375,375,17,A2
+ConfBookGenerator,creator.py,Simple Atributte,376,376,51,A2
+ConfBookGenerator,creator.py,Simple Atributte,376,376,88,A2
+ConfBookGenerator,creator.py,Simple Atributte,376,376,126,A2
+ConfBookGenerator,creator.py,Simple Atributte,376,376,159,A2
+ConfBookGenerator,creator.py,Simple Atributte,376,376,194,A2
+ConfBookGenerator,creator.py,Simple Atributte,376,376,234,A2
+ConfBookGenerator,creator.py,Simple Atributte,376,376,271,A2
+ConfBookGenerator,creator.py,Simple Atributte,376,376,303,A2
+ConfBookGenerator,creator.py,Simple Atributte,376,376,342,A2
+ConfBookGenerator,creator.py,Simple Atributte,394,394,8,A2
+ConfBookGenerator,creator.py,Simple Atributte,71,71,15,A2
+ConfBookGenerator,creator.py,Simple Atributte,76,76,12,A2
+ConfBookGenerator,creator.py,Simple Atributte,93,93,12,A2
+ConfBookGenerator,creator.py,Simple Atributte,93,93,36,A2
+ConfBookGenerator,creator.py,Simple Atributte,112,112,14,A2
+ConfBookGenerator,creator.py,Simple Atributte,112,112,43,A2
+ConfBookGenerator,creator.py,Simple Atributte,130,130,22,A2
+ConfBookGenerator,creator.py,Simple Atributte,131,131,22,A2
+ConfBookGenerator,creator.py,Simple Atributte,170,170,25,A2
+ConfBookGenerator,creator.py,Simple Atributte,172,172,12,A2
+ConfBookGenerator,creator.py,Simple Atributte,180,180,19,A2
+ConfBookGenerator,creator.py,Simple Atributte,181,181,25,A2
+ConfBookGenerator,creator.py,Simple Atributte,182,182,15,A2
+ConfBookGenerator,creator.py,Simple Atributte,183,183,12,A2
+ConfBookGenerator,creator.py,Simple Atributte,184,184,26,A2
+ConfBookGenerator,creator.py,Simple Atributte,190,190,19,A2
+ConfBookGenerator,creator.py,Simple Atributte,190,190,50,A2
+ConfBookGenerator,creator.py,Simple Atributte,190,190,79,A2
+ConfBookGenerator,creator.py,Simple Atributte,192,192,26,A2
+ConfBookGenerator,creator.py,Simple Atributte,192,192,54,A2
+ConfBookGenerator,creator.py,Simple Atributte,202,202,37,A2
+ConfBookGenerator,creator.py,Simple Atributte,208,208,29,A2
+ConfBookGenerator,creator.py,Simple Atributte,270,270,56,A2
+ConfBookGenerator,creator.py,Simple Atributte,271,271,71,A2
+ConfBookGenerator,creator.py,Simple Atributte,304,304,44,A2
+ConfBookGenerator,creator.py,Simple Atributte,306,306,20,A2
+ConfBookGenerator,creator.py,Simple Atributte,335,335,15,A2
+ConfBookGenerator,creator.py,Simple Atributte,338,338,15,A2
+ConfBookGenerator,creator.py,Simple Atributte,349,349,15,A2
+ConfBookGenerator,creator.py,Simple Atributte,352,352,15,A2
+ConfBookGenerator,creator.py,Simple Atributte,382,382,14,A2
+ConfBookGenerator,creator.py,Simple Atributte,385,385,22,A2
+ConfBookGenerator,creator.py,Simple Atributte,386,386,12,A2
+ConfBookGenerator,creator.py,Simple Atributte,387,387,12,A2
+ConfBookGenerator,creator.py,Simple Atributte,72,72,23,A2
+ConfBookGenerator,creator.py,Simple Atributte,74,74,23,A2
+ConfBookGenerator,creator.py,Simple Atributte,75,75,23,A2
+ConfBookGenerator,creator.py,Simple Atributte,76,76,12,A2
+ConfBookGenerator,creator.py,Simple Atributte,79,79,24,A2
+ConfBookGenerator,creator.py,Simple Atributte,80,80,16,A2
+ConfBookGenerator,creator.py,Simple Atributte,80,80,32,A2
+ConfBookGenerator,creator.py,Simple Atributte,80,80,53,A2
+ConfBookGenerator,creator.py,Simple Atributte,81,81,16,A2
+ConfBookGenerator,creator.py,Simple Atributte,82,82,16,A2
+ConfBookGenerator,creator.py,Simple Atributte,85,85,24,A2
+ConfBookGenerator,creator.py,Simple Atributte,86,86,16,A2
+ConfBookGenerator,creator.py,Simple Atributte,86,86,32,A2
+ConfBookGenerator,creator.py,Simple Atributte,86,86,53,A2
+ConfBookGenerator,creator.py,Simple Atributte,87,87,16,A2
+ConfBookGenerator,creator.py,Simple Atributte,113,113,31,A2
+ConfBookGenerator,creator.py,Simple Atributte,129,129,29,A2
+ConfBookGenerator,creator.py,Simple Atributte,174,174,13,A2
+ConfBookGenerator,creator.py,Simple Atributte,182,182,15,A2
+ConfBookGenerator,creator.py,Simple Atributte,209,209,17,A2
+ConfBookGenerator,creator.py,Simple Atributte,216,216,42,A2
+ConfBookGenerator,creator.py,Simple Atributte,216,216,51,A2
+ConfBookGenerator,creator.py,Simple Atributte,270,270,20,A2
+ConfBookGenerator,creator.py,Simple Atributte,270,270,82,A2
+ConfBookGenerator,creator.py,Simple Atributte,271,271,32,A2
+ConfBookGenerator,creator.py,Simple Atributte,271,271,93,A2
+ConfBookGenerator,creator.py,Simple Atributte,341,341,35,A2
+ConfBookGenerator,creator.py,Simple Atributte,350,350,16,A2
+ConfBookGenerator,creator.py,Simple Atributte,350,350,36,A2
+ConfBookGenerator,creator.py,Simple Atributte,353,353,16,A2
+ConfBookGenerator,creator.py,Simple Atributte,353,353,35,A2
+ConfBookGenerator,creator.py,Simple Atributte,389,389,12,A2
+ConfBookGenerator,creator.py,Simple Atributte,394,394,31,A2
+ConfBookGenerator,creator.py,Simple Atributte,395,395,46,A2
+ConfBookGenerator,creator.py,Simple Atributte,44,44,19,A2
+ConfBookGenerator,creator.py,Simple Atributte,51,51,26,A2
+ConfBookGenerator,creator.py,Simple Atributte,113,113,31,A2
+ConfBookGenerator,creator.py,Simple Atributte,170,170,25,A2
+ConfBookGenerator,creator.py,Simple Atributte,208,208,56,A2
+ConfBookGenerator,creator.py,Simple Atributte,210,210,26,A2
+ConfBookGenerator,creator.py,Simple Atributte,219,219,20,A2
+ConfBookGenerator,creator.py,Simple Atributte,270,270,20,A2
+ConfBookGenerator,creator.py,Simple Atributte,271,271,32,A2
+ConfBookGenerator,creator.py,Simple Atributte,280,280,30,A2
+ConfBookGenerator,creator.py,Simple Atributte,281,281,20,A2
+ConfBookGenerator,creator.py,Simple Atributte,329,329,62,A2
+ConfBookGenerator,creator.py,Simple Atributte,332,332,49,A2
+ConfBookGenerator,creator.py,Simple Atributte,347,347,43,A2
+ConfBookGenerator,creator.py,Simple Atributte,385,385,22,A2
+ConfBookGenerator,creator.py,Simple Atributte,46,46,31,A2
+ConfBookGenerator,creator.py,Simple Atributte,67,67,49,A2
+ConfBookGenerator,creator.py,Simple Atributte,79,79,24,A2
+ConfBookGenerator,creator.py,Simple Atributte,109,109,53,A2
+ConfBookGenerator,creator.py,Simple Atributte,209,209,17,A2
+ConfBookGenerator,creator.py,Simple Atributte,218,218,43,A2
+ConfBookGenerator,creator.py,Simple Atributte,219,219,20,A2
+ConfBookGenerator,creator.py,Simple Atributte,282,282,28,A2
+ConfBookGenerator,creator.py,Simple Atributte,283,283,20,A2
+ConfBookGenerator,creator.py,Simple Atributte,332,332,19,A2
+ConfBookGenerator,creator.py,Simple Atributte,333,333,51,A2
+ConfBookGenerator,creator.py,Simple Atributte,343,343,34,A2
+ConfBookGenerator,creator.py,Simple Atributte,48,48,31,A2
+ConfBookGenerator,creator.py,Simple Atributte,50,50,31,A2
+ConfBookGenerator,creator.py,Simple Atributte,91,91,49,A2
+ConfBookGenerator,creator.py,Simple Atributte,94,94,45,A2
+ConfBookGenerator,creator.py,Simple Atributte,97,97,45,A2
+ConfBookGenerator,creator.py,Simple Atributte,115,115,51,A2
+ConfBookGenerator,creator.py,Simple Atributte,170,170,58,A2
+ConfBookGenerator,creator.py,Simple Atributte,280,280,45,A2
+ConfBookGenerator,creator.py,Simple Atributte,322,322,59,A2
+ConfBookGenerator,creator.py,Simple Atributte,332,332,19,A2
+ConfBookGenerator,creator.py,Simple Atributte,385,385,22,A2
+ConfBookGenerator,creator.py,Simple Atributte,209,209,17,A2
+ConfBookGenerator,creator.py,Simple Atributte,280,280,45,A2
+ConfBookGenerator,creator.py,Simple Atributte,282,282,43,A2
+ConfBookGenerator,creator.py,Simple Atributte,322,322,59,A2
+ConfBookGenerator,creator.py,Simple Atributte,282,282,43,A2
+ConfBookGenerator,creator.py,Unary Operation,66,66,7,A1
+ConfBookGenerator,creator.py,Unary Operation,108,108,7,A1
+ConfBookGenerator,creator.py,Unary Operation,182,182,11,A1
+ConfBookGenerator,creator.py,Unary Operation,213,213,11,A1
+ConfBookGenerator,creator.py,Unary Operation,189,189,11,A1
+ConfBookGenerator,creator.py,Unary Operation,74,74,47,A1
+ConfBookGenerator,creator.py,Unary Operation,130,130,47,A1
+ConfBookGenerator,creator.py,Unary Operation,270,270,39,A1
+ConfBookGenerator,creator.py,Unary Operation,271,271,54,A1
+ConfBookGenerator,creator.py,Unary Operation,44,44,38,A1
+ConfBookGenerator,creator.py,Unary Operation,280,280,64,A1
+ConfBookGenerator,creator.py,Unary Operation,282,282,65,A1
+ConfBookGenerator,creator.py,Boolean Operation,189,189,11,A1
+ConfBookGenerator,creator.py,Boolean Operation,332,332,15,A1
+ConfBookGenerator,creator.py,Boolean Operation,218,218,19,A1
+ConfBookGenerator,creator.py,Boolean Operation,280,280,19,A1
+ConfBookGenerator,creator.py,Boolean Operation,282,282,21,A1
+ConfBookGenerator,creator.py,Subscript,129,129,22,A1
+ConfBookGenerator,creator.py,Subscript,130,130,22,A1
+ConfBookGenerator,creator.py,Subscript,74,74,23,A1
+ConfBookGenerator,creator.py,Subscript,75,75,23,A1
+ConfBookGenerator,creator.py,Subscript,208,208,29,A1
+ConfBookGenerator,creator.py,Subscript,270,270,20,A1
+ConfBookGenerator,creator.py,Subscript,271,271,32,A1
+ConfBookGenerator,creator.py,Subscript,332,332,49,A1
+ConfBookGenerator,creator.py,Subscript,280,280,45,A1
+ConfBookGenerator,creator.py,Subscript,282,282,43,A1
+ConfBookGenerator,creator.py,Slice,129,129,27,A1
+ConfBookGenerator,creator.py,Slice,130,130,45,A1
+ConfBookGenerator,creator.py,List Comprehension with 1If statements,270,270,19,C1
+ConfBookGenerator,creator.py,List Comprehension with 1If statements,271,271,31,C1
+ConfBookGenerator,creator.py,Simple Assignment,64,64,4,A1
+ConfBookGenerator,creator.py,Simple Assignment,65,65,4,A1
+ConfBookGenerator,creator.py,Simple Assignment,107,107,4,A1
+ConfBookGenerator,creator.py,Simple Assignment,145,145,4,A1
+ConfBookGenerator,creator.py,Simple Assignment,375,375,4,A1
+ConfBookGenerator,creator.py,Simple Assignment,376,376,4,A1
+ConfBookGenerator,creator.py,Simple Assignment,379,379,4,A1
+ConfBookGenerator,creator.py,Simple Assignment,381,381,4,A1
+ConfBookGenerator,creator.py,Simple Assignment,71,71,8,A1
+ConfBookGenerator,creator.py,Simple Assignment,72,72,8,A1
+ConfBookGenerator,creator.py,Simple Assignment,112,112,8,A1
+ConfBookGenerator,creator.py,Assigment with sum (total = total + 1),113,113,8,A1
+ConfBookGenerator,creator.py,Simple Assignment,126,126,8,A1
+ConfBookGenerator,creator.py,Simple Assignment,129,129,8,A1
+ConfBookGenerator,creator.py,Simple Assignment,130,130,8,A1
+ConfBookGenerator,creator.py,Assigment with sum (total = total + 1),131,131,8,A1
+ConfBookGenerator,creator.py,Simple Assignment,133,133,8,A1
+ConfBookGenerator,creator.py,Simple Assignment,166,166,8,A1
+ConfBookGenerator,creator.py,Simple Assignment,180,180,8,A1
+ConfBookGenerator,creator.py,Simple Assignment,181,181,8,A1
+ConfBookGenerator,creator.py,Simple Assignment,184,185,8,A1
+ConfBookGenerator,creator.py,Simple Assignment,187,187,8,A1
+ConfBookGenerator,creator.py,Simple Assignment,188,188,8,A1
+ConfBookGenerator,creator.py,Simple Assignment,201,201,8,A1
+ConfBookGenerator,creator.py,Simple Assignment,202,202,8,A1
+ConfBookGenerator,creator.py,Simple Assignment,203,204,8,A1
+ConfBookGenerator,creator.py,Simple Assignment,205,206,8,A1
+ConfBookGenerator,creator.py,Assigment with sum (total = total + 1),208,208,8,A1
+ConfBookGenerator,creator.py,Simple Assignment,209,210,8,A1
+ConfBookGenerator,creator.py,Simple Assignment,211,211,8,A1
+ConfBookGenerator,creator.py,Simple Assignment,270,270,8,A1
+ConfBookGenerator,creator.py,Simple Assignment,271,271,8,A1
+ConfBookGenerator,creator.py,Assigment with sum (total = total + 1),272,272,8,A1
+ConfBookGenerator,creator.py,Simple Assignment,273,273,8,A1
+ConfBookGenerator,creator.py,Simple Assignment,277,277,8,A1
+ConfBookGenerator,creator.py,Simple Assignment,285,285,8,A1
+ConfBookGenerator,creator.py,Simple Assignment,291,291,8,A1
+ConfBookGenerator,creator.py,Simple Assignment,292,292,8,A1
+ConfBookGenerator,creator.py,Simple Assignment,293,293,8,A1
+ConfBookGenerator,creator.py,Assigment with sum (total = total + 1),294,294,8,A1
+ConfBookGenerator,creator.py,Simple Assignment,74,74,12,A1
+ConfBookGenerator,creator.py,Simple Assignment,75,75,12,A1
+ConfBookGenerator,creator.py,Assigment with sum (total = total + 1),89,89,12,A1
+ConfBookGenerator,creator.py,Simple Assignment,170,170,12,A1
+ConfBookGenerator,creator.py,Simple Assignment,190,190,12,A1
+ConfBookGenerator,creator.py,Simple Assignment,191,191,12,A1
+ConfBookGenerator,creator.py,Simple Assignment,192,192,12,A1
+ConfBookGenerator,creator.py,Simple Assignment,216,216,12,A1
+ConfBookGenerator,creator.py,Simple Assignment,301,301,12,A1
+ConfBookGenerator,creator.py,Simple Assignment,302,302,12,A1
+ConfBookGenerator,creator.py,Simple Assignment,303,303,12,A1
+ConfBookGenerator,creator.py,Simple Assignment,304,304,12,A1
+ConfBookGenerator,creator.py,Simple Assignment,306,306,12,A1
+ConfBookGenerator,creator.py,Simple Assignment,307,307,12,A1
+ConfBookGenerator,creator.py,Simple Assignment,384,384,12,A1
+ConfBookGenerator,creator.py,Simple Assignment,385,385,12,A1
+ConfBookGenerator,creator.py,Simple Assignment,79,79,16,A1
+ConfBookGenerator,creator.py,Simple Assignment,85,85,16,A1
+ConfBookGenerator,creator.py,Simple Assignment,172,172,12,A1
+ConfBookGenerator,creator.py,Simple Assignment,51,51,20,A1
+ConfBookGenerator,creator.py,Simple Assignment,46,46,24,A1
+ConfBookGenerator,creator.py,Simple Assignment,48,48,24,A1
+ConfBookGenerator,creator.py,Simple Assignment,50,50,24,A1
+ConfBookGenerator,creator.py,Simplified incremental Assignment with increase amount,147,151,4,A2
+ConfBookGenerator,creator.py,Simplified incremental Assignment with increase amount,155,155,4,A2
+ConfBookGenerator,creator.py,Simplified incremental Assignment with increase amount,136,136,8,A2
+ConfBookGenerator,creator.py,Simplified incremental Assignment with increase amount,153,153,8,A2
+ConfBookGenerator,creator.py,Simplified incremental Assignment with increase amount,310,311,12,A2
+ConfBookGenerator,creator.py,Simplified incremental Assignment with increase amount,319,323,12,A2
+ConfBookGenerator,creator.py,Simplified incremental Assignment with increase amount,341,341,12,A2
+ConfBookGenerator,creator.py,Simplified incremental Assignment with increase amount,355,355,12,A2
+ConfBookGenerator,creator.py,Simplified incremental Assignment with increase amount,361,361,12,A2
+ConfBookGenerator,creator.py,Simplified incremental Assignment with increase amount,314,314,16,A2
+ConfBookGenerator,creator.py,Simplified incremental Assignment with increase amount,317,317,16,A2
+ConfBookGenerator,creator.py,Simplified incremental Assignment with increase amount,326,326,16,A2
+ConfBookGenerator,creator.py,Simplified incremental Assignment with increase amount,329,329,16,A2
+ConfBookGenerator,creator.py,Simplified incremental Assignment with increase amount,333,333,16,A2
+ConfBookGenerator,creator.py,Simplified incremental Assignment with increase amount,336,336,16,A2
+ConfBookGenerator,creator.py,Simplified incremental Assignment with increase amount,339,339,16,A2
+ConfBookGenerator,creator.py,Simplified incremental Assignment with increase amount,343,343,16,A2
+ConfBookGenerator,creator.py,Simplified incremental Assignment with increase amount,345,345,16,A2
+ConfBookGenerator,creator.py,Simplified incremental Assignment with increase amount,347,347,16,A2
+ConfBookGenerator,creator.py,Simplified incremental Assignment with increase amount,358,358,16,A2
+ConfBookGenerator,creator.py,Simplified incremental Assignment with increase amount,360,360,16,A2
+ConfBookGenerator,creator.py,Import,13,13,0,A2
+ConfBookGenerator,creator.py,Import,14,14,0,A2
+ConfBookGenerator,creator.py,Import,15,15,0,A2
+ConfBookGenerator,creator.py,Import,19,19,0,A2
+ConfBookGenerator,creator.py,Import,20,20,0,A2
+ConfBookGenerator,creator.py,Import,27,27,0,A2
+ConfBookGenerator,creator.py,Import,169,169,12,A2
+ConfBookGenerator,creator.py,From,16,16,0,A2
+ConfBookGenerator,creator.py,From,17,17,0,A2
+ConfBookGenerator,creator.py,From,22,22,0,A2
+ConfBookGenerator,creator.py,From,23,23,0,A2
+ConfBookGenerator,creator.py,From,24,24,0,A2
+ConfBookGenerator,creator.py,From,25,25,0,A2
+ConfBookGenerator,creator.py,Alias,13,13,7,A1
+ConfBookGenerator,creator.py,Alias,14,14,7,A1
+ConfBookGenerator,creator.py,Alias,15,15,7,A1
+ConfBookGenerator,creator.py,Alias,16,16,19,A1
+ConfBookGenerator,creator.py,Alias,17,17,24,A1
+ConfBookGenerator,creator.py,Alias,19,19,7,A1
+ConfBookGenerator,creator.py,Alias,20,20,7,A1
+ConfBookGenerator,creator.py,Alias,22,22,22,A1
+ConfBookGenerator,creator.py,Alias,23,23,25,A1
+ConfBookGenerator,creator.py,Alias,23,23,33,A1
+ConfBookGenerator,creator.py,Alias,24,24,30,A1
+ConfBookGenerator,creator.py,Alias,25,25,16,A1
+ConfBookGenerator,creator.py,Alias,27,27,7,A1
+ConfBookGenerator,creator.py,Alias,169,169,19,A1
+ConfBookGenerator,creator.py,If statements using → __name__ == ‘__main__’,373,397,0,B2
+ConfBookGenerator,creator.py,Simple If statements,66,68,4,A1
+ConfBookGenerator,creator.py,Simple If statements,108,109,4,A1
+ConfBookGenerator,creator.py,Simple If statements,125,126,4,A1
+ConfBookGenerator,creator.py,Simple If statements,128,133,4,A1
+ConfBookGenerator,creator.py,Simple If statements,135,136,4,A1
+ConfBookGenerator,creator.py,Simple If statements,42,51,8,A1
+ConfBookGenerator,creator.py,Simple If statements,73,91,8,A1
+ConfBookGenerator,creator.py,Simple If statements,182,183,8,A1
+ConfBookGenerator,creator.py,Simple If statements,189,193,8,A1
+ConfBookGenerator,creator.py,Simple If statements,213,221,8,A1
+ConfBookGenerator,creator.py,Simple If statements,78,87,12,A1
+ConfBookGenerator,creator.py,Simple If statements,313,317,12,A1
+ConfBookGenerator,creator.py,Simple If statements,325,326,12,A1
+ConfBookGenerator,creator.py,Simple If statements,328,329,12,A1
+ConfBookGenerator,creator.py,Simple If statements,332,333,12,A1
+ConfBookGenerator,creator.py,Simple If statements,335,336,12,A1
+ConfBookGenerator,creator.py,Simple If statements,338,339,12,A1
+ConfBookGenerator,creator.py,Simple If statements,342,343,12,A1
+ConfBookGenerator,creator.py,Simple If statements,344,345,12,A1
+ConfBookGenerator,creator.py,Simple If statements,346,347,12,A1
+ConfBookGenerator,creator.py,Simple If statements,349,350,12,A1
+ConfBookGenerator,creator.py,Simple If statements,352,353,12,A1
+ConfBookGenerator,creator.py,Simple If statements,357,360,12,A1
+ConfBookGenerator,creator.py,Simple If statements,44,51,16,A1
+ConfBookGenerator,creator.py,Simple If statements,218,221,16,A1
+ConfBookGenerator,creator.py,Simple If statements,280,283,16,A1
+ConfBookGenerator,creator.py,Simple If statements,45,50,20,A1
+ConfBookGenerator,creator.py,Simple If statements,282,283,16,A1
+ConfBookGenerator,creator.py,Simple If statements,47,50,20,A1
+ConfBookGenerator,creator.py,For Loop with Tuple as name,41,51,4,A2
+ConfBookGenerator,creator.py,Simple For Loop,152,153,4,A1
+ConfBookGenerator,creator.py,1 Nested For Loop,278,283,8,A2
+ConfBookGenerator,creator.py,Simple For Loop,298,361,8,A1
+ConfBookGenerator,creator.py,For Loop with 1 List to iterate,43,51,12,A2
+ConfBookGenerator,creator.py,Simple For Loop,217,221,12,A1
+ConfBookGenerator,creator.py,Simple For Loop,279,283,12,A1
+ConfBookGenerator,creator.py,Exception --> try/except,70,97,4,B1
+ConfBookGenerator,creator.py,Exception --> try/except,111,115,4,B1
+ConfBookGenerator,creator.py,Exception --> try/except,393,397,4,B1
+ConfBookGenerator,creator.py,Exception --> try/except,168,172,8,B1
+ConfBookGenerator,creator.py,Exception --> try/except,383,390,8,B1
+ConfBookGenerator,creator.py,With,34,35,4,B1
+ConfBookGenerator,creator.py,With,382,390,4,B1
+ConfBookGenerator,creator.py,Except Handler,93,94,4,A1
+ConfBookGenerator,creator.py,Except Handler,96,97,4,A1
+ConfBookGenerator,creator.py,Except Handler,114,115,4,A1
+ConfBookGenerator,creator.py,Except Handler,396,397,4,A1
+ConfBookGenerator,creator.py,Except Handler,171,172,8,A1
+ConfBookGenerator,creator.py,Except Handler,388,390,8,A1
+ConfBookGenerator,creator.py,Function with Simple argument,30,35,0,A1
+ConfBookGenerator,creator.py,Function with Simple argument,37,52,0,A1
+ConfBookGenerator,creator.py,Function with Simple argument,54,99,0,A1
+ConfBookGenerator,creator.py,Function with Simple argument,101,117,0,A1
+ConfBookGenerator,creator.py,Function with Simple argument,119,138,0,A1
+ConfBookGenerator,creator.py,Function with Simple argument,140,156,0,A1
+ConfBookGenerator,creator.py,Function with Simple argument,163,174,4,A1
+ConfBookGenerator,creator.py,Function with Simple argument,176,194,4,A1
+ConfBookGenerator,creator.py,Function with Simple argument,196,221,4,A1
+ConfBookGenerator,creator.py,Function with Simple argument,263,285,4,A1
+ConfBookGenerator,creator.py,Function with Simple argument,287,370,4,A1
+ConfBookGenerator,creator.py,Return,52,52,4,A1
+ConfBookGenerator,creator.py,Return,99,99,4,A1
+ConfBookGenerator,creator.py,Return,117,117,4,A1
+ConfBookGenerator,creator.py,Return,138,138,4,A1
+ConfBookGenerator,creator.py,Return,156,156,4,A1
+ConfBookGenerator,creator.py,Return,68,68,8,A1
+ConfBookGenerator,creator.py,Return,194,194,8,A1
+ConfBookGenerator,creator.py,Return,370,370,8,A1
+ConfBookGenerator,creator.py,Simple Class ,158,370,0,B1
+ConfBookGenerator,settings.py,Simple List,38,38,9,A1
+ConfBookGenerator,settings.py,Simple Tuple,32,32,13,A1
+ConfBookGenerator,settings.py,Simple Assignment,9,9,0,A1
+ConfBookGenerator,settings.py,Simple Assignment,10,10,0,A1
+ConfBookGenerator,settings.py,Simple Assignment,13,13,0,A1
+ConfBookGenerator,settings.py,Simple Assignment,14,14,0,A1
+ConfBookGenerator,settings.py,Simple Assignment,17,17,0,A1
+ConfBookGenerator,settings.py,Simple Assignment,20,20,0,A1
+ConfBookGenerator,settings.py,Simple Assignment,21,21,0,A1
+ConfBookGenerator,settings.py,Simple Assignment,22,22,0,A1
+ConfBookGenerator,settings.py,Simple Assignment,23,23,0,A1
+ConfBookGenerator,settings.py,Simple Assignment,26,26,0,A1
+ConfBookGenerator,settings.py,Simple Assignment,32,32,0,A1
+ConfBookGenerator,settings.py,Simple Assignment,35,35,0,A1
+ConfBookGenerator,settings.py,Simple Assignment,38,38,0,A1
+ConfBookGenerator,settings.py,Simple Assignment,41,41,0,A1
+ConfBookGenerator,settings.py,Simple Assignment,42,42,0,A1
+ConfBookGenerator,settings.py,Simple Assignment,43,43,0,A1
+ConfBookGenerator,settings.py,Simple Assignment,44,44,0,A1
+ConfBookGenerator,settings.py,Simple Assignment,45,45,0,A1
+pycvsanaly2,BzrParser.py,Simple Tuple,32,40,4,A1
+pycvsanaly2,BzrParser.py,Simple Dictionary,42,42,15,A2
+pycvsanaly2,BzrParser.py,Starred,123,123,49,A1
+pycvsanaly2,BzrParser.py,'range' call function,40,40,8,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,43,43,25,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,44,44,28,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,45,45,25,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,46,46,23,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,48,48,26,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,49,49,24,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,50,50,27,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,51,51,26,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,52,52,26,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,53,53,28,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,54,54,25,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,60,60,8,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,60,60,21,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,61,61,8,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,68,68,8,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,69,69,8,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,69,69,21,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,57,57,8,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,64,64,11,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,67,67,8,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,67,67,28,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,76,76,16,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,83,83,16,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,85,85,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,85,85,25,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,90,90,16,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,93,93,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,94,94,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,96,96,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,96,96,25,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,101,101,16,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,103,103,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,104,104,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,105,105,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,111,111,16,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,113,113,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,114,114,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,115,115,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,121,121,16,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,123,123,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,130,130,16,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,132,132,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,132,132,25,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,137,137,16,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,139,139,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,139,139,25,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,144,144,16,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,146,146,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,146,146,25,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,151,151,16,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,153,153,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,153,153,25,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,158,158,16,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,160,160,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,160,160,25,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,164,164,11,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,164,164,25,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,165,165,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,67,67,8,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,78,78,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,92,92,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,94,94,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,94,94,35,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,103,103,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,104,104,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,104,104,41,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,105,105,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,105,105,42,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,106,106,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,106,106,35,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,113,113,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,114,114,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,114,114,38,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,115,115,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,115,115,39,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,116,116,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,116,116,32,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,123,123,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,123,123,31,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,165,165,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,176,176,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,76,76,16,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,83,83,16,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,90,90,16,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,101,101,16,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,104,104,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,105,105,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,106,106,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,106,106,35,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,111,111,16,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,114,114,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,115,115,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,116,116,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,116,116,32,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,121,121,16,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,130,130,16,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,137,137,16,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,144,144,16,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,151,151,16,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,158,158,16,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,165,165,35,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,166,166,13,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,166,166,27,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,167,167,16,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,167,167,30,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,168,168,16,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,168,168,30,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,170,170,15,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,170,170,29,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,171,171,16,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,176,176,24,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,178,178,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,179,179,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,179,179,30,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,180,180,13,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,180,180,27,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,186,186,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,187,187,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,188,188,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,193,193,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,193,193,25,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,172,172,17,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,172,172,31,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,173,173,16,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,178,178,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,179,179,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,181,181,16,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,187,187,24,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,188,188,24,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,190,190,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,191,191,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,191,191,30,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,123,123,51,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,174,174,17,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,174,174,31,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,175,175,16,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,178,178,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,190,190,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,191,191,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,123,123,65,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,181,181,16,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,190,190,12,A2
+pycvsanaly2,BzrParser.py,Simple Atributte,123,123,65,A2
+pycvsanaly2,BzrParser.py,Unary Operation,182,182,15,A1
+pycvsanaly2,BzrParser.py,Boolean Operation,72,72,11,A1
+pycvsanaly2,BzrParser.py,Boolean Operation,166,168,13,A1
+pycvsanaly2,BzrParser.py,Subscript,43,43,4,A1
+pycvsanaly2,BzrParser.py,Subscript,44,44,4,A1
+pycvsanaly2,BzrParser.py,Subscript,45,45,4,A1
+pycvsanaly2,BzrParser.py,Subscript,46,46,4,A1
+pycvsanaly2,BzrParser.py,Subscript,48,48,4,A1
+pycvsanaly2,BzrParser.py,Subscript,49,49,4,A1
+pycvsanaly2,BzrParser.py,Subscript,50,50,4,A1
+pycvsanaly2,BzrParser.py,Subscript,51,51,4,A1
+pycvsanaly2,BzrParser.py,Subscript,52,52,4,A1
+pycvsanaly2,BzrParser.py,Subscript,53,53,4,A1
+pycvsanaly2,BzrParser.py,Subscript,54,54,4,A1
+pycvsanaly2,BzrParser.py,Subscript,76,76,16,A1
+pycvsanaly2,BzrParser.py,Subscript,83,83,16,A1
+pycvsanaly2,BzrParser.py,Subscript,90,90,16,A1
+pycvsanaly2,BzrParser.py,Subscript,101,101,16,A1
+pycvsanaly2,BzrParser.py,Subscript,111,111,16,A1
+pycvsanaly2,BzrParser.py,Subscript,121,121,16,A1
+pycvsanaly2,BzrParser.py,Subscript,130,130,16,A1
+pycvsanaly2,BzrParser.py,Subscript,137,137,16,A1
+pycvsanaly2,BzrParser.py,Subscript,144,144,16,A1
+pycvsanaly2,BzrParser.py,Subscript,151,151,16,A1
+pycvsanaly2,BzrParser.py,Subscript,158,158,16,A1
+pycvsanaly2,BzrParser.py,Subscript,123,123,51,A1
+pycvsanaly2,BzrParser.py,Slice,123,123,113,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,32,40,4,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,42,42,4,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,43,43,4,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,44,44,4,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,45,45,4,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,46,47,4,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,48,48,4,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,49,49,4,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,50,50,4,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,51,51,4,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,52,52,4,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,53,53,4,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,54,54,4,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,60,60,8,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,61,61,8,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,68,68,8,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,69,69,8,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,76,76,8,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,83,83,8,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,90,90,8,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,101,101,8,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,111,111,8,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,121,121,8,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,130,130,8,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,137,137,8,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,144,144,8,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,151,151,8,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,158,158,8,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,85,85,12,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,93,93,12,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,94,94,12,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,96,96,12,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,103,103,12,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,104,104,12,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,105,105,12,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,113,113,12,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,114,114,12,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,115,115,12,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,123,123,12,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,132,132,12,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,139,139,12,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,146,146,12,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,153,153,12,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,160,160,12,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,169,169,12,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,176,176,12,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,171,171,16,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,181,181,12,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,185,185,12,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,186,186,12,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,187,187,12,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,188,188,12,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,193,193,12,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,173,173,16,A1
+pycvsanaly2,BzrParser.py,Simple Assignment,175,175,16,A1
+pycvsanaly2,BzrParser.py,Simplified incremental Assignment with increase amount,165,165,12,A2
+pycvsanaly2,BzrParser.py,Import're' module,20,20,0,C1
+pycvsanaly2,BzrParser.py,Import,21,21,0,A2
+pycvsanaly2,BzrParser.py,Import,22,22,0,A2
+pycvsanaly2,BzrParser.py,From,24,24,0,A2
+pycvsanaly2,BzrParser.py,From,25,25,0,A2
+pycvsanaly2,BzrParser.py,Alias,20,20,7,A1
+pycvsanaly2,BzrParser.py,Alias,21,21,7,A1
+pycvsanaly2,BzrParser.py,Alias,22,22,7,A1
+pycvsanaly2,BzrParser.py,Alias,24,24,19,A1
+pycvsanaly2,BzrParser.py,Alias,25,25,23,A1
+pycvsanaly2,BzrParser.py,Alias,25,25,31,A1
+pycvsanaly2,BzrParser.py,Alias,25,25,39,A1
+pycvsanaly2,BzrParser.py,Simple If statements,64,65,8,A1
+pycvsanaly2,BzrParser.py,Simple If statements,72,73,8,A1
+pycvsanaly2,BzrParser.py,Simple If statements,77,80,8,A1
+pycvsanaly2,BzrParser.py,Simple If statements,84,87,8,A1
+pycvsanaly2,BzrParser.py,Simple If statements,91,98,8,A1
+pycvsanaly2,BzrParser.py,Simple If statements,102,108,8,A1
+pycvsanaly2,BzrParser.py,Simple If statements,112,118,8,A1
+pycvsanaly2,BzrParser.py,Simple If statements,122,127,8,A1
+pycvsanaly2,BzrParser.py,Simple If statements,131,134,8,A1
+pycvsanaly2,BzrParser.py,Simple If statements,138,141,8,A1
+pycvsanaly2,BzrParser.py,Simple If statements,145,148,8,A1
+pycvsanaly2,BzrParser.py,Simple If statements,152,155,8,A1
+pycvsanaly2,BzrParser.py,Simple If statements,159,162,8,A1
+pycvsanaly2,BzrParser.py,Simple If statements,164,193,8,A1
+pycvsanaly2,BzrParser.py,Simple If statements,166,193,8,A1
+pycvsanaly2,BzrParser.py,Simple If statements,170,175,12,A1
+pycvsanaly2,BzrParser.py,Simple If statements,180,193,8,A1
+pycvsanaly2,BzrParser.py,Simple If statements,172,175,12,A1
+pycvsanaly2,BzrParser.py,Simple If statements,182,183,12,A1
+pycvsanaly2,BzrParser.py,Simple If statements,174,175,12,A1
+pycvsanaly2,BzrParser.py,Function with Simple argument,56,61,4,A1
+pycvsanaly2,BzrParser.py,Function with Simple argument,63,69,4,A1
+pycvsanaly2,BzrParser.py,Function with Simple argument,71,193,4,A1
+pycvsanaly2,BzrParser.py,Return,65,65,12,A1
+pycvsanaly2,BzrParser.py,Return,73,73,12,A1
+pycvsanaly2,BzrParser.py,Return,80,80,12,A1
+pycvsanaly2,BzrParser.py,Return,87,87,12,A1
+pycvsanaly2,BzrParser.py,Return,98,98,12,A1
+pycvsanaly2,BzrParser.py,Return,108,108,12,A1
+pycvsanaly2,BzrParser.py,Return,118,118,12,A1
+pycvsanaly2,BzrParser.py,Return,127,127,12,A1
+pycvsanaly2,BzrParser.py,Return,134,134,12,A1
+pycvsanaly2,BzrParser.py,Return,141,141,12,A1
+pycvsanaly2,BzrParser.py,Return,148,148,12,A1
+pycvsanaly2,BzrParser.py,Return,155,155,12,A1
+pycvsanaly2,BzrParser.py,Return,162,162,12,A1
+pycvsanaly2,BzrParser.py,Return,183,183,16,A1
+pycvsanaly2,BzrParser.py,Inherited Class from Parser,31,193,0,B1
+pycvsanaly2,CVSParser.py,Simple List,160,160,43,A1
+pycvsanaly2,CVSParser.py,Simple Tuple,175,175,40,A1
+pycvsanaly2,CVSParser.py,Simple Tuple,201,201,46,A1
+pycvsanaly2,CVSParser.py,Simple Tuple,203,203,46,A1
+pycvsanaly2,CVSParser.py,Simple Dictionary,33,33,15,A2
+pycvsanaly2,CVSParser.py,Simple Dictionary,49,49,21,A2
+pycvsanaly2,CVSParser.py,Simple Dictionary,135,135,28,A2
+pycvsanaly2,CVSParser.py,Simple Dictionary,136,136,24,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,31,31,20,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,34,34,23,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,35,35,27,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,37,37,8,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,39,39,27,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,40,40,25,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,41,41,22,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,42,42,32,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,43,43,33,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,48,48,8,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,49,49,8,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,52,52,8,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,53,53,8,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,54,54,8,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,55,55,8,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,56,56,8,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,57,57,8,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,58,58,8,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,86,86,15,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,46,46,8,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,61,61,8,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,63,63,14,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,64,64,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,66,66,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,68,68,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,71,71,11,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,73,73,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,76,76,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,79,79,8,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,80,80,11,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,82,82,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,83,83,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,103,103,11,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,114,114,11,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,125,125,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,133,133,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,135,135,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,136,136,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,137,137,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,138,138,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,143,143,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,150,150,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,165,165,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,174,174,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,175,175,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,176,176,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,177,177,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,179,179,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,184,184,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,186,186,21,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,193,193,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,194,194,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,197,197,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,215,215,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,215,215,24,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,231,231,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,238,238,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,255,255,11,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,266,266,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,73,73,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,73,73,34,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,75,75,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,75,75,32,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,81,81,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,81,81,30,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,90,90,15,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,93,93,15,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,94,94,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,106,106,15,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,107,107,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,109,109,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,117,117,15,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,118,118,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,120,120,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,127,127,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,129,129,19,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,145,145,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,145,145,61,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,152,152,23,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,160,160,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,166,166,21,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,167,167,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,169,169,23,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,176,176,26,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,185,185,21,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,190,190,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,194,194,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,194,194,36,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,195,195,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,195,195,35,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,197,197,26,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,206,206,18,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,208,208,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,209,209,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,210,210,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,233,233,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,240,240,15,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,243,243,21,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,247,247,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,250,250,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,256,256,15,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,259,259,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,260,260,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,261,261,15,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,264,264,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,265,265,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,266,266,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,73,73,34,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,75,75,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,81,81,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,95,95,17,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,96,96,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,103,103,11,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,114,114,11,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,125,125,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,143,143,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,150,150,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,160,160,54,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,165,165,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,175,175,51,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,176,176,26,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,184,184,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,188,188,23,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,195,195,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,200,200,15,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,201,201,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,201,201,27,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,203,203,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,203,203,27,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,209,209,28,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,210,210,34,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,212,212,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,214,214,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,219,219,27,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,221,221,25,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,222,222,19,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,225,225,20,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,226,226,20,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,233,233,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,238,238,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,243,243,21,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,244,244,23,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,245,245,15,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,247,247,44,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,259,259,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,259,259,39,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,264,264,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,264,264,39,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,97,97,17,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,98,98,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,130,130,28,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,131,131,25,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,145,145,26,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,145,145,43,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,160,160,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,188,188,23,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,197,197,48,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,197,197,69,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,197,197,90,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,198,198,48,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,198,198,69,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,198,198,90,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,209,209,28,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,210,210,34,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,223,223,24,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,244,244,23,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,97,97,17,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,98,98,16,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,160,160,12,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,201,201,51,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,201,201,73,A2
+pycvsanaly2,CVSParser.py,Simple Atributte,244,244,23,A2
+pycvsanaly2,CVSParser.py,Unary Operation,89,89,11,A1
+pycvsanaly2,CVSParser.py,Unary Operation,73,73,55,A1
+pycvsanaly2,CVSParser.py,Boolean Operation,166,166,11,A1
+pycvsanaly2,CVSParser.py,Boolean Operation,185,185,11,A1
+pycvsanaly2,CVSParser.py,Boolean Operation,245,245,15,A1
+pycvsanaly2,CVSParser.py,Boolean Operation,222,224,19,A1
+pycvsanaly2,CVSParser.py,Subscript,34,34,4,A1
+pycvsanaly2,CVSParser.py,Subscript,35,35,4,A1
+pycvsanaly2,CVSParser.py,Subscript,36,36,4,A1
+pycvsanaly2,CVSParser.py,Subscript,39,39,4,A1
+pycvsanaly2,CVSParser.py,Subscript,40,40,4,A1
+pycvsanaly2,CVSParser.py,Subscript,41,41,4,A1
+pycvsanaly2,CVSParser.py,Subscript,42,42,4,A1
+pycvsanaly2,CVSParser.py,Subscript,43,43,4,A1
+pycvsanaly2,CVSParser.py,Subscript,66,66,29,A1
+pycvsanaly2,CVSParser.py,Subscript,73,73,34,A1
+pycvsanaly2,CVSParser.py,Subscript,130,130,19,A1
+pycvsanaly2,CVSParser.py,Subscript,131,131,19,A1
+pycvsanaly2,CVSParser.py,Subscript,145,145,12,A1
+pycvsanaly2,CVSParser.py,Subscript,188,188,23,A1
+pycvsanaly2,CVSParser.py,Subscript,243,243,21,A1
+pycvsanaly2,CVSParser.py,Subscript,244,244,23,A1
+pycvsanaly2,CVSParser.py,Subscript,103,103,11,A1
+pycvsanaly2,CVSParser.py,Subscript,114,114,11,A1
+pycvsanaly2,CVSParser.py,Subscript,125,125,16,A1
+pycvsanaly2,CVSParser.py,Subscript,143,143,16,A1
+pycvsanaly2,CVSParser.py,Subscript,150,150,16,A1
+pycvsanaly2,CVSParser.py,Subscript,165,165,16,A1
+pycvsanaly2,CVSParser.py,Subscript,184,184,16,A1
+pycvsanaly2,CVSParser.py,Subscript,201,201,16,A1
+pycvsanaly2,CVSParser.py,Subscript,203,203,16,A1
+pycvsanaly2,CVSParser.py,Subscript,220,220,25,A1
+pycvsanaly2,CVSParser.py,Subscript,221,221,25,A1
+pycvsanaly2,CVSParser.py,Subscript,238,238,16,A1
+pycvsanaly2,CVSParser.py,Subscript,224,224,24,A1
+pycvsanaly2,CVSParser.py,Slice,66,66,33,A1
+pycvsanaly2,CVSParser.py,Slice,73,73,54,A1
+pycvsanaly2,CVSParser.py,Slice,130,130,24,A1
+pycvsanaly2,CVSParser.py,Slice,131,131,24,A1
+pycvsanaly2,CVSParser.py,Slice,220,220,34,A1
+pycvsanaly2,CVSParser.py,Slice,224,224,33,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,31,31,4,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,33,33,4,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,34,34,4,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,35,35,4,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,36,38,4,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,39,39,4,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,40,40,4,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,41,41,4,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,42,42,4,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,43,43,4,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,48,48,8,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,49,49,8,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,52,52,8,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,53,53,8,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,54,54,8,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,55,55,8,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,56,56,8,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,57,57,8,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,58,58,8,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,63,63,8,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,64,64,8,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,125,125,8,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,143,143,8,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,150,150,8,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,165,165,8,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,184,184,8,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,238,238,8,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,66,66,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,68,68,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,73,73,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,76,76,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,82,82,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,83,83,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,129,129,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,130,130,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,131,131,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,133,133,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,135,135,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,136,136,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,137,137,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,138,138,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,145,145,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,152,152,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,169,169,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,171,171,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,174,174,12,A1
+pycvsanaly2,CVSParser.py,Assigment with sum (total = total + 1),175,175,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,176,176,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,177,177,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,179,179,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,186,186,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,188,188,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,193,193,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,194,194,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,197,198,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,205,205,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,206,206,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,215,215,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,231,231,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,243,243,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,244,244,12,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,107,107,16,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,118,118,16,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,158,158,16,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,190,190,16,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,201,201,16,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,203,203,16,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,208,208,16,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,209,209,16,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,210,210,16,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,219,219,16,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,220,220,16,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,221,221,16,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,247,247,16,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,250,250,16,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,260,260,16,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,265,265,16,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,212,212,16,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,214,214,16,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,225,225,20,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,226,226,20,A1
+pycvsanaly2,CVSParser.py,Simple Assignment,229,229,16,A1
+pycvsanaly2,CVSParser.py,Simplified incremental Assignment with increase amount,266,266,12,A2
+pycvsanaly2,CVSParser.py,Simplified incremental Assignment with increase amount,94,94,16,A2
+pycvsanaly2,CVSParser.py,Simplified incremental Assignment with increase amount,109,109,16,A2
+pycvsanaly2,CVSParser.py,Simplified incremental Assignment with increase amount,120,120,16,A2
+pycvsanaly2,CVSParser.py,Simplified incremental Assignment with increase amount,259,259,16,A2
+pycvsanaly2,CVSParser.py,Simplified incremental Assignment with increase amount,264,264,16,A2
+pycvsanaly2,CVSParser.py,Simplified incremental Assignment with increase amount,96,96,16,A2
+pycvsanaly2,CVSParser.py,Simplified incremental Assignment with increase amount,98,98,16,A2
+pycvsanaly2,CVSParser.py,Import're' module,22,22,0,C1
+pycvsanaly2,CVSParser.py,Import,23,23,0,A2
+pycvsanaly2,CVSParser.py,From,25,25,0,A2
+pycvsanaly2,CVSParser.py,From,26,26,0,A2
+pycvsanaly2,CVSParser.py,From,27,27,0,A2
+pycvsanaly2,CVSParser.py,Alias,22,22,7,A1
+pycvsanaly2,CVSParser.py,Alias,23,23,7,A1
+pycvsanaly2,CVSParser.py,Alias,25,25,19,A1
+pycvsanaly2,CVSParser.py,Alias,26,26,27,A1
+pycvsanaly2,CVSParser.py,Alias,27,27,23,A1
+pycvsanaly2,CVSParser.py,Alias,27,27,31,A1
+pycvsanaly2,CVSParser.py,Alias,27,27,39,A1
+pycvsanaly2,CVSParser.py,Simple If statements,65,68,8,A1
+pycvsanaly2,CVSParser.py,Simple If statements,71,76,8,A1
+pycvsanaly2,CVSParser.py,Simple If statements,80,83,8,A1
+pycvsanaly2,CVSParser.py,Simple If statements,89,100,8,A1
+pycvsanaly2,CVSParser.py,Simple If statements,103,111,8,A1
+pycvsanaly2,CVSParser.py,Simple If statements,114,122,8,A1
+pycvsanaly2,CVSParser.py,Simple If statements,126,140,8,A1
+pycvsanaly2,CVSParser.py,Simple If statements,144,147,8,A1
+pycvsanaly2,CVSParser.py,Simple If statements,151,162,8,A1
+pycvsanaly2,CVSParser.py,Simple If statements,166,181,8,A1
+pycvsanaly2,CVSParser.py,Simple If statements,185,235,8,A1
+pycvsanaly2,CVSParser.py,Simple If statements,239,252,8,A1
+pycvsanaly2,CVSParser.py,Simple If statements,255,266,8,A1
+pycvsanaly2,CVSParser.py,Simple If statements,90,91,12,A1
+pycvsanaly2,CVSParser.py,Simple If statements,93,98,12,A1
+pycvsanaly2,CVSParser.py,Simple If statements,106,109,12,A1
+pycvsanaly2,CVSParser.py,Simple If statements,117,120,12,A1
+pycvsanaly2,CVSParser.py,Simple If statements,157,158,12,A1
+pycvsanaly2,CVSParser.py,Simple If statements,189,191,12,A1
+pycvsanaly2,CVSParser.py,Simple If statements,200,203,12,A1
+pycvsanaly2,CVSParser.py,Simple If statements,207,214,12,A1
+pycvsanaly2,CVSParser.py,Simple If statements,240,241,12,A1
+pycvsanaly2,CVSParser.py,Simple If statements,245,250,12,A1
+pycvsanaly2,CVSParser.py,Simple If statements,256,260,12,A1
+pycvsanaly2,CVSParser.py,Simple If statements,261,265,12,A1
+pycvsanaly2,CVSParser.py,Simple If statements,95,98,12,A1
+pycvsanaly2,CVSParser.py,Simple If statements,211,214,12,A1
+pycvsanaly2,CVSParser.py,Simple If statements,222,226,16,A1
+pycvsanaly2,CVSParser.py,Simple If statements,97,98,12,A1
+pycvsanaly2,CVSParser.py,Exception --> try/except,218,229,12,B1
+pycvsanaly2,CVSParser.py,Except Handler,228,229,12,A1
+pycvsanaly2,CVSParser.py,Function with Simple argument,45,58,4,A1
+pycvsanaly2,CVSParser.py,Function with Simple argument,60,68,4,A1
+pycvsanaly2,CVSParser.py,Function with Simple argument,70,76,4,A1
+pycvsanaly2,CVSParser.py,Function with Simple argument,78,83,4,A1
+pycvsanaly2,CVSParser.py,Function with Simple argument,85,86,4,A1
+pycvsanaly2,CVSParser.py,Function with Simple argument,88,266,4,A1
+pycvsanaly2,CVSParser.py,Return,86,86,8,A1
+pycvsanaly2,CVSParser.py,Return,100,100,12,A1
+pycvsanaly2,CVSParser.py,Return,111,111,12,A1
+pycvsanaly2,CVSParser.py,Return,122,122,12,A1
+pycvsanaly2,CVSParser.py,Return,140,140,12,A1
+pycvsanaly2,CVSParser.py,Return,147,147,12,A1
+pycvsanaly2,CVSParser.py,Return,162,162,12,A1
+pycvsanaly2,CVSParser.py,Return,181,181,12,A1
+pycvsanaly2,CVSParser.py,Return,235,235,12,A1
+pycvsanaly2,CVSParser.py,Return,252,252,12,A1
+pycvsanaly2,CVSParser.py,Return,91,91,16,A1
+pycvsanaly2,CVSParser.py,Return,191,191,16,A1
+pycvsanaly2,CVSParser.py,Return,241,241,16,A1
+pycvsanaly2,CVSParser.py,Inherited Class from Parser,30,266,0,B1
+pycvsanaly2,profile.py,Simple Tuple,31,31,27,A1
+pycvsanaly2,profile.py,Simple Tuple,67,67,36,A1
+pycvsanaly2,profile.py,Simple Tuple,81,81,64,A1
+pycvsanaly2,profile.py,Simple Tuple,83,83,63,A1
+pycvsanaly2,profile.py,Simple Tuple,86,86,55,A1
+pycvsanaly2,profile.py,Simple Dictionary,46,46,21,A2
+pycvsanaly2,profile.py,Files --> 'write' call function,68,68,4,A2
+pycvsanaly2,profile.py,'range' call function,85,85,13,A2
+pycvsanaly2,profile.py,Simple Atributte,63,63,14,A2
+pycvsanaly2,profile.py,Simple Atributte,78,78,4,A2
+pycvsanaly2,profile.py,Simple Atributte,28,28,11,A2
+pycvsanaly2,profile.py,Simple Atributte,32,32,4,A2
+pycvsanaly2,profile.py,Simple Atributte,32,32,19,A2
+pycvsanaly2,profile.py,Simple Atributte,36,36,11,A2
+pycvsanaly2,profile.py,Simple Atributte,42,42,9,A2
+pycvsanaly2,profile.py,Simple Atributte,44,44,18,A2
+pycvsanaly2,profile.py,Simple Atributte,56,56,11,A2
+pycvsanaly2,profile.py,Simple Atributte,62,62,9,A2
+pycvsanaly2,profile.py,Simple Atributte,65,65,4,A2
+pycvsanaly2,profile.py,Simple Atributte,68,68,4,A2
+pycvsanaly2,profile.py,Simple Atributte,69,69,4,A2
+pycvsanaly2,profile.py,Simple Atributte,90,90,4,A2
+pycvsanaly2,profile.py,Simple Atributte,46,46,8,A2
+pycvsanaly2,profile.py,Simple Atributte,47,47,18,A2
+pycvsanaly2,profile.py,Simple Atributte,50,50,8,A2
+pycvsanaly2,profile.py,Simple Atributte,68,68,4,A2
+pycvsanaly2,profile.py,Simple Atributte,69,69,4,A2
+pycvsanaly2,profile.py,Simple Atributte,82,82,8,A2
+pycvsanaly2,profile.py,Simple Atributte,86,86,17,A2
+pycvsanaly2,profile.py,Simple Atributte,87,87,8,A2
+pycvsanaly2,profile.py,Simple Atributte,88,88,8,A2
+pycvsanaly2,profile.py,Simple Atributte,67,67,42,A2
+pycvsanaly2,profile.py,Unary Operation,28,28,7,A1
+pycvsanaly2,profile.py,Unary Operation,36,36,7,A1
+pycvsanaly2,profile.py,Unary Operation,56,56,7,A1
+pycvsanaly2,profile.py,Subscript,64,64,8,A1
+pycvsanaly2,profile.py,Subscript,52,52,8,A1
+pycvsanaly2,profile.py,Subscript,72,72,12,A1
+pycvsanaly2,profile.py,Subscript,50,50,8,A1
+pycvsanaly2,profile.py,Simple Assignment,24,24,0,A1
+pycvsanaly2,profile.py,Assigment with sum (total = total + 1),31,31,4,A1
+pycvsanaly2,profile.py,Simple Assignment,42,42,4,A1
+pycvsanaly2,profile.py,Simple Assignment,62,62,4,A1
+pycvsanaly2,profile.py,Simple Assignment,63,63,4,A1
+pycvsanaly2,profile.py,Simple Assignment,64,64,4,A1
+pycvsanaly2,profile.py,Assigment with sum (total = total + 1),67,67,4,A1
+pycvsanaly2,profile.py,Simple Assignment,78,78,4,A1
+pycvsanaly2,profile.py,Assigment with sum (total = total + 1),40,40,8,A1
+pycvsanaly2,profile.py,Simple Assignment,44,44,8,A1
+pycvsanaly2,profile.py,Simple Assignment,52,52,8,A1
+pycvsanaly2,profile.py,Assigment with sum (total = total + 1),60,60,8,A1
+pycvsanaly2,profile.py,Simple Assignment,86,86,8,A1
+pycvsanaly2,profile.py,Simple Assignment,46,46,8,A1
+pycvsanaly2,profile.py,Simple Assignment,47,47,8,A1
+pycvsanaly2,profile.py,Delete,72,72,8,A1
+pycvsanaly2,profile.py,Import,17,17,0,A2
+pycvsanaly2,profile.py,Import,18,18,0,A2
+pycvsanaly2,profile.py,Import,19,19,0,A2
+pycvsanaly2,profile.py,Import,76,76,4,A2
+pycvsanaly2,profile.py,From,21,21,0,A2
+pycvsanaly2,profile.py,From,22,22,0,A2
+pycvsanaly2,profile.py,Alias,17,17,7,A1
+pycvsanaly2,profile.py,Alias,18,18,7,A1
+pycvsanaly2,profile.py,Alias,19,19,7,A1
+pycvsanaly2,profile.py,Alias,21,21,18,A1
+pycvsanaly2,profile.py,Alias,22,22,19,A1
+pycvsanaly2,profile.py,Alias,76,76,11,A1
+pycvsanaly2,profile.py,If statements using → __name__ == ‘__main__’,75,90,0,B2
+pycvsanaly2,profile.py,Simple If statements,28,29,4,A1
+pycvsanaly2,profile.py,Simple If statements,36,37,4,A1
+pycvsanaly2,profile.py,Simple If statements,39,40,4,A1
+pycvsanaly2,profile.py,Simple If statements,49,52,4,A1
+pycvsanaly2,profile.py,Simple If statements,56,57,4,A1
+pycvsanaly2,profile.py,Simple If statements,59,60,4,A1
+pycvsanaly2,profile.py,Simple If statements,71,72,4,A1
+pycvsanaly2,profile.py,Simple For Loop,85,88,4,A1
+pycvsanaly2,profile.py,Exception --> try/except,43,47,4,B1
+pycvsanaly2,profile.py,Except Handler,45,47,4,A1
+pycvsanaly2,profile.py,Function with Simple argument,27,32,0,A1
+pycvsanaly2,profile.py,Function with Simple argument with Default argument,35,52,0,A2
+pycvsanaly2,profile.py,Function with Simple argument with Default argument,55,72,0,A2
+pycvsanaly2,profile.py,Function with Simple argument,80,83,4,A1
+pycvsanaly2,profile.py,Return,29,29,8,A1
+pycvsanaly2,profile.py,Return,37,37,8,A1
+pycvsanaly2,profile.py,Return,57,57,8,A1
+pycvsanaly2,GitParser.py,Simple List,83,83,25,A1
+pycvsanaly2,GitParser.py,Simple List,94,94,24,A1
+pycvsanaly2,GitParser.py,Simple List,158,158,39,A1
+pycvsanaly2,GitParser.py,Simple List,210,210,39,A1
+pycvsanaly2,GitParser.py,Simple Tuple,42,42,8,A1
+pycvsanaly2,GitParser.py,Simple Tuple,189,189,20,A1
+pycvsanaly2,GitParser.py,Simple Tuple,163,163,67,A1
+pycvsanaly2,GitParser.py,Simple Tuple,204,206,88,A1
+pycvsanaly2,GitParser.py,Simple Tuple,315,315,72,A1
+pycvsanaly2,GitParser.py,Simple Tuple,138,138,63,A1
+pycvsanaly2,GitParser.py,Simple Tuple,159,159,57,A1
+pycvsanaly2,GitParser.py,Simple Tuple,180,180,24,A1
+pycvsanaly2,GitParser.py,Simple Tuple,144,144,67,A1
+pycvsanaly2,GitParser.py,Simple Tuple,197,197,33,A1
+pycvsanaly2,GitParser.py,Simple Tuple,147,147,69,A1
+pycvsanaly2,GitParser.py,Simple Tuple,154,154,59,A1
+pycvsanaly2,GitParser.py,Simple Dictionary,59,59,15,A2
+pycvsanaly2,GitParser.py,Starred,248,248,16,A1
+pycvsanaly2,GitParser.py,Starred,261,261,16,A1
+pycvsanaly2,GitParser.py,'range' call function,42,42,33,A2
+pycvsanaly2,GitParser.py,'enumerate' call function,189,189,28,C2
+pycvsanaly2,GitParser.py,Simple Atributte,61,61,25,A2
+pycvsanaly2,GitParser.py,Simple Atributte,64,64,25,A2
+pycvsanaly2,GitParser.py,Simple Atributte,67,67,30,A2
+pycvsanaly2,GitParser.py,Simple Atributte,71,71,28,A2
+pycvsanaly2,GitParser.py,Simple Atributte,74,74,23,A2
+pycvsanaly2,GitParser.py,Simple Atributte,77,77,23,A2
+pycvsanaly2,GitParser.py,Simple Atributte,78,78,29,A2
+pycvsanaly2,GitParser.py,Simple Atributte,79,79,25,A2
+pycvsanaly2,GitParser.py,Simple Atributte,80,80,31,A2
+pycvsanaly2,GitParser.py,Simple Atributte,81,81,22,A2
+pycvsanaly2,GitParser.py,Simple Atributte,82,82,24,A2
+pycvsanaly2,GitParser.py,Simple Atributte,84,84,26,A2
+pycvsanaly2,GitParser.py,Simple Atributte,89,89,8,A2
+pycvsanaly2,GitParser.py,Simple Atributte,92,92,8,A2
+pycvsanaly2,GitParser.py,Simple Atributte,93,93,8,A2
+pycvsanaly2,GitParser.py,Simple Atributte,94,94,8,A2
+pycvsanaly2,GitParser.py,Simple Atributte,98,98,8,A2
+pycvsanaly2,GitParser.py,Simple Atributte,101,101,11,A2
+pycvsanaly2,GitParser.py,Simple Atributte,312,312,11,A2
+pycvsanaly2,GitParser.py,Simple Atributte,323,323,8,A2
+pycvsanaly2,GitParser.py,Simple Atributte,33,33,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,34,34,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,35,35,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,45,45,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,46,46,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,56,56,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,57,57,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,57,57,38,A2
+pycvsanaly2,GitParser.py,Simple Atributte,83,83,26,A2
+pycvsanaly2,GitParser.py,Simple Atributte,87,87,8,A2
+pycvsanaly2,GitParser.py,Simple Atributte,97,97,8,A2
+pycvsanaly2,GitParser.py,Simple Atributte,103,103,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,104,104,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,111,111,20,A2
+pycvsanaly2,GitParser.py,Simple Atributte,116,116,16,A2
+pycvsanaly2,GitParser.py,Simple Atributte,122,122,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,123,123,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,227,227,16,A2
+pycvsanaly2,GitParser.py,Simple Atributte,229,229,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,230,230,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,231,231,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,236,236,16,A2
+pycvsanaly2,GitParser.py,Simple Atributte,238,238,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,239,239,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,240,240,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,245,245,16,A2
+pycvsanaly2,GitParser.py,Simple Atributte,247,247,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,254,254,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,258,258,16,A2
+pycvsanaly2,GitParser.py,Simple Atributte,260,260,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,267,267,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,271,271,16,A2
+pycvsanaly2,GitParser.py,Simple Atributte,283,283,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,284,284,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,291,291,16,A2
+pycvsanaly2,GitParser.py,Simple Atributte,299,299,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,300,300,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,301,301,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,301,301,25,A2
+pycvsanaly2,GitParser.py,Simple Atributte,323,323,8,A2
+pycvsanaly2,GitParser.py,Simple Atributte,38,38,19,A2
+pycvsanaly2,GitParser.py,Simple Atributte,47,47,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,50,50,19,A2
+pycvsanaly2,GitParser.py,Simple Atributte,50,50,42,A2
+pycvsanaly2,GitParser.py,Simple Atributte,53,53,19,A2
+pycvsanaly2,GitParser.py,Simple Atributte,53,53,32,A2
+pycvsanaly2,GitParser.py,Simple Atributte,57,57,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,98,98,24,A2
+pycvsanaly2,GitParser.py,Simple Atributte,102,102,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,102,102,32,A2
+pycvsanaly2,GitParser.py,Simple Atributte,112,112,15,A2
+pycvsanaly2,GitParser.py,Simple Atributte,123,123,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,123,123,35,A2
+pycvsanaly2,GitParser.py,Simple Atributte,125,125,22,A2
+pycvsanaly2,GitParser.py,Simple Atributte,128,128,16,A2
+pycvsanaly2,GitParser.py,Simple Atributte,129,129,25,A2
+pycvsanaly2,GitParser.py,Simple Atributte,129,129,40,A2
+pycvsanaly2,GitParser.py,Simple Atributte,131,131,23,A2
+pycvsanaly2,GitParser.py,Simple Atributte,201,201,15,A2
+pycvsanaly2,GitParser.py,Simple Atributte,203,203,30,A2
+pycvsanaly2,GitParser.py,Simple Atributte,211,211,16,A2
+pycvsanaly2,GitParser.py,Simple Atributte,214,214,16,A2
+pycvsanaly2,GitParser.py,Simple Atributte,229,229,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,230,230,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,230,230,41,A2
+pycvsanaly2,GitParser.py,Simple Atributte,231,231,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,231,231,42,A2
+pycvsanaly2,GitParser.py,Simple Atributte,232,232,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,232,232,35,A2
+pycvsanaly2,GitParser.py,Simple Atributte,238,238,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,239,239,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,239,239,38,A2
+pycvsanaly2,GitParser.py,Simple Atributte,240,240,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,240,240,39,A2
+pycvsanaly2,GitParser.py,Simple Atributte,241,241,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,241,241,32,A2
+pycvsanaly2,GitParser.py,Simple Atributte,247,247,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,247,247,31,A2
+pycvsanaly2,GitParser.py,Simple Atributte,254,254,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,260,260,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,260,260,38,A2
+pycvsanaly2,GitParser.py,Simple Atributte,267,267,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,274,274,19,A2
+pycvsanaly2,GitParser.py,Simple Atributte,284,284,24,A2
+pycvsanaly2,GitParser.py,Simple Atributte,286,286,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,287,287,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,287,287,30,A2
+pycvsanaly2,GitParser.py,Simple Atributte,294,294,19,A2
+pycvsanaly2,GitParser.py,Simple Atributte,296,296,16,A2
+pycvsanaly2,GitParser.py,Simple Atributte,298,298,16,A2
+pycvsanaly2,GitParser.py,Simple Atributte,299,299,24,A2
+pycvsanaly2,GitParser.py,Simple Atributte,300,300,24,A2
+pycvsanaly2,GitParser.py,Simple Atributte,301,301,25,A2
+pycvsanaly2,GitParser.py,Simple Atributte,303,303,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,304,304,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,304,304,30,A2
+pycvsanaly2,GitParser.py,Simple Atributte,313,313,20,A2
+pycvsanaly2,GitParser.py,Simple Atributte,38,38,42,A2
+pycvsanaly2,GitParser.py,Simple Atributte,38,38,66,A2
+pycvsanaly2,GitParser.py,Simple Atributte,57,57,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,98,98,73,A2
+pycvsanaly2,GitParser.py,Simple Atributte,102,102,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,102,102,32,A2
+pycvsanaly2,GitParser.py,Simple Atributte,116,116,16,A2
+pycvsanaly2,GitParser.py,Simple Atributte,118,118,15,A2
+pycvsanaly2,GitParser.py,Simple Atributte,118,118,43,A2
+pycvsanaly2,GitParser.py,Simple Atributte,119,119,19,A2
+pycvsanaly2,GitParser.py,Simple Atributte,127,127,26,A2
+pycvsanaly2,GitParser.py,Simple Atributte,128,128,16,A2
+pycvsanaly2,GitParser.py,Simple Atributte,135,135,20,A2
+pycvsanaly2,GitParser.py,Simple Atributte,156,156,20,A2
+pycvsanaly2,GitParser.py,Simple Atributte,158,158,20,A2
+pycvsanaly2,GitParser.py,Simple Atributte,161,161,34,A2
+pycvsanaly2,GitParser.py,Simple Atributte,162,162,25,A2
+pycvsanaly2,GitParser.py,Simple Atributte,162,162,40,A2
+pycvsanaly2,GitParser.py,Simple Atributte,173,173,38,A2
+pycvsanaly2,GitParser.py,Simple Atributte,177,177,19,A2
+pycvsanaly2,GitParser.py,Simple Atributte,184,184,19,A2
+pycvsanaly2,GitParser.py,Simple Atributte,189,189,38,A2
+pycvsanaly2,GitParser.py,Simple Atributte,201,201,31,A2
+pycvsanaly2,GitParser.py,Simple Atributte,201,201,72,A2
+pycvsanaly2,GitParser.py,Simple Atributte,203,203,30,A2
+pycvsanaly2,GitParser.py,Simple Atributte,207,207,19,A2
+pycvsanaly2,GitParser.py,Simple Atributte,210,210,20,A2
+pycvsanaly2,GitParser.py,Simple Atributte,211,211,16,A2
+pycvsanaly2,GitParser.py,Simple Atributte,217,217,19,A2
+pycvsanaly2,GitParser.py,Simple Atributte,222,222,19,A2
+pycvsanaly2,GitParser.py,Simple Atributte,227,227,16,A2
+pycvsanaly2,GitParser.py,Simple Atributte,230,230,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,231,231,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,232,232,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,232,232,35,A2
+pycvsanaly2,GitParser.py,Simple Atributte,236,236,16,A2
+pycvsanaly2,GitParser.py,Simple Atributte,239,239,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,240,240,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,241,241,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,241,241,32,A2
+pycvsanaly2,GitParser.py,Simple Atributte,245,245,16,A2
+pycvsanaly2,GitParser.py,Simple Atributte,258,258,16,A2
+pycvsanaly2,GitParser.py,Simple Atributte,271,271,16,A2
+pycvsanaly2,GitParser.py,Simple Atributte,286,286,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,287,287,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,291,291,16,A2
+pycvsanaly2,GitParser.py,Simple Atributte,303,303,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,304,304,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,313,313,51,A2
+pycvsanaly2,GitParser.py,Simple Atributte,316,316,22,A2
+pycvsanaly2,GitParser.py,Simple Atributte,317,317,19,A2
+pycvsanaly2,GitParser.py,Simple Atributte,320,320,20,A2
+pycvsanaly2,GitParser.py,Simple Atributte,38,38,42,A2
+pycvsanaly2,GitParser.py,Simple Atributte,102,102,32,A2
+pycvsanaly2,GitParser.py,Simple Atributte,119,119,19,A2
+pycvsanaly2,GitParser.py,Simple Atributte,120,120,20,A2
+pycvsanaly2,GitParser.py,Simple Atributte,120,120,40,A2
+pycvsanaly2,GitParser.py,Simple Atributte,135,135,30,A2
+pycvsanaly2,GitParser.py,Simple Atributte,137,137,29,A2
+pycvsanaly2,GitParser.py,Simple Atributte,137,137,44,A2
+pycvsanaly2,GitParser.py,Simple Atributte,141,141,24,A2
+pycvsanaly2,GitParser.py,Simple Atributte,156,156,30,A2
+pycvsanaly2,GitParser.py,Simple Atributte,158,158,20,A2
+pycvsanaly2,GitParser.py,Simple Atributte,162,162,40,A2
+pycvsanaly2,GitParser.py,Simple Atributte,163,163,68,A2
+pycvsanaly2,GitParser.py,Simple Atributte,163,163,90,A2
+pycvsanaly2,GitParser.py,Simple Atributte,177,177,19,A2
+pycvsanaly2,GitParser.py,Simple Atributte,193,193,23,A2
+pycvsanaly2,GitParser.py,Simple Atributte,199,199,24,A2
+pycvsanaly2,GitParser.py,Simple Atributte,201,201,31,A2
+pycvsanaly2,GitParser.py,Simple Atributte,201,201,72,A2
+pycvsanaly2,GitParser.py,Simple Atributte,203,203,30,A2
+pycvsanaly2,GitParser.py,Simple Atributte,205,205,89,A2
+pycvsanaly2,GitParser.py,Simple Atributte,206,206,89,A2
+pycvsanaly2,GitParser.py,Simple Atributte,207,207,19,A2
+pycvsanaly2,GitParser.py,Simple Atributte,207,207,59,A2
+pycvsanaly2,GitParser.py,Simple Atributte,208,208,20,A2
+pycvsanaly2,GitParser.py,Simple Atributte,210,210,20,A2
+pycvsanaly2,GitParser.py,Simple Atributte,211,211,16,A2
+pycvsanaly2,GitParser.py,Simple Atributte,218,218,20,A2
+pycvsanaly2,GitParser.py,Simple Atributte,218,218,41,A2
+pycvsanaly2,GitParser.py,Simple Atributte,220,220,20,A2
+pycvsanaly2,GitParser.py,Simple Atributte,220,220,44,A2
+pycvsanaly2,GitParser.py,Simple Atributte,223,223,20,A2
+pycvsanaly2,GitParser.py,Simple Atributte,286,286,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,303,303,12,A2
+pycvsanaly2,GitParser.py,Simple Atributte,313,313,20,A2
+pycvsanaly2,GitParser.py,Simple Atributte,317,317,19,A2
+pycvsanaly2,GitParser.py,Simple Atributte,317,317,47,A2
+pycvsanaly2,GitParser.py,Simple Atributte,320,320,20,A2
+pycvsanaly2,GitParser.py,Simple Atributte,119,119,19,A2
+pycvsanaly2,GitParser.py,Simple Atributte,120,120,20,A2
+pycvsanaly2,GitParser.py,Simple Atributte,120,120,40,A2
+pycvsanaly2,GitParser.py,Simple Atributte,137,137,44,A2
+pycvsanaly2,GitParser.py,Simple Atributte,137,137,67,A2
+pycvsanaly2,GitParser.py,Simple Atributte,138,138,64,A2
+pycvsanaly2,GitParser.py,Simple Atributte,138,138,77,A2
+pycvsanaly2,GitParser.py,Simple Atributte,141,141,34,A2
+pycvsanaly2,GitParser.py,Simple Atributte,143,143,33,A2
+pycvsanaly2,GitParser.py,Simple Atributte,143,143,48,A2
+pycvsanaly2,GitParser.py,Simple Atributte,146,146,27,A2
+pycvsanaly2,GitParser.py,Simple Atributte,151,151,28,A2
+pycvsanaly2,GitParser.py,Simple Atributte,158,158,40,A2
+pycvsanaly2,GitParser.py,Simple Atributte,159,159,58,A2
+pycvsanaly2,GitParser.py,Simple Atributte,163,163,68,A2
+pycvsanaly2,GitParser.py,Simple Atributte,180,180,25,A2
+pycvsanaly2,GitParser.py,Simple Atributte,198,198,24,A2
+pycvsanaly2,GitParser.py,Simple Atributte,201,201,31,A2
+pycvsanaly2,GitParser.py,Simple Atributte,205,205,89,A2
+pycvsanaly2,GitParser.py,Simple Atributte,206,206,89,A2
+pycvsanaly2,GitParser.py,Simple Atributte,207,207,59,A2
+pycvsanaly2,GitParser.py,Simple Atributte,208,208,20,A2
+pycvsanaly2,GitParser.py,Simple Atributte,218,218,20,A2
+pycvsanaly2,GitParser.py,Simple Atributte,220,220,20,A2
+pycvsanaly2,GitParser.py,Simple Atributte,223,223,20,A2
+pycvsanaly2,GitParser.py,Simple Atributte,248,248,18,A2
+pycvsanaly2,GitParser.py,Simple Atributte,261,261,18,A2
+pycvsanaly2,GitParser.py,Simple Atributte,315,315,73,A2
+pycvsanaly2,GitParser.py,Simple Atributte,317,317,47,A2
+pycvsanaly2,GitParser.py,Simple Atributte,320,320,20,A2
+pycvsanaly2,GitParser.py,Simple Atributte,120,120,40,A2
+pycvsanaly2,GitParser.py,Simple Atributte,138,138,77,A2
+pycvsanaly2,GitParser.py,Simple Atributte,143,143,48,A2
+pycvsanaly2,GitParser.py,Simple Atributte,143,143,70,A2
+pycvsanaly2,GitParser.py,Simple Atributte,144,144,68,A2
+pycvsanaly2,GitParser.py,Simple Atributte,144,144,90,A2
+pycvsanaly2,GitParser.py,Simple Atributte,146,146,43,A2
+pycvsanaly2,GitParser.py,Simple Atributte,151,151,38,A2
+pycvsanaly2,GitParser.py,Simple Atributte,153,153,37,A2
+pycvsanaly2,GitParser.py,Simple Atributte,153,153,52,A2
+pycvsanaly2,GitParser.py,Simple Atributte,159,159,58,A2
+pycvsanaly2,GitParser.py,Simple Atributte,159,159,80,A2
+pycvsanaly2,GitParser.py,Simple Atributte,197,197,34,A2
+pycvsanaly2,GitParser.py,Simple Atributte,197,197,57,A2
+pycvsanaly2,GitParser.py,Simple Atributte,198,198,24,A2
+pycvsanaly2,GitParser.py,Simple Atributte,205,205,89,A2
+pycvsanaly2,GitParser.py,Simple Atributte,208,208,20,A2
+pycvsanaly2,GitParser.py,Simple Atributte,248,248,32,A2
+pycvsanaly2,GitParser.py,Simple Atributte,254,254,41,A2
+pycvsanaly2,GitParser.py,Simple Atributte,261,261,32,A2
+pycvsanaly2,GitParser.py,Simple Atributte,267,267,48,A2
+pycvsanaly2,GitParser.py,Simple Atributte,144,144,68,A2
+pycvsanaly2,GitParser.py,Simple Atributte,146,146,43,A2
+pycvsanaly2,GitParser.py,Simple Atributte,147,147,70,A2
+pycvsanaly2,GitParser.py,Simple Atributte,153,153,52,A2
+pycvsanaly2,GitParser.py,Simple Atributte,154,154,60,A2
+pycvsanaly2,GitParser.py,Simple Atributte,159,159,80,A2
+pycvsanaly2,GitParser.py,Simple Atributte,197,197,57,A2
+pycvsanaly2,GitParser.py,Simple Atributte,205,205,89,A2
+pycvsanaly2,GitParser.py,Simple Atributte,154,154,60,A2
+pycvsanaly2,GitParser.py,Simple Atributte,197,197,34,A2
+pycvsanaly2,GitParser.py,Simple Atributte,248,248,32,A2
+pycvsanaly2,GitParser.py,Simple Atributte,261,261,32,A2
+pycvsanaly2,GitParser.py,Unary Operation,161,161,15,A1
+pycvsanaly2,GitParser.py,Unary Operation,161,161,30,A1
+pycvsanaly2,GitParser.py,Boolean Operation,107,107,11,A1
+pycvsanaly2,GitParser.py,Boolean Operation,38,38,19,A1
+pycvsanaly2,GitParser.py,Boolean Operation,118,118,15,A1
+pycvsanaly2,GitParser.py,Boolean Operation,161,161,15,A1
+pycvsanaly2,GitParser.py,Boolean Operation,173,173,15,A1
+pycvsanaly2,GitParser.py,Boolean Operation,201,201,15,A1
+pycvsanaly2,GitParser.py,Boolean Operation,207,207,19,A1
+pycvsanaly2,GitParser.py,Boolean Operation,317,317,19,A1
+pycvsanaly2,GitParser.py,Boolean Operation,190,190,23,A1
+pycvsanaly2,GitParser.py,Boolean Operation,146,146,27,A1
+pycvsanaly2,GitParser.py,Subscript,61,61,4,A1
+pycvsanaly2,GitParser.py,Subscript,64,64,4,A1
+pycvsanaly2,GitParser.py,Subscript,67,67,4,A1
+pycvsanaly2,GitParser.py,Subscript,71,71,4,A1
+pycvsanaly2,GitParser.py,Subscript,74,74,4,A1
+pycvsanaly2,GitParser.py,Subscript,77,77,4,A1
+pycvsanaly2,GitParser.py,Subscript,78,78,4,A1
+pycvsanaly2,GitParser.py,Subscript,79,79,4,A1
+pycvsanaly2,GitParser.py,Subscript,80,80,4,A1
+pycvsanaly2,GitParser.py,Subscript,81,81,4,A1
+pycvsanaly2,GitParser.py,Subscript,82,82,4,A1
+pycvsanaly2,GitParser.py,Subscript,83,83,4,A1
+pycvsanaly2,GitParser.py,Subscript,84,84,4,A1
+pycvsanaly2,GitParser.py,Subscript,111,111,20,A1
+pycvsanaly2,GitParser.py,Subscript,116,116,16,A1
+pycvsanaly2,GitParser.py,Subscript,227,227,16,A1
+pycvsanaly2,GitParser.py,Subscript,236,236,16,A1
+pycvsanaly2,GitParser.py,Subscript,245,245,16,A1
+pycvsanaly2,GitParser.py,Subscript,258,258,16,A1
+pycvsanaly2,GitParser.py,Subscript,271,271,16,A1
+pycvsanaly2,GitParser.py,Subscript,291,291,16,A1
+pycvsanaly2,GitParser.py,Subscript,135,135,30,A1
+pycvsanaly2,GitParser.py,Subscript,156,156,30,A1
+pycvsanaly2,GitParser.py,Subscript,248,248,18,A1
+pycvsanaly2,GitParser.py,Subscript,261,261,18,A1
+pycvsanaly2,GitParser.py,Subscript,313,313,20,A1
+pycvsanaly2,GitParser.py,Subscript,141,141,34,A1
+pycvsanaly2,GitParser.py,Subscript,151,151,38,A1
+pycvsanaly2,GitParser.py,Subscript,159,159,80,A1
+pycvsanaly2,GitParser.py,Subscript,197,197,34,A1
+pycvsanaly2,GitParser.py,Slice,248,248,83,A1
+pycvsanaly2,GitParser.py,Slice,261,261,83,A1
+pycvsanaly2,GitParser.py,Simple Assignment,59,59,4,A1
+pycvsanaly2,GitParser.py,Simple Assignment,61,61,4,A1
+pycvsanaly2,GitParser.py,Simple Assignment,64,64,4,A1
+pycvsanaly2,GitParser.py,Simple Assignment,67,68,4,A1
+pycvsanaly2,GitParser.py,Simple Assignment,71,71,4,A1
+pycvsanaly2,GitParser.py,Simple Assignment,74,75,4,A1
+pycvsanaly2,GitParser.py,Simple Assignment,77,77,4,A1
+pycvsanaly2,GitParser.py,Simple Assignment,78,78,4,A1
+pycvsanaly2,GitParser.py,Simple Assignment,79,79,4,A1
+pycvsanaly2,GitParser.py,Simple Assignment,80,80,4,A1
+pycvsanaly2,GitParser.py,Simple Assignment,81,81,4,A1
+pycvsanaly2,GitParser.py,Simple Assignment,82,82,4,A1
+pycvsanaly2,GitParser.py,Simple Assignment,83,83,4,A1
+pycvsanaly2,GitParser.py,Simple Assignment,84,84,4,A1
+pycvsanaly2,GitParser.py,Simple Assignment,42,42,8,A1
+pycvsanaly2,GitParser.py,Simple Assignment,89,89,8,A1
+pycvsanaly2,GitParser.py,Simple Assignment,92,92,8,A1
+pycvsanaly2,GitParser.py,Simple Assignment,93,93,8,A1
+pycvsanaly2,GitParser.py,Simple Assignment,94,94,8,A1
+pycvsanaly2,GitParser.py,Simple Assignment,98,98,8,A1
+pycvsanaly2,GitParser.py,Simple Assignment,116,116,8,A1
+pycvsanaly2,GitParser.py,Simple Assignment,227,227,8,A1
+pycvsanaly2,GitParser.py,Simple Assignment,236,236,8,A1
+pycvsanaly2,GitParser.py,Simple Assignment,245,245,8,A1
+pycvsanaly2,GitParser.py,Simple Assignment,258,258,8,A1
+pycvsanaly2,GitParser.py,Simple Assignment,271,271,8,A1
+pycvsanaly2,GitParser.py,Simple Assignment,291,291,8,A1
+pycvsanaly2,GitParser.py,Simple Assignment,33,33,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,34,34,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,35,35,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,45,45,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,46,46,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,56,56,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,57,57,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,103,103,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,104,104,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,122,122,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,123,123,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,125,125,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,129,129,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,131,131,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,132,132,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,229,229,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,230,230,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,231,231,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,238,238,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,239,239,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,240,240,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,247,248,12,A1
+pycvsanaly2,GitParser.py,Assigment with sum (total = total + 1),254,254,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,260,261,12,A1
+pycvsanaly2,GitParser.py,Assigment with sum (total = total + 1),267,267,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,273,273,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,274,274,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,283,283,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,284,284,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,293,293,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,294,294,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,299,299,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,300,300,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,301,301,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,313,313,12,A1
+pycvsanaly2,GitParser.py,Simple Assignment,127,127,16,A1
+pycvsanaly2,GitParser.py,Simple Assignment,128,128,16,A1
+pycvsanaly2,GitParser.py,Simple Assignment,135,135,16,A1
+pycvsanaly2,GitParser.py,Simple Assignment,156,156,16,A1
+pycvsanaly2,GitParser.py,Simple Assignment,162,162,16,A1
+pycvsanaly2,GitParser.py,Simple Assignment,203,203,16,A1
+pycvsanaly2,GitParser.py,Simple Assignment,211,211,16,A1
+pycvsanaly2,GitParser.py,Simple Assignment,214,214,16,A1
+pycvsanaly2,GitParser.py,Simple Assignment,296,296,16,A1
+pycvsanaly2,GitParser.py,Simple Assignment,298,298,16,A1
+pycvsanaly2,GitParser.py,Simple Assignment,316,316,16,A1
+pycvsanaly2,GitParser.py,Simple Assignment,137,137,20,A1
+pycvsanaly2,GitParser.py,Simple Assignment,141,141,20,A1
+pycvsanaly2,GitParser.py,Simple Assignment,158,158,20,A1
+pycvsanaly2,GitParser.py,Simple Assignment,182,182,20,A1
+pycvsanaly2,GitParser.py,Simple Assignment,210,210,20,A1
+pycvsanaly2,GitParser.py,Simple Assignment,278,278,20,A1
+pycvsanaly2,GitParser.py,Simple Assignment,320,320,20,A1
+pycvsanaly2,GitParser.py,Simple Assignment,143,143,24,A1
+pycvsanaly2,GitParser.py,Simple Assignment,151,151,24,A1
+pycvsanaly2,GitParser.py,Simple Assignment,199,199,24,A1
+pycvsanaly2,GitParser.py,Simple Assignment,148,148,28,A1
+pycvsanaly2,GitParser.py,Simple Assignment,153,153,28,A1
+pycvsanaly2,GitParser.py,Simplified incremental Assignment with increase amount,323,323,8,A2
+pycvsanaly2,GitParser.py,'assert' exception,325,325,8,B2
+pycvsanaly2,GitParser.py,Import're' module,20,20,0,C1
+pycvsanaly2,GitParser.py,Import,21,21,0,A2
+pycvsanaly2,GitParser.py,Import,22,22,0,A2
+pycvsanaly2,GitParser.py,From,24,24,0,A2
+pycvsanaly2,GitParser.py,From,25,25,0,A2
+pycvsanaly2,GitParser.py,From,26,26,0,A2
+pycvsanaly2,GitParser.py,Alias,20,20,7,A1
+pycvsanaly2,GitParser.py,Alias,21,21,7,A1
+pycvsanaly2,GitParser.py,Alias,22,22,7,A1
+pycvsanaly2,GitParser.py,Alias,24,24,19,A1
+pycvsanaly2,GitParser.py,Alias,25,25,23,A1
+pycvsanaly2,GitParser.py,Alias,25,25,31,A1
+pycvsanaly2,GitParser.py,Alias,25,25,39,A1
+pycvsanaly2,GitParser.py,Alias,26,26,18,A1
+pycvsanaly2,GitParser.py,Alias,26,26,28,A1
+pycvsanaly2,GitParser.py,Simple If statements,101,104,8,A1
+pycvsanaly2,GitParser.py,Simple If statements,107,108,8,A1
+pycvsanaly2,GitParser.py,Simple If statements,117,224,8,A1
+pycvsanaly2,GitParser.py,Simple If statements,228,233,8,A1
+pycvsanaly2,GitParser.py,Simple If statements,237,242,8,A1
+pycvsanaly2,GitParser.py,Simple If statements,246,255,8,A1
+pycvsanaly2,GitParser.py,Simple If statements,259,268,8,A1
+pycvsanaly2,GitParser.py,Simple If statements,272,288,8,A1
+pycvsanaly2,GitParser.py,Simple If statements,292,306,8,A1
+pycvsanaly2,GitParser.py,Simple If statements,312,320,8,A1
+pycvsanaly2,GitParser.py,Simple If statements,112,113,12,A1
+pycvsanaly2,GitParser.py,Simple If statements,118,120,12,A1
+pycvsanaly2,GitParser.py,Simple If statements,126,128,12,A1
+pycvsanaly2,GitParser.py,Simple If statements,133,159,12,A1
+pycvsanaly2,GitParser.py,Simple If statements,161,163,12,A1
+pycvsanaly2,GitParser.py,Simple If statements,173,182,12,A1
+pycvsanaly2,GitParser.py,Simple If statements,184,199,12,A1
+pycvsanaly2,GitParser.py,Simple If statements,201,211,12,A1
+pycvsanaly2,GitParser.py,Simple If statements,213,223,12,A1
+pycvsanaly2,GitParser.py,Simple If statements,275,281,12,A1
+pycvsanaly2,GitParser.py,Simple If statements,295,298,12,A1
+pycvsanaly2,GitParser.py,Simple If statements,314,320,12,A1
+pycvsanaly2,GitParser.py,Simple If statements,119,120,16,A1
+pycvsanaly2,GitParser.py,Simple If statements,136,154,16,A1
+pycvsanaly2,GitParser.py,Simple If statements,157,159,16,A1
+pycvsanaly2,GitParser.py,Simple If statements,177,182,16,A1
+pycvsanaly2,GitParser.py,Simple If statements,207,210,16,A1
+pycvsanaly2,GitParser.py,Simple If statements,217,220,16,A1
+pycvsanaly2,GitParser.py,Simple If statements,222,223,16,A1
+pycvsanaly2,GitParser.py,Simple If statements,277,281,16,A1
+pycvsanaly2,GitParser.py,Simple If statements,317,320,16,A1
+pycvsanaly2,GitParser.py,Simple If statements,142,154,20,A1
+pycvsanaly2,GitParser.py,Simple If statements,190,191,20,A1
+pycvsanaly2,GitParser.py,Simple If statements,193,199,20,A1
+pycvsanaly2,GitParser.py,Simple If statements,146,148,24,A1
+pycvsanaly2,GitParser.py,Simple If statements,152,154,24,A1
+pycvsanaly2,GitParser.py,Simple For Loop,111,113,8,A1
+pycvsanaly2,GitParser.py,For Loop with Tuple as name,189,199,16,A2
+pycvsanaly2,GitParser.py,'continue' statement,191,191,24,B1
+pycvsanaly2,GitParser.py,Function with Simple argument,86,94,4,A1
+pycvsanaly2,GitParser.py,Function with Simple argument,96,98,4,A1
+pycvsanaly2,GitParser.py,Function with Simple argument,100,104,4,A1
+pycvsanaly2,GitParser.py,Function with Simple argument,106,325,4,A1
+pycvsanaly2,GitParser.py,Function with Simple argument,32,35,8,A1
+pycvsanaly2,GitParser.py,Function with Simple argument,37,38,8,A1
+pycvsanaly2,GitParser.py,Function with Simple argument,44,47,8,A1
+pycvsanaly2,GitParser.py,Function with Simple argument,49,50,8,A1
+pycvsanaly2,GitParser.py,Function with Simple argument,52,53,8,A1
+pycvsanaly2,GitParser.py,Function with Simple argument,55,57,8,A1
+pycvsanaly2,GitParser.py,Return,38,38,12,A1
+pycvsanaly2,GitParser.py,Return,50,50,12,A1
+pycvsanaly2,GitParser.py,Return,53,53,12,A1
+pycvsanaly2,GitParser.py,Return,108,108,12,A1
+pycvsanaly2,GitParser.py,Return,224,224,12,A1
+pycvsanaly2,GitParser.py,Return,233,233,12,A1
+pycvsanaly2,GitParser.py,Return,242,242,12,A1
+pycvsanaly2,GitParser.py,Return,255,255,12,A1
+pycvsanaly2,GitParser.py,Return,268,268,12,A1
+pycvsanaly2,GitParser.py,Return,288,288,12,A1
+pycvsanaly2,GitParser.py,Return,306,306,12,A1
+pycvsanaly2,GitParser.py,Return,113,113,16,A1
+pycvsanaly2,GitParser.py,Return,281,281,20,A1
+pycvsanaly2,GitParser.py,Inherited Class from Parser,29,325,0,B1
+pycvsanaly2,GitParser.py,Simple Class  Using the constructor method --> __init__,30,38,4,B1
+pycvsanaly2,GitParser.py,Simple Class ,40,57,4,B1
+extensions,__init__.py,Simple List,20,20,10,A1
+extensions,__init__.py,Simple List,32,32,11,A1
+extensions,__init__.py,Simple Dictionary,38,38,14,A2
+extensions,__init__.py,Simple Atributte,50,50,40,A2
+extensions,__init__.py,Subscript,42,42,4,A1
+extensions,__init__.py,Subscript,57,57,11,A1
+extensions,__init__.py,Simple Assignment,20,20,0,A1
+extensions,__init__.py,Simple Assignment,38,38,0,A1
+extensions,__init__.py,Simple Assignment,32,32,4,A1
+extensions,__init__.py,Simple Assignment,42,42,4,A1
+extensions,__init__.py,'raise' exception,35,35,8,B1
+extensions,__init__.py,'raise' exception,55,55,8,B1
+extensions,__init__.py,'raise' exception,50,50,12,B1
+extensions,__init__.py,Simple If statements,46,50,4,A1
+extensions,__init__.py,Simple If statements,54,55,4,A1
+extensions,__init__.py,Exception --> try/except,47,50,8,B1
+extensions,__init__.py,Except Handler,49,50,8,A1
+extensions,__init__.py,Function with Simple argument,41,42,0,A1
+extensions,__init__.py,Function with Simple argument,45,57,0,A1
+extensions,__init__.py,Function with Simple argument,34,35,4,A1
+extensions,__init__.py,Return,57,57,4,A1
+extensions,__init__.py,Inherited Class from Exception,23,24,0,B1
+extensions,__init__.py,Inherited Class from Exception,27,28,0,B1
+extensions,__init__.py,Simple Class ,31,35,0,B1
+extensions,Weeks.py,Simple Tuple,132,132,42,A1
+extensions,Weeks.py,'range' call function,121,121,22,A2
+extensions,Weeks.py,Simple Atributte,96,96,14,A2
+extensions,Weeks.py,Simple Atributte,98,98,17,A2
+extensions,Weeks.py,Simple Atributte,100,100,23,A2
+extensions,Weeks.py,Simple Atributte,102,102,8,A2
+extensions,Weeks.py,Simple Atributte,104,104,8,A2
+extensions,Weeks.py,Simple Atributte,106,106,8,A2
+extensions,Weeks.py,Simple Atributte,133,133,8,A2
+extensions,Weeks.py,Simple Atributte,134,134,8,A2
+extensions,Weeks.py,Simple Atributte,135,135,8,A2
+extensions,Weeks.py,Simple Atributte,136,136,8,A2
+extensions,Weeks.py,Simple Atributte,137,137,8,A2
+extensions,Weeks.py,Simple Atributte,105,105,18,A2
+extensions,Weeks.py,Simple Atributte,107,107,18,A2
+extensions,Weeks.py,Simple Atributte,115,115,22,A2
+extensions,Weeks.py,Simple Atributte,116,116,22,A2
+extensions,Weeks.py,Simple Atributte,118,118,20,A2
+extensions,Weeks.py,Simple Atributte,119,119,19,A2
+extensions,Weeks.py,Simple Atributte,126,126,24,A2
+extensions,Weeks.py,Simple Atributte,129,129,16,A2
+extensions,Weeks.py,Simple Atributte,131,131,19,A2
+extensions,Weeks.py,Simple Atributte,132,132,12,A2
+extensions,Weeks.py,Simple Atributte,115,115,22,A2
+extensions,Weeks.py,Simple Atributte,116,116,22,A2
+extensions,Weeks.py,Subscript,105,105,18,A1
+extensions,Weeks.py,Subscript,107,107,18,A1
+extensions,Weeks.py,Subscript,115,115,22,A1
+extensions,Weeks.py,Subscript,116,116,22,A1
+extensions,Weeks.py,Assigment with sum (total = total + 1),53,58,4,A1
+extensions,Weeks.py,Assigment with sum (total = total + 1),61,67,4,A1
+extensions,Weeks.py,Simple Assignment,70,70,4,A1
+extensions,Weeks.py,Assigment with sum (total = total + 1),73,74,4,A1
+extensions,Weeks.py,Simple Assignment,80,80,4,A1
+extensions,Weeks.py,Simple Assignment,96,96,8,A1
+extensions,Weeks.py,Simple Assignment,98,98,8,A1
+extensions,Weeks.py,Simple Assignment,100,100,8,A1
+extensions,Weeks.py,Simple Assignment,105,105,8,A1
+extensions,Weeks.py,Simple Assignment,107,107,8,A1
+extensions,Weeks.py,Simple Assignment,109,109,8,A1
+extensions,Weeks.py,Simple Assignment,112,112,8,A1
+extensions,Weeks.py,Assigment with sum (total = total + 1),113,113,8,A1
+extensions,Weeks.py,Simple Assignment,115,115,8,A1
+extensions,Weeks.py,Simple Assignment,116,116,8,A1
+extensions,Weeks.py,Assigment with sum (total = total + 1),118,118,8,A1
+extensions,Weeks.py,Assigment with sum (total = total + 1),119,119,8,A1
+extensions,Weeks.py,Assigment with sum (total = total + 1),122,122,12,A1
+extensions,Weeks.py,Assigment with sum (total = total + 1),123,123,12,A1
+extensions,Weeks.py,Simple Assignment,126,128,12,A1
+extensions,Weeks.py,Simple Assignment,131,131,12,A1
+extensions,Weeks.py,From,35,35,0,A2
+extensions,Weeks.py,From,37,37,0,A2
+extensions,Weeks.py,From,38,38,0,A2
+extensions,Weeks.py,Alias,35,35,21,A1
+extensions,Weeks.py,Alias,37,37,35,A1
+extensions,Weeks.py,Alias,37,37,46,A1
+extensions,Weeks.py,Alias,38,38,43,A1
+extensions,Weeks.py,Simple If statements,129,130,12,A1
+extensions,Weeks.py,Simple For Loop,121,132,8,A1
+extensions,Weeks.py,'continue' statement,130,130,16,B1
+extensions,Weeks.py,Function with Simple argument,91,137,4,A1
+extensions,Weeks.py,Inherited Class from DBTable,41,80,0,B1
+extensions,Weeks.py,Inherited Class from Extension,83,137,0,B1
+extensions,Months.py,Simple Tuple,112,112,43,A1
+extensions,Months.py,'range' call function,108,108,22,A2
+extensions,Months.py,Simple Atributte,91,91,14,A2
+extensions,Months.py,Simple Atributte,93,93,17,A2
+extensions,Months.py,Simple Atributte,95,95,23,A2
+extensions,Months.py,Simple Atributte,97,97,8,A2
+extensions,Months.py,Simple Atributte,99,99,8,A2
+extensions,Months.py,Simple Atributte,101,101,8,A2
+extensions,Months.py,Simple Atributte,105,105,41,A2
+extensions,Months.py,Simple Atributte,106,106,40,A2
+extensions,Months.py,Simple Atributte,113,113,8,A2
+extensions,Months.py,Simple Atributte,114,114,8,A2
+extensions,Months.py,Simple Atributte,115,115,8,A2
+extensions,Months.py,Simple Atributte,116,116,8,A2
+extensions,Months.py,Simple Atributte,117,117,8,A2
+extensions,Months.py,Simple Atributte,98,98,18,A2
+extensions,Months.py,Simple Atributte,100,100,18,A2
+extensions,Months.py,Simple Atributte,105,105,21,A2
+extensions,Months.py,Simple Atributte,106,106,20,A2
+extensions,Months.py,Simple Atributte,112,112,12,A2
+extensions,Months.py,Subscript,98,98,18,A1
+extensions,Months.py,Subscript,100,100,18,A1
+extensions,Months.py,Assigment with sum (total = total + 1),49,54,4,A1
+extensions,Months.py,Assigment with sum (total = total + 1),57,63,4,A1
+extensions,Months.py,Simple Assignment,66,66,4,A1
+extensions,Months.py,Assigment with sum (total = total + 1),69,70,4,A1
+extensions,Months.py,Simple Assignment,76,76,4,A1
+extensions,Months.py,Simple Assignment,91,91,8,A1
+extensions,Months.py,Simple Assignment,93,93,8,A1
+extensions,Months.py,Simple Assignment,95,95,8,A1
+extensions,Months.py,Simple Assignment,98,98,8,A1
+extensions,Months.py,Simple Assignment,100,100,8,A1
+extensions,Months.py,Simple Assignment,103,103,8,A1
+extensions,Months.py,Assigment with sum (total = total + 1),105,105,8,A1
+extensions,Months.py,Assigment with sum (total = total + 1),106,106,8,A1
+extensions,Months.py,Assigment with sum (total = total + 1),109,109,12,A1
+extensions,Months.py,Assigment with sum (total = total + 1),110,110,12,A1
+extensions,Months.py,Assigment with sum (total = total + 1),111,111,12,A1
+extensions,Months.py,From,33,33,0,A2
+extensions,Months.py,From,34,34,0,A2
+extensions,Months.py,Alias,33,33,35,A1
+extensions,Months.py,Alias,33,33,46,A1
+extensions,Months.py,Alias,34,34,43,A1
+extensions,Months.py,Simple For Loop,108,112,8,A1
+extensions,Months.py,Function with Simple argument,87,117,4,A1
+extensions,Months.py,Inherited Class from DBTable,37,76,0,B1
+extensions,Months.py,Inherited Class from Extension,79,117,0,B1
+extensions,MessageWords.py,Simple Tuple,110,110,35,A1
+extensions,MessageWords.py,Simple Tuple,122,123,46,A1
+extensions,MessageWords.py,Simple Dictionary,102,102,24,A2
+extensions,MessageWords.py,'range' call function,101,101,22,A2
+extensions,MessageWords.py,Simple Atributte,77,77,8,A2
+extensions,MessageWords.py,Simple Atributte,85,85,14,A2
+extensions,MessageWords.py,Simple Atributte,87,87,17,A2
+extensions,MessageWords.py,Simple Atributte,89,89,23,A2
+extensions,MessageWords.py,Simple Atributte,90,90,18,A2
+extensions,MessageWords.py,Simple Atributte,92,92,8,A2
+extensions,MessageWords.py,Simple Atributte,94,94,8,A2
+extensions,MessageWords.py,Simple Atributte,100,100,73,A2
+extensions,MessageWords.py,Simple Atributte,125,125,8,A2
+extensions,MessageWords.py,Simple Atributte,126,126,8,A2
+extensions,MessageWords.py,Simple Atributte,127,127,8,A2
+extensions,MessageWords.py,Simple Atributte,128,128,8,A2
+extensions,MessageWords.py,Simple Atributte,74,74,23,A2
+extensions,MessageWords.py,Simple Atributte,79,79,16,A2
+extensions,MessageWords.py,Simple Atributte,93,93,18,A2
+extensions,MessageWords.py,Simple Atributte,95,95,18,A2
+extensions,MessageWords.py,Simple Atributte,100,100,57,A2
+extensions,MessageWords.py,Simple Atributte,104,104,19,A2
+extensions,MessageWords.py,Simple Atributte,110,110,12,A2
+extensions,MessageWords.py,Simple Atributte,111,111,19,A2
+extensions,MessageWords.py,Simple Atributte,124,124,12,A2
+extensions,MessageWords.py,Simple Atributte,122,122,16,A2
+extensions,MessageWords.py,Simple Atributte,100,100,21,A2
+extensions,MessageWords.py,Simple Atributte,100,100,36,A2
+extensions,MessageWords.py,Simple Atributte,103,103,21,A2
+extensions,MessageWords.py,Simple Atributte,104,104,44,A2
+extensions,MessageWords.py,Simple Atributte,113,113,25,A2
+extensions,MessageWords.py,Simple Atributte,114,114,37,A2
+extensions,MessageWords.py,Simple Atributte,114,114,37,A2
+extensions,MessageWords.py,Subscript,79,79,16,A1
+extensions,MessageWords.py,Subscript,93,93,18,A1
+extensions,MessageWords.py,Subscript,95,95,18,A1
+extensions,MessageWords.py,Subscript,123,123,53,A1
+extensions,MessageWords.py,Subscript,118,118,28,A1
+extensions,MessageWords.py,Subscript,120,120,28,A1
+extensions,MessageWords.py,Subscript,114,114,37,A1
+extensions,MessageWords.py,Simple List Comprehension,113,114,24,C1
+extensions,MessageWords.py,Assigment with sum (total = total + 1),34,39,4,A1
+extensions,MessageWords.py,Assigment with sum (total = total + 1),42,47,4,A1
+extensions,MessageWords.py,Simple Assignment,50,50,4,A1
+extensions,MessageWords.py,Assigment with sum (total = total + 1),53,54,4,A1
+extensions,MessageWords.py,Simple Assignment,60,60,4,A1
+extensions,MessageWords.py,Simple Assignment,72,72,8,A1
+extensions,MessageWords.py,Simple Assignment,85,85,8,A1
+extensions,MessageWords.py,Simple Assignment,87,87,8,A1
+extensions,MessageWords.py,Simple Assignment,89,89,8,A1
+extensions,MessageWords.py,Simple Assignment,90,90,8,A1
+extensions,MessageWords.py,Simple Assignment,93,93,8,A1
+extensions,MessageWords.py,Simple Assignment,95,95,8,A1
+extensions,MessageWords.py,Simple Assignment,97,97,8,A1
+extensions,MessageWords.py,Assigment with sum (total = total + 1),100,100,8,A1
+extensions,MessageWords.py,Simple Assignment,74,74,12,A1
+extensions,MessageWords.py,Simple Assignment,76,76,12,A1
+extensions,MessageWords.py,Simple Assignment,102,102,12,A1
+extensions,MessageWords.py,Assigment with sum (total = total + 1),103,103,12,A1
+extensions,MessageWords.py,Assigment with sum (total = total + 1),104,104,12,A1
+extensions,MessageWords.py,Assigment with sum (total = total + 1),105,105,12,A1
+extensions,MessageWords.py,Assigment with sum (total = total + 1),106,109,12,A1
+extensions,MessageWords.py,Simple Assignment,111,111,12,A1
+extensions,MessageWords.py,Simple Assignment,113,114,16,A1
+extensions,MessageWords.py,Simple Assignment,120,120,28,A1
+extensions,MessageWords.py,Simplified incremental Assignment with increase amount,118,118,28,A2
+extensions,MessageWords.py,From,25,25,0,A2
+extensions,MessageWords.py,From,26,26,0,A2
+extensions,MessageWords.py,From,27,27,0,A2
+extensions,MessageWords.py,Alias,25,25,35,A1
+extensions,MessageWords.py,Alias,25,25,46,A1
+extensions,MessageWords.py,Alias,26,26,30,A1
+extensions,MessageWords.py,Alias,27,27,43,A1
+extensions,MessageWords.py,Simple If statements,73,76,8,A1
+extensions,MessageWords.py,Simple If statements,116,120,20,A1
+extensions,MessageWords.py,Simple If statements,117,120,24,A1
+extensions,MessageWords.py,2 Nested For Loop,101,124,8,A2
+extensions,MessageWords.py,1 Nested For Loop,112,120,12,A2
+extensions,MessageWords.py,Simple For Loop,121,123,12,A1
+extensions,MessageWords.py,Simple For Loop,115,120,16,A1
+extensions,MessageWords.py,Function with Simple argument,69,79,4,A1
+extensions,MessageWords.py,Function with Simple argument,81,128,4,A1
+extensions,MessageWords.py,Return,79,79,8,A1
+extensions,MessageWords.py,Inherited Class from DBTable,30,60,0,B1
+extensions,MessageWords.py,Inherited Class from Extension,63,128,0,B1
+extensions,MetricsEvo.py,Simple List,103,103,11,A1
+extensions,MetricsEvo.py,Simple Tuple,156,156,8,A1
+extensions,MetricsEvo.py,Simple Tuple,161,161,15,A1
+extensions,MetricsEvo.py,Simple Tuple,155,155,36,A1
+extensions,MetricsEvo.py,Simple Tuple,195,195,16,A1
+extensions,MetricsEvo.py,Simple Tuple,205,205,16,A1
+extensions,MetricsEvo.py,Simple Tuple,207,207,20,A1
+extensions,MetricsEvo.py,'range' call function,190,190,22,A2
+extensions,MetricsEvo.py,'range' call function,201,201,26,A2
+extensions,MetricsEvo.py,Simple Atributte,173,173,8,A2
+extensions,MetricsEvo.py,Simple Atributte,113,113,8,A2
+extensions,MetricsEvo.py,Simple Atributte,155,155,8,A2
+extensions,MetricsEvo.py,Simple Atributte,156,156,29,A2
+extensions,MetricsEvo.py,Simple Atributte,171,171,14,A2
+extensions,MetricsEvo.py,Simple Atributte,173,173,22,A2
+extensions,MetricsEvo.py,Simple Atributte,175,175,23,A2
+extensions,MetricsEvo.py,Simple Atributte,176,176,18,A2
+extensions,MetricsEvo.py,Simple Atributte,178,178,8,A2
+extensions,MetricsEvo.py,Simple Atributte,180,180,8,A2
+extensions,MetricsEvo.py,Simple Atributte,184,184,73,A2
+extensions,MetricsEvo.py,Simple Atributte,185,185,8,A2
+extensions,MetricsEvo.py,Simple Atributte,196,196,8,A2
+extensions,MetricsEvo.py,Simple Atributte,209,209,8,A2
+extensions,MetricsEvo.py,Simple Atributte,210,210,8,A2
+extensions,MetricsEvo.py,Simple Atributte,211,211,8,A2
+extensions,MetricsEvo.py,Simple Atributte,212,212,8,A2
+extensions,MetricsEvo.py,Simple Atributte,110,110,23,A2
+extensions,MetricsEvo.py,Simple Atributte,113,113,8,A2
+extensions,MetricsEvo.py,Simple Atributte,114,114,16,A2
+extensions,MetricsEvo.py,Simple Atributte,155,155,8,A2
+extensions,MetricsEvo.py,Simple Atributte,156,156,29,A2
+extensions,MetricsEvo.py,Simple Atributte,178,178,8,A2
+extensions,MetricsEvo.py,Simple Atributte,179,179,18,A2
+extensions,MetricsEvo.py,Simple Atributte,180,180,8,A2
+extensions,MetricsEvo.py,Simple Atributte,181,181,18,A2
+extensions,MetricsEvo.py,Simple Atributte,184,184,57,A2
+extensions,MetricsEvo.py,Simple Atributte,185,185,8,A2
+extensions,MetricsEvo.py,Simple Atributte,192,192,19,A2
+extensions,MetricsEvo.py,Simple Atributte,194,194,12,A2
+extensions,MetricsEvo.py,Simple Atributte,208,208,12,A2
+extensions,MetricsEvo.py,Simple Atributte,211,211,8,A2
+extensions,MetricsEvo.py,Simple Atributte,114,114,16,A2
+extensions,MetricsEvo.py,Simple Atributte,179,179,18,A2
+extensions,MetricsEvo.py,Simple Atributte,181,181,18,A2
+extensions,MetricsEvo.py,Simple Atributte,186,186,38,A2
+extensions,MetricsEvo.py,Simple Atributte,203,203,23,A2
+extensions,MetricsEvo.py,Simple Atributte,205,205,37,A2
+extensions,MetricsEvo.py,Simple Atributte,206,206,16,A2
+extensions,MetricsEvo.py,Simple Atributte,184,184,21,A2
+extensions,MetricsEvo.py,Simple Atributte,184,184,36,A2
+extensions,MetricsEvo.py,Simple Atributte,186,186,38,A2
+extensions,MetricsEvo.py,Simple Atributte,191,191,21,A2
+extensions,MetricsEvo.py,Simple Atributte,192,192,44,A2
+extensions,MetricsEvo.py,Simple Atributte,202,202,25,A2
+extensions,MetricsEvo.py,Simple Atributte,203,203,48,A2
+extensions,MetricsEvo.py,Subscript,114,114,16,A1
+extensions,MetricsEvo.py,Subscript,179,179,18,A1
+extensions,MetricsEvo.py,Subscript,181,181,18,A1
+extensions,MetricsEvo.py,Subscript,186,186,20,A1
+extensions,MetricsEvo.py,Simple List Comprehension,186,186,19,C1
+extensions,MetricsEvo.py,Assigment with sum (total = total + 1),36,43,4,A1
+extensions,MetricsEvo.py,Assigment with sum (total = total + 1),46,53,4,A1
+extensions,MetricsEvo.py,Simple Assignment,56,56,4,A1
+extensions,MetricsEvo.py,Assigment with sum (total = total + 1),59,60,4,A1
+extensions,MetricsEvo.py,Simple Assignment,66,66,4,A1
+extensions,MetricsEvo.py,Assigment with sum (total = total + 1),75,78,4,A1
+extensions,MetricsEvo.py,Assigment with sum (total = total + 1),81,84,4,A1
+extensions,MetricsEvo.py,Simple Assignment,87,87,4,A1
+extensions,MetricsEvo.py,Assigment with sum (total = total + 1),90,91,4,A1
+extensions,MetricsEvo.py,Simple Assignment,97,97,4,A1
+extensions,MetricsEvo.py,Simple Assignment,103,103,4,A1
+extensions,MetricsEvo.py,Simple Assignment,108,108,8,A1
+extensions,MetricsEvo.py,Simple Assignment,134,154,8,A1
+extensions,MetricsEvo.py,Simple Assignment,156,156,8,A1
+extensions,MetricsEvo.py,Simple Assignment,171,171,8,A1
+extensions,MetricsEvo.py,Simple Assignment,173,173,8,A1
+extensions,MetricsEvo.py,Simple Assignment,175,175,8,A1
+extensions,MetricsEvo.py,Simple Assignment,176,176,8,A1
+extensions,MetricsEvo.py,Simple Assignment,179,179,8,A1
+extensions,MetricsEvo.py,Simple Assignment,181,181,8,A1
+extensions,MetricsEvo.py,Assigment with sum (total = total + 1),184,184,8,A1
+extensions,MetricsEvo.py,Simple Assignment,186,186,8,A1
+extensions,MetricsEvo.py,Simple Assignment,189,189,8,A1
+extensions,MetricsEvo.py,Simple Assignment,199,199,8,A1
+extensions,MetricsEvo.py,Simple Assignment,110,110,12,A1
+extensions,MetricsEvo.py,Simple Assignment,112,112,12,A1
+extensions,MetricsEvo.py,Simple Assignment,158,158,12,A1
+extensions,MetricsEvo.py,Simple Assignment,160,160,12,A1
+extensions,MetricsEvo.py,Assigment with sum (total = total + 1),191,191,12,A1
+extensions,MetricsEvo.py,Assigment with sum (total = total + 1),192,192,12,A1
+extensions,MetricsEvo.py,Assigment with sum (total = total + 1),193,193,12,A1
+extensions,MetricsEvo.py,Assigment with sum (total = total + 1),202,202,16,A1
+extensions,MetricsEvo.py,Assigment with sum (total = total + 1),203,203,16,A1
+extensions,MetricsEvo.py,Assigment with sum (total = total + 1),204,204,16,A1
+extensions,MetricsEvo.py,Simple Assignment,205,205,16,A1
+extensions,MetricsEvo.py,From,24,24,0,A2
+extensions,MetricsEvo.py,From,25,25,0,A2
+extensions,MetricsEvo.py,From,26,26,0,A2
+extensions,MetricsEvo.py,Alias,24,24,35,A1
+extensions,MetricsEvo.py,Alias,24,24,46,A1
+extensions,MetricsEvo.py,Alias,25,25,30,A1
+extensions,MetricsEvo.py,Alias,26,26,43,A1
+extensions,MetricsEvo.py,Simple If statements,109,112,8,A1
+extensions,MetricsEvo.py,Simple If statements,157,158,8,A1
+extensions,MetricsEvo.py,Simple If statements,159,160,8,A1
+extensions,MetricsEvo.py,Simple For Loop,190,195,8,A1
+extensions,MetricsEvo.py,1 Nested For Loop,200,208,8,A2
+extensions,MetricsEvo.py,Simple For Loop,201,207,12,A1
+extensions,MetricsEvo.py,Function with Simple argument,105,114,4,A1
+extensions,MetricsEvo.py,Function with Simple argument,116,161,4,A1
+extensions,MetricsEvo.py,Function with Simple argument,163,212,4,A1
+extensions,MetricsEvo.py,Return,114,114,8,A1
+extensions,MetricsEvo.py,Return,161,161,8,A1
+extensions,MetricsEvo.py,Inherited Class from DBTable,29,66,0,B1
+extensions,MetricsEvo.py,Inherited Class from DBTable,69,97,0,B1
+extensions,MetricsEvo.py,Inherited Class from Extension,100,212,0,B1
