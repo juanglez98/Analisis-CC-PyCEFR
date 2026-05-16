@@ -45,6 +45,7 @@ def choose_option(type_option,option,target_folder):
         run_user(option,target_path)
     else:
         sys.exit('Incorrect Option')
+    return target_path
 
 
 
@@ -61,10 +62,10 @@ if __name__ == "__main__":
     target_folder = os.path.dirname(os.path.abspath(__file__)) + "/data/"
   
      
-    choose_option(type_option, option,target_folder)
+    processed_path = choose_option(type_option, option, target_folder)
 
 
-    summary_Levels(target_folder)
+    summary_Levels(processed_path)
 
     
 
