@@ -1,0 +1,10 @@
+{
+  "case": "python-beginner-programming-exercises",
+  "n_pycefr_constructs": 1176,
+  "n_pycefr_classes": 32,
+  "max_pycefr_level": "C1",
+  "n_radon_functions": 109,
+  "max_radon_complexity": 8.0,
+  "max_radon_rank": "B",
+  "n_interesting_cases": 46
+}

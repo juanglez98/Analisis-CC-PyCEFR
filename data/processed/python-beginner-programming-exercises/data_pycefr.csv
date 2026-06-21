@@ -1,0 +1,1177 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+11-Create-A-New-Function,test.py,'range' call function,25,25,13,A2
+11-Create-A-New-Function,test.py,Files --> 'open' call function,32,32,9,A2
+11-Create-A-New-Function,test.py,Files --> 'read' call function,33,33,18,A2
+11-Create-A-New-Function,test.py,Simple Atributte,11,11,1,A2
+11-Create-A-New-Function,test.py,Simple Atributte,20,20,1,A2
+11-Create-A-New-Function,test.py,Simple Atributte,30,30,1,A2
+11-Create-A-New-Function,test.py,Simple Atributte,43,43,4,A2
+11-Create-A-New-Function,test.py,Simple Atributte,45,45,4,A2
+11-Create-A-New-Function,test.py,Simple Atributte,45,45,17,A2
+11-Create-A-New-Function,test.py,Simple Atributte,40,40,1,A2
+11-Create-A-New-Function,test.py,Simple Atributte,8,8,7,A2
+11-Create-A-New-Function,test.py,Simple Atributte,11,11,1,A2
+11-Create-A-New-Function,test.py,Simple Atributte,20,20,1,A2
+11-Create-A-New-Function,test.py,Simple Atributte,30,30,1,A2
+11-Create-A-New-Function,test.py,Simple Atributte,42,42,22,A2
+11-Create-A-New-Function,test.py,Simple Atributte,44,44,4,A2
+11-Create-A-New-Function,test.py,Simple Atributte,46,46,13,A2
+11-Create-A-New-Function,test.py,Simple Atributte,47,47,12,A2
+11-Create-A-New-Function,test.py,Simple Atributte,40,40,1,A2
+11-Create-A-New-Function,test.py,Simple Atributte,8,8,7,A2
+11-Create-A-New-Function,test.py,Simple Atributte,8,8,23,A2
+11-Create-A-New-Function,test.py,Simple Atributte,33,33,18,A2
+11-Create-A-New-Function,test.py,Simple Atributte,34,34,16,A2
+11-Create-A-New-Function,test.py,Simple Atributte,35,35,17,A2
+11-Create-A-New-Function,test.py,Simple Atributte,8,8,23,A2
+11-Create-A-New-Function,test.py,Simple Atributte,48,48,16,A2
+11-Create-A-New-Function,test.py,Simple Atributte,36,36,20,A2
+11-Create-A-New-Function,test.py,Simple Atributte,37,37,12,A2
+11-Create-A-New-Function,test.py,Boolean Operation,27,27,15,A1
+11-Create-A-New-Function,test.py,Boolean Operation,36,37,15,A1
+11-Create-A-New-Function,test.py,Assigment with sum (total = total + 1),8,8,0,A1
+11-Create-A-New-Function,test.py,Simple Assignment,23,23,4,A1
+11-Create-A-New-Function,test.py,Simple Assignment,42,42,4,A1
+11-Create-A-New-Function,test.py,Simple Assignment,43,43,4,A1
+11-Create-A-New-Function,test.py,Simple Assignment,45,45,4,A1
+11-Create-A-New-Function,test.py,Simple Assignment,46,46,4,A1
+11-Create-A-New-Function,test.py,Simple Assignment,47,47,4,A1
+11-Create-A-New-Function,test.py,Simple Assignment,26,26,8,A1
+11-Create-A-New-Function,test.py,Simple Assignment,33,33,8,A1
+11-Create-A-New-Function,test.py,Simple Assignment,34,34,8,A1
+11-Create-A-New-Function,test.py,Simple Assignment,35,35,8,A1
+11-Create-A-New-Function,test.py,'raise' exception,16,17,8,B1
+11-Create-A-New-Function,test.py,'assert' exception,24,24,4,B2
+11-Create-A-New-Function,test.py,'assert' exception,48,48,4,B2
+11-Create-A-New-Function,test.py,'assert' exception,27,27,8,B2
+11-Create-A-New-Function,test.py,'assert' exception,36,37,8,B2
+11-Create-A-New-Function,test.py,Import,1,1,0,A2
+11-Create-A-New-Function,test.py,Import,2,2,0,A2
+11-Create-A-New-Function,test.py,Import,3,3,0,A2
+11-Create-A-New-Function,test.py,Import,4,4,0,A2
+11-Create-A-New-Function,test.py,Import're' module,5,5,0,C1
+11-Create-A-New-Function,test.py,Import,6,6,0,A2
+11-Create-A-New-Function,test.py,Import,7,7,0,A2
+11-Create-A-New-Function,test.py,From,22,22,4,A2
+11-Create-A-New-Function,test.py,From,14,14,8,A2
+11-Create-A-New-Function,test.py,Alias,1,1,7,A1
+11-Create-A-New-Function,test.py,Alias,2,2,7,A1
+11-Create-A-New-Function,test.py,Alias,3,3,7,A1
+11-Create-A-New-Function,test.py,Alias,4,4,7,A1
+11-Create-A-New-Function,test.py,Alias,5,5,7,A1
+11-Create-A-New-Function,test.py,Alias,6,6,7,A1
+11-Create-A-New-Function,test.py,Alias,7,7,7,A1
+11-Create-A-New-Function,test.py,Alias,22,22,20,A1
+11-Create-A-New-Function,test.py,Alias,14,14,24,A1
+11-Create-A-New-Function,test.py,Simple For Loop,25,27,4,A1
+11-Create-A-New-Function,test.py,Exception --> try/except,13,17,4,B1
+11-Create-A-New-Function,test.py,With,32,37,4,B1
+11-Create-A-New-Function,test.py,Except Handler,15,17,4,A1
+11-Create-A-New-Function,test.py,Function,12,17,0,A1
+11-Create-A-New-Function,test.py,Function,21,27,0,A1
+11-Create-A-New-Function,test.py,Function,31,37,0,A1
+11-Create-A-New-Function,test.py,Function,41,48,0,A1
+11-Create-A-New-Function,solution.hide.py,Print,8,8,0,A1
+11-Create-A-New-Function,solution.hide.py,Simple Atributte,5,5,13,A2
+11-Create-A-New-Function,solution.hide.py,Simple Assignment,5,5,4,A1
+11-Create-A-New-Function,solution.hide.py,Import,1,1,0,A2
+11-Create-A-New-Function,solution.hide.py,Alias,1,1,7,A1
+11-Create-A-New-Function,solution.hide.py,Function,4,6,0,A1
+11-Create-A-New-Function,solution.hide.py,Return,6,6,4,A1
+11-Create-A-New-Function,app.py,Import,1,1,0,A2
+11-Create-A-New-Function,app.py,Alias,1,1,7,A1
+04-Multiply-Two-Values,test.py,Files --> 'open' call function,30,30,9,A2
+04-Multiply-Two-Values,test.py,Files --> 'read' call function,31,31,18,A2
+04-Multiply-Two-Values,test.py,Files --> 'open' call function,38,38,9,A2
+04-Multiply-Two-Values,test.py,Files --> 'read' call function,39,39,18,A2
+04-Multiply-Two-Values,test.py,Simple Atributte,3,3,0,A2
+04-Multiply-Two-Values,test.py,Simple Atributte,3,3,22,A2
+04-Multiply-Two-Values,test.py,Simple Atributte,11,11,1,A2
+04-Multiply-Two-Values,test.py,Simple Atributte,18,18,1,A2
+04-Multiply-Two-Values,test.py,Simple Atributte,23,23,1,A2
+04-Multiply-Two-Values,test.py,Simple Atributte,28,28,1,A2
+04-Multiply-Two-Values,test.py,Simple Atributte,36,36,1,A2
+04-Multiply-Two-Values,test.py,Simple Atributte,9,9,7,A2
+04-Multiply-Two-Values,test.py,Simple Atributte,11,11,1,A2
+04-Multiply-Two-Values,test.py,Simple Atributte,20,20,13,A2
+04-Multiply-Two-Values,test.py,Simple Atributte,18,18,1,A2
+04-Multiply-Two-Values,test.py,Simple Atributte,25,25,15,A2
+04-Multiply-Two-Values,test.py,Simple Atributte,23,23,1,A2
+04-Multiply-Two-Values,test.py,Simple Atributte,28,28,1,A2
+04-Multiply-Two-Values,test.py,Simple Atributte,36,36,1,A2
+04-Multiply-Two-Values,test.py,Simple Atributte,9,9,7,A2
+04-Multiply-Two-Values,test.py,Simple Atributte,9,9,23,A2
+04-Multiply-Two-Values,test.py,Simple Atributte,31,31,18,A2
+04-Multiply-Two-Values,test.py,Simple Atributte,33,33,16,A2
+04-Multiply-Two-Values,test.py,Simple Atributte,39,39,18,A2
+04-Multiply-Two-Values,test.py,Simple Atributte,9,9,23,A2
+04-Multiply-Two-Values,test.py,Simple Atributte,34,34,20,A2
+04-Multiply-Two-Values,test.py,Simple Assignment,3,3,0,A1
+04-Multiply-Two-Values,test.py,Assigment with sum (total = total + 1),9,9,0,A1
+04-Multiply-Two-Values,test.py,Simple Assignment,20,20,4,A1
+04-Multiply-Two-Values,test.py,Simple Assignment,25,25,4,A1
+04-Multiply-Two-Values,test.py,Simple Assignment,31,31,8,A1
+04-Multiply-Two-Values,test.py,Simple Assignment,33,33,8,A1
+04-Multiply-Two-Values,test.py,Simple Assignment,39,39,8,A1
+04-Multiply-Two-Values,test.py,'raise' exception,16,16,8,B1
+04-Multiply-Two-Values,test.py,'assert' exception,21,21,4,B2
+04-Multiply-Two-Values,test.py,'assert' exception,26,26,4,B2
+04-Multiply-Two-Values,test.py,'assert' exception,34,34,8,B2
+04-Multiply-Two-Values,test.py,'assert' exception,41,41,8,B2
+04-Multiply-Two-Values,test.py,Import,1,1,0,A2
+04-Multiply-Two-Values,test.py,Import,2,2,0,A2
+04-Multiply-Two-Values,test.py,Import,5,5,0,A2
+04-Multiply-Two-Values,test.py,Import,6,6,0,A2
+04-Multiply-Two-Values,test.py,Import,7,7,0,A2
+04-Multiply-Two-Values,test.py,Import're' module,8,8,0,C1
+04-Multiply-Two-Values,test.py,From,14,14,8,A2
+04-Multiply-Two-Values,test.py,Alias,1,1,7,A1
+04-Multiply-Two-Values,test.py,Alias,2,2,7,A1
+04-Multiply-Two-Values,test.py,Alias,5,5,7,A1
+04-Multiply-Two-Values,test.py,Alias,6,6,7,A1
+04-Multiply-Two-Values,test.py,Alias,7,7,7,A1
+04-Multiply-Two-Values,test.py,Alias,8,8,7,A1
+04-Multiply-Two-Values,test.py,Alias,14,14,24,A1
+04-Multiply-Two-Values,test.py,Exception --> try/except,13,16,4,B1
+04-Multiply-Two-Values,test.py,With,30,34,4,B1
+04-Multiply-Two-Values,test.py,With,38,41,4,B1
+04-Multiply-Two-Values,test.py,Except Handler,15,16,4,A1
+04-Multiply-Two-Values,test.py,Function,12,16,0,A1
+04-Multiply-Two-Values,test.py,Function,19,21,0,A1
+04-Multiply-Two-Values,test.py,Function with Simple argument,24,26,0,A1
+04-Multiply-Two-Values,test.py,Function,29,34,0,A1
+04-Multiply-Two-Values,test.py,Function,37,41,0,A1
+04-Multiply-Two-Values,solution.hide.py,Print,4,4,0,A1
+04-Multiply-Two-Values,solution.hide.py,Assigment with sum (total = total + 1),3,3,0,A1
+06-String-Concatenation,test.py,Simple Atributte,2,2,0,A2
+06-String-Concatenation,test.py,Simple Atributte,2,2,22,A2
+06-String-Concatenation,test.py,Simple Atributte,6,6,1,A2
+06-String-Concatenation,test.py,Simple Atributte,13,13,1,A2
+06-String-Concatenation,test.py,Simple Atributte,20,20,1,A2
+06-String-Concatenation,test.py,Simple Atributte,25,25,1,A2
+06-String-Concatenation,test.py,Simple Atributte,30,30,1,A2
+06-String-Concatenation,test.py,Simple Atributte,38,38,1,A2
+06-String-Concatenation,test.py,Simple Atributte,6,6,1,A2
+06-String-Concatenation,test.py,Simple Atributte,13,13,1,A2
+06-String-Concatenation,test.py,Simple Atributte,20,20,1,A2
+06-String-Concatenation,test.py,Simple Atributte,25,25,1,A2
+06-String-Concatenation,test.py,Simple Atributte,34,34,8,A2
+06-String-Concatenation,test.py,Simple Atributte,30,30,1,A2
+06-String-Concatenation,test.py,Simple Atributte,40,40,15,A2
+06-String-Concatenation,test.py,Simple Atributte,38,38,1,A2
+06-String-Concatenation,test.py,Simple Atributte,23,23,12,A2
+06-String-Concatenation,test.py,Simple Atributte,28,28,13,A2
+06-String-Concatenation,test.py,Simple Atributte,41,41,30,A2
+06-String-Concatenation,test.py,Simple Assignment,2,2,0,A1
+06-String-Concatenation,test.py,Simple Assignment,40,40,4,A1
+06-String-Concatenation,test.py,'raise' exception,11,11,8,B1
+06-String-Concatenation,test.py,'raise' exception,18,18,8,B1
+06-String-Concatenation,test.py,'raise' exception,36,36,8,B1
+06-String-Concatenation,test.py,'assert' exception,23,23,4,B2
+06-String-Concatenation,test.py,'assert' exception,28,28,4,B2
+06-String-Concatenation,test.py,'assert' exception,41,41,4,B2
+06-String-Concatenation,test.py,Import're' module,1,1,0,C1
+06-String-Concatenation,test.py,Import,4,4,0,A2
+06-String-Concatenation,test.py,Import,32,32,4,A2
+06-String-Concatenation,test.py,From,22,22,4,A2
+06-String-Concatenation,test.py,From,27,27,4,A2
+06-String-Concatenation,test.py,From,9,9,8,A2
+06-String-Concatenation,test.py,From,16,16,8,A2
+06-String-Concatenation,test.py,Alias,1,1,7,A1
+06-String-Concatenation,test.py,Alias,1,1,11,A1
+06-String-Concatenation,test.py,Alias,1,1,16,A1
+06-String-Concatenation,test.py,Alias,1,1,20,A1
+06-String-Concatenation,test.py,Alias,1,1,24,A1
+06-String-Concatenation,test.py,Alias,4,4,7,A1
+06-String-Concatenation,test.py,Alias,22,22,20,A1
+06-String-Concatenation,test.py,Alias,27,27,20,A1
+06-String-Concatenation,test.py,Alias,32,32,11,A1
+06-String-Concatenation,test.py,Alias,9,9,24,A1
+06-String-Concatenation,test.py,Alias,16,16,24,A1
+06-String-Concatenation,test.py,Exception --> try/except,8,11,4,B1
+06-String-Concatenation,test.py,Exception --> try/except,15,18,4,B1
+06-String-Concatenation,test.py,Exception --> try/except,33,36,4,B1
+06-String-Concatenation,test.py,Except Handler,10,11,4,A1
+06-String-Concatenation,test.py,Except Handler,17,18,4,A1
+06-String-Concatenation,test.py,Except Handler,35,36,4,A1
+06-String-Concatenation,test.py,Function,7,11,0,A1
+06-String-Concatenation,test.py,Function,14,18,0,A1
+06-String-Concatenation,test.py,Function,21,23,0,A1
+06-String-Concatenation,test.py,Function,26,28,0,A1
+06-String-Concatenation,test.py,Function,31,36,0,A1
+06-String-Concatenation,test.py,Function,39,41,0,A1
+06-String-Concatenation,solution.hide.py,Print,8,8,0,A1
+06-String-Concatenation,solution.hide.py,Simple Assignment,3,3,0,A1
+06-String-Concatenation,solution.hide.py,Simple Assignment,4,4,0,A1
+06-String-Concatenation,solution.hide.py,Assigment with sum (total = total + 1),7,7,0,A1
+06-String-Concatenation,app.py,Print,6,6,0,A1
+06-String-Concatenation,app.py,Assigment with sum (total = total + 1),5,5,0,A1
+09-Random-Numbers,test.py,Files --> 'open' call function,15,15,9,A2
+09-Random-Numbers,test.py,Files --> 'read' call function,16,16,18,A2
+09-Random-Numbers,test.py,'range' call function,31,31,17,A2
+09-Random-Numbers,test.py,'range' call function,44,44,17,A2
+09-Random-Numbers,test.py,Simple Atributte,3,3,0,A2
+09-Random-Numbers,test.py,Simple Atributte,3,3,22,A2
+09-Random-Numbers,test.py,Simple Atributte,12,12,1,A2
+09-Random-Numbers,test.py,Simple Atributte,21,21,1,A2
+09-Random-Numbers,test.py,Simple Atributte,28,28,1,A2
+09-Random-Numbers,test.py,Simple Atributte,38,38,1,A2
+09-Random-Numbers,test.py,Simple Atributte,12,12,1,A2
+09-Random-Numbers,test.py,Simple Atributte,21,21,1,A2
+09-Random-Numbers,test.py,Simple Atributte,28,28,1,A2
+09-Random-Numbers,test.py,Simple Atributte,38,38,1,A2
+09-Random-Numbers,test.py,Simple Atributte,14,14,11,A2
+09-Random-Numbers,test.py,Simple Atributte,16,16,18,A2
+09-Random-Numbers,test.py,Simple Atributte,18,18,16,A2
+09-Random-Numbers,test.py,Simple Atributte,24,24,15,A2
+09-Random-Numbers,test.py,Simple Atributte,43,43,17,A2
+09-Random-Numbers,test.py,Simple Atributte,14,14,11,A2
+09-Random-Numbers,test.py,Simple Atributte,14,14,27,A2
+09-Random-Numbers,test.py,Simple Atributte,33,33,21,A2
+09-Random-Numbers,test.py,Simple Atributte,14,14,27,A2
+09-Random-Numbers,test.py,Simple Atributte,19,19,20,A2
+09-Random-Numbers,test.py,Simple Atributte,45,45,25,A2
+09-Random-Numbers,test.py,Boolean Operation,34,34,19,A1
+09-Random-Numbers,test.py,Simple Assignment,3,3,0,A1
+09-Random-Numbers,test.py,Assigment with sum (total = total + 1),14,14,4,A1
+09-Random-Numbers,test.py,Simple Assignment,16,16,8,A1
+09-Random-Numbers,test.py,Simple Assignment,17,17,8,A1
+09-Random-Numbers,test.py,Simple Assignment,18,18,8,A1
+09-Random-Numbers,test.py,Simple Assignment,42,42,8,A1
+09-Random-Numbers,test.py,Simple Assignment,43,43,8,A1
+09-Random-Numbers,test.py,Simple Assignment,33,33,12,A1
+09-Random-Numbers,test.py,Simplified incremental Assignment with increase amount,46,46,16,A2
+09-Random-Numbers,test.py,'raise' exception,26,26,8,B1
+09-Random-Numbers,test.py,'raise' exception,36,36,8,B1
+09-Random-Numbers,test.py,'raise' exception,50,50,8,B1
+09-Random-Numbers,test.py,'assert' exception,19,19,8,B2
+09-Random-Numbers,test.py,'assert' exception,24,24,8,B2
+09-Random-Numbers,test.py,'assert' exception,48,48,8,B2
+09-Random-Numbers,test.py,'assert' exception,34,34,12,B2
+09-Random-Numbers,test.py,Import,1,1,0,A2
+09-Random-Numbers,test.py,Import,2,2,0,A2
+09-Random-Numbers,test.py,Import,6,6,0,A2
+09-Random-Numbers,test.py,Import,7,7,0,A2
+09-Random-Numbers,test.py,Import're' module,8,8,0,C1
+09-Random-Numbers,test.py,Import,9,9,0,A2
+09-Random-Numbers,test.py,Alias,1,1,7,A1
+09-Random-Numbers,test.py,Alias,2,2,7,A1
+09-Random-Numbers,test.py,Alias,6,6,7,A1
+09-Random-Numbers,test.py,Alias,7,7,7,A1
+09-Random-Numbers,test.py,Alias,8,8,7,A1
+09-Random-Numbers,test.py,Alias,9,9,7,A1
+09-Random-Numbers,test.py,Simple If statements,45,46,12,A1
+09-Random-Numbers,test.py,Simple For Loop,31,34,8,A1
+09-Random-Numbers,test.py,Simple For Loop,44,46,8,A1
+09-Random-Numbers,test.py,Exception --> try/except,23,26,4,B1
+09-Random-Numbers,test.py,Exception --> try/except,30,36,4,B1
+09-Random-Numbers,test.py,Exception --> try/except,41,50,4,B1
+09-Random-Numbers,test.py,With,15,19,4,B1
+09-Random-Numbers,test.py,Except Handler,25,26,4,A1
+09-Random-Numbers,test.py,Except Handler,35,36,4,A1
+09-Random-Numbers,test.py,Except Handler,49,50,4,A1
+09-Random-Numbers,test.py,Function,13,19,0,A1
+09-Random-Numbers,test.py,Function,22,26,0,A1
+09-Random-Numbers,test.py,Function,29,36,0,A1
+09-Random-Numbers,test.py,Function,40,50,0,A1
+09-Random-Numbers,solution.hide.py,Print,8,8,0,A1
+09-Random-Numbers,solution.hide.py,Simple Atributte,5,5,17,A2
+09-Random-Numbers,solution.hide.py,Simple Assignment,5,5,1,A1
+09-Random-Numbers,solution.hide.py,Import,1,1,0,A2
+09-Random-Numbers,solution.hide.py,Alias,1,1,7,A1
+09-Random-Numbers,solution.hide.py,Function,3,6,0,A1
+09-Random-Numbers,solution.hide.py,Return,6,6,1,A1
+09-Random-Numbers,app.py,Print,8,8,0,A1
+09-Random-Numbers,app.py,Simple Atributte,5,5,17,A2
+09-Random-Numbers,app.py,Simple Assignment,5,5,1,A1
+09-Random-Numbers,app.py,Import,1,1,0,A2
+09-Random-Numbers,app.py,Alias,1,1,7,A1
+09-Random-Numbers,app.py,Function,3,6,0,A1
+09-Random-Numbers,app.py,Return,6,6,1,A1
+03-Print-Variables-In-The-Console,test.py,Simple Atributte,3,3,0,A2
+03-Print-Variables-In-The-Console,test.py,Simple Atributte,3,3,22,A2
+03-Print-Variables-In-The-Console,test.py,Simple Atributte,13,13,13,A2
+03-Print-Variables-In-The-Console,test.py,Simple Atributte,11,11,1,A2
+03-Print-Variables-In-The-Console,test.py,Simple Atributte,18,18,13,A2
+03-Print-Variables-In-The-Console,test.py,Simple Atributte,16,16,1,A2
+03-Print-Variables-In-The-Console,test.py,Simple Atributte,21,21,1,A2
+03-Print-Variables-In-The-Console,test.py,Simple Atributte,9,9,7,A2
+03-Print-Variables-In-The-Console,test.py,Simple Atributte,11,11,1,A2
+03-Print-Variables-In-The-Console,test.py,Simple Atributte,16,16,1,A2
+03-Print-Variables-In-The-Console,test.py,Simple Atributte,23,23,15,A2
+03-Print-Variables-In-The-Console,test.py,Simple Atributte,21,21,1,A2
+03-Print-Variables-In-The-Console,test.py,Simple Atributte,9,9,7,A2
+03-Print-Variables-In-The-Console,test.py,Simple Atributte,9,9,23,A2
+03-Print-Variables-In-The-Console,test.py,Simple Atributte,9,9,23,A2
+03-Print-Variables-In-The-Console,test.py,Simple Assignment,3,3,0,A1
+03-Print-Variables-In-The-Console,test.py,Assigment with sum (total = total + 1),9,9,0,A1
+03-Print-Variables-In-The-Console,test.py,Simple Assignment,13,13,4,A1
+03-Print-Variables-In-The-Console,test.py,Simple Assignment,18,18,4,A1
+03-Print-Variables-In-The-Console,test.py,Simple Assignment,23,23,4,A1
+03-Print-Variables-In-The-Console,test.py,'assert' exception,14,14,4,B2
+03-Print-Variables-In-The-Console,test.py,'assert' exception,19,19,4,B2
+03-Print-Variables-In-The-Console,test.py,'assert' exception,24,24,4,B2
+03-Print-Variables-In-The-Console,test.py,Import,1,1,0,A2
+03-Print-Variables-In-The-Console,test.py,Import,2,2,0,A2
+03-Print-Variables-In-The-Console,test.py,Import,5,5,0,A2
+03-Print-Variables-In-The-Console,test.py,Import,6,6,0,A2
+03-Print-Variables-In-The-Console,test.py,Import,7,7,0,A2
+03-Print-Variables-In-The-Console,test.py,Alias,1,1,7,A1
+03-Print-Variables-In-The-Console,test.py,Alias,2,2,7,A1
+03-Print-Variables-In-The-Console,test.py,Alias,5,5,7,A1
+03-Print-Variables-In-The-Console,test.py,Alias,6,6,7,A1
+03-Print-Variables-In-The-Console,test.py,Alias,7,7,7,A1
+03-Print-Variables-In-The-Console,test.py,Function,12,14,0,A1
+03-Print-Variables-In-The-Console,test.py,Function,17,19,0,A1
+03-Print-Variables-In-The-Console,test.py,Function with Simple argument,22,24,0,A1
+03-Print-Variables-In-The-Console,solution.hide.py,Print,5,5,0,A1
+03-Print-Variables-In-The-Console,solution.hide.py,Simple Assignment,3,3,0,A1
+03-Print-Variables-In-The-Console,solution.hide.py,Simple Assignment,4,4,0,A1
+17-Russian-Roulette,test.py,Files --> 'open' call function,28,28,8,A2
+17-Russian-Roulette,test.py,Simple Atributte,3,3,0,A2
+17-Russian-Roulette,test.py,Simple Atributte,3,3,22,A2
+17-Russian-Roulette,test.py,Simple Atributte,13,13,11,A2
+17-Russian-Roulette,test.py,Simple Atributte,11,11,1,A2
+17-Russian-Roulette,test.py,Simple Atributte,17,17,11,A2
+17-Russian-Roulette,test.py,Simple Atributte,15,15,1,A2
+17-Russian-Roulette,test.py,Simple Atributte,19,19,1,A2
+17-Russian-Roulette,test.py,Simple Atributte,26,26,1,A2
+17-Russian-Roulette,test.py,Simple Atributte,11,11,1,A2
+17-Russian-Roulette,test.py,Simple Atributte,15,15,1,A2
+17-Russian-Roulette,test.py,Simple Atributte,21,21,29,A2
+17-Russian-Roulette,test.py,Simple Atributte,19,19,1,A2
+17-Russian-Roulette,test.py,Simple Atributte,29,29,14,A2
+17-Russian-Roulette,test.py,Simple Atributte,32,32,21,A2
+17-Russian-Roulette,test.py,Simple Atributte,34,34,11,A2
+17-Russian-Roulette,test.py,Simple Atributte,26,26,1,A2
+17-Russian-Roulette,test.py,Simple Atributte,21,21,7,A2
+17-Russian-Roulette,test.py,Simple Atributte,30,30,15,A2
+17-Russian-Roulette,test.py,Simple Atributte,22,22,15,A2
+17-Russian-Roulette,test.py,Simple Atributte,24,24,15,A2
+17-Russian-Roulette,test.py,Simple Atributte,28,28,13,A2
+17-Russian-Roulette,test.py,Simple Atributte,28,28,13,A2
+17-Russian-Roulette,test.py,Simple Atributte,28,28,29,A2
+17-Russian-Roulette,test.py,Simple Atributte,28,28,29,A2
+17-Russian-Roulette,test.py,Subscript,32,32,35,A1
+17-Russian-Roulette,test.py,Subscript,34,34,27,A1
+17-Russian-Roulette,test.py,Subscript,31,31,30,A1
+17-Russian-Roulette,test.py,Slice,31,31,38,A1
+17-Russian-Roulette,test.py,Simple List Comprehension,30,30,14,C1
+17-Russian-Roulette,test.py,List Comprehension with 1If statements,31,31,18,C1
+17-Russian-Roulette,test.py,Simple Assignment,3,3,0,A1
+17-Russian-Roulette,test.py,Simple Assignment,28,28,4,A1
+17-Russian-Roulette,test.py,Simple Assignment,29,29,4,A1
+17-Russian-Roulette,test.py,Simple Assignment,30,30,4,A1
+17-Russian-Roulette,test.py,Simple Assignment,31,31,4,A1
+17-Russian-Roulette,test.py,Simple Assignment,32,32,4,A1
+17-Russian-Roulette,test.py,Simple Assignment,33,33,4,A1
+17-Russian-Roulette,test.py,'assert' exception,13,13,4,B2
+17-Russian-Roulette,test.py,'assert' exception,17,17,4,B2
+17-Russian-Roulette,test.py,'assert' exception,34,34,4,B2
+17-Russian-Roulette,test.py,'assert' exception,22,22,8,B2
+17-Russian-Roulette,test.py,'assert' exception,24,24,8,B2
+17-Russian-Roulette,test.py,Import,1,1,0,A2
+17-Russian-Roulette,test.py,Import,2,2,0,A2
+17-Russian-Roulette,test.py,Import,6,6,0,A2
+17-Russian-Roulette,test.py,Import,7,7,0,A2
+17-Russian-Roulette,test.py,Import're' module,8,8,0,C1
+17-Russian-Roulette,test.py,Import,9,9,0,A2
+17-Russian-Roulette,test.py,Alias,1,1,7,A1
+17-Russian-Roulette,test.py,Alias,2,2,7,A1
+17-Russian-Roulette,test.py,Alias,6,6,7,A1
+17-Russian-Roulette,test.py,Alias,7,7,7,A1
+17-Russian-Roulette,test.py,Alias,8,8,7,A1
+17-Russian-Roulette,test.py,Alias,9,9,7,A1
+17-Russian-Roulette,test.py,Simple If statements,21,24,4,A1
+17-Russian-Roulette,test.py,Function with Simple argument,12,13,0,A1
+17-Russian-Roulette,test.py,Function with Simple argument,16,17,0,A1
+17-Russian-Roulette,test.py,Function with Simple argument,20,24,0,A1
+17-Russian-Roulette,test.py,Function with Simple argument,27,34,0,A1
+17-Russian-Roulette,solution.hide.py,Print,17,17,0,A1
+17-Russian-Roulette,solution.hide.py,Simple Atributte,6,6,20,A2
+17-Russian-Roulette,solution.hide.py,Simple Assignment,3,3,0,A1
+17-Russian-Roulette,solution.hide.py,Simple Assignment,6,6,1,A1
+17-Russian-Roulette,solution.hide.py,Import,1,1,0,A2
+17-Russian-Roulette,solution.hide.py,Alias,1,1,7,A1
+17-Russian-Roulette,solution.hide.py,Simple If statements,12,15,1,A1
+17-Russian-Roulette,solution.hide.py,Function,5,7,0,A1
+17-Russian-Roulette,solution.hide.py,Function,10,15,0,A1
+17-Russian-Roulette,solution.hide.py,Return,7,7,1,A1
+17-Russian-Roulette,solution.hide.py,Return,13,13,2,A1
+17-Russian-Roulette,solution.hide.py,Return,15,15,2,A1
+17-Russian-Roulette,app.py,Print,15,15,0,A1
+17-Russian-Roulette,app.py,Simple Atributte,6,6,20,A2
+17-Russian-Roulette,app.py,Simple Assignment,3,3,0,A1
+17-Russian-Roulette,app.py,Simple Assignment,6,6,1,A1
+17-Russian-Roulette,app.py,Import,1,1,0,A2
+17-Russian-Roulette,app.py,Alias,1,1,7,A1
+17-Russian-Roulette,app.py,Function,5,7,0,A1
+17-Russian-Roulette,app.py,Function,10,12,0,A1
+17-Russian-Roulette,app.py,Return,7,7,1,A1
+17-Russian-Roulette,app.py,Return,12,12,1,A1
+14-Create-A-For-Loop,test.py,Files --> 'open' call function,21,21,9,A2
+14-Create-A-For-Loop,test.py,Files --> 'read' call function,22,22,18,A2
+14-Create-A-For-Loop,test.py,Files --> 'open' call function,38,38,9,A2
+14-Create-A-For-Loop,test.py,Files --> 'read' call function,39,39,18,A2
+14-Create-A-For-Loop,test.py,Files --> 'open' call function,45,45,9,A2
+14-Create-A-For-Loop,test.py,Files --> 'read' call function,46,46,18,A2
+14-Create-A-For-Loop,test.py,'range' call function,29,29,64,A2
+14-Create-A-For-Loop,test.py,'range' call function,30,30,67,A2
+14-Create-A-For-Loop,test.py,Simple Atributte,3,3,0,A2
+14-Create-A-For-Loop,test.py,Simple Atributte,3,3,22,A2
+14-Create-A-For-Loop,test.py,Simple Atributte,12,12,1,A2
+14-Create-A-For-Loop,test.py,Simple Atributte,19,19,1,A2
+14-Create-A-For-Loop,test.py,Simple Atributte,26,26,1,A2
+14-Create-A-For-Loop,test.py,Simple Atributte,36,36,1,A2
+14-Create-A-For-Loop,test.py,Simple Atributte,43,43,1,A2
+14-Create-A-For-Loop,test.py,Simple Atributte,10,10,7,A2
+14-Create-A-For-Loop,test.py,Simple Atributte,12,12,1,A2
+14-Create-A-For-Loop,test.py,Simple Atributte,19,19,1,A2
+14-Create-A-For-Loop,test.py,Simple Atributte,28,28,15,A2
+14-Create-A-For-Loop,test.py,Simple Atributte,26,26,1,A2
+14-Create-A-For-Loop,test.py,Simple Atributte,36,36,1,A2
+14-Create-A-For-Loop,test.py,Simple Atributte,43,43,1,A2
+14-Create-A-For-Loop,test.py,Simple Atributte,10,10,7,A2
+14-Create-A-For-Loop,test.py,Simple Atributte,10,10,23,A2
+14-Create-A-For-Loop,test.py,Simple Atributte,22,22,18,A2
+14-Create-A-For-Loop,test.py,Simple Atributte,23,23,16,A2
+14-Create-A-For-Loop,test.py,Simple Atributte,39,39,18,A2
+14-Create-A-For-Loop,test.py,Simple Atributte,40,40,16,A2
+14-Create-A-For-Loop,test.py,Simple Atributte,46,46,18,A2
+14-Create-A-For-Loop,test.py,Simple Atributte,48,48,16,A2
+14-Create-A-For-Loop,test.py,Simple Atributte,10,10,23,A2
+14-Create-A-For-Loop,test.py,Simple Atributte,32,32,37,A2
+14-Create-A-For-Loop,test.py,Simple Atributte,32,32,72,A2
+14-Create-A-For-Loop,test.py,Simple Atributte,24,24,20,A2
+14-Create-A-For-Loop,test.py,Simple Atributte,41,41,20,A2
+14-Create-A-For-Loop,test.py,Simple Atributte,49,49,20,A2
+14-Create-A-For-Loop,test.py,Boolean Operation,32,32,24,A1
+14-Create-A-For-Loop,test.py,Simple List Comprehension,29,29,15,C1
+14-Create-A-For-Loop,test.py,Simple List Comprehension,30,30,17,C1
+14-Create-A-For-Loop,test.py,Simple Assignment,3,3,0,A1
+14-Create-A-For-Loop,test.py,Assigment with sum (total = total + 1),10,10,0,A1
+14-Create-A-For-Loop,test.py,Simple Assignment,28,28,4,A1
+14-Create-A-For-Loop,test.py,Simple Assignment,29,29,4,A1
+14-Create-A-For-Loop,test.py,Simple Assignment,30,30,4,A1
+14-Create-A-For-Loop,test.py,Simple Assignment,32,32,4,A1
+14-Create-A-For-Loop,test.py,Simple Assignment,22,22,8,A1
+14-Create-A-For-Loop,test.py,Simple Assignment,23,23,8,A1
+14-Create-A-For-Loop,test.py,Simple Assignment,39,39,8,A1
+14-Create-A-For-Loop,test.py,Simple Assignment,40,40,8,A1
+14-Create-A-For-Loop,test.py,Simple Assignment,46,46,8,A1
+14-Create-A-For-Loop,test.py,Simple Assignment,47,47,8,A1
+14-Create-A-For-Loop,test.py,Simple Assignment,48,48,8,A1
+14-Create-A-For-Loop,test.py,'raise' exception,17,17,8,B1
+14-Create-A-For-Loop,test.py,'assert' exception,34,34,4,B2
+14-Create-A-For-Loop,test.py,'assert' exception,24,24,8,B2
+14-Create-A-For-Loop,test.py,'assert' exception,41,41,8,B2
+14-Create-A-For-Loop,test.py,'assert' exception,49,49,8,B2
+14-Create-A-For-Loop,test.py,Import,1,1,0,A2
+14-Create-A-For-Loop,test.py,Import,2,2,0,A2
+14-Create-A-For-Loop,test.py,Import,6,6,0,A2
+14-Create-A-For-Loop,test.py,Import,7,7,0,A2
+14-Create-A-For-Loop,test.py,Import,8,8,0,A2
+14-Create-A-For-Loop,test.py,Import're' module,9,9,0,C1
+14-Create-A-For-Loop,test.py,From,15,15,8,A2
+14-Create-A-For-Loop,test.py,Alias,1,1,7,A1
+14-Create-A-For-Loop,test.py,Alias,2,2,7,A1
+14-Create-A-For-Loop,test.py,Alias,6,6,7,A1
+14-Create-A-For-Loop,test.py,Alias,7,7,7,A1
+14-Create-A-For-Loop,test.py,Alias,8,8,7,A1
+14-Create-A-For-Loop,test.py,Alias,9,9,7,A1
+14-Create-A-For-Loop,test.py,Alias,15,15,24,A1
+14-Create-A-For-Loop,test.py,Exception --> try/except,14,17,4,B1
+14-Create-A-For-Loop,test.py,With,21,24,4,B1
+14-Create-A-For-Loop,test.py,With,38,41,4,B1
+14-Create-A-For-Loop,test.py,With,45,49,4,B1
+14-Create-A-For-Loop,test.py,Except Handler,16,17,4,A1
+14-Create-A-For-Loop,test.py,Function,13,17,0,A1
+14-Create-A-For-Loop,test.py,Function,20,24,0,A1
+14-Create-A-For-Loop,test.py,Function with Simple argument,27,34,0,A1
+14-Create-A-For-Loop,test.py,Function,37,41,0,A1
+14-Create-A-For-Loop,test.py,Function,44,49,0,A1
+14-Create-A-For-Loop,solution.hide.py,'range' call function,3,3,13,A2
+14-Create-A-For-Loop,solution.hide.py,Print,4,4,8,A1
+14-Create-A-For-Loop,solution.hide.py,Simple For Loop,3,4,4,A1
+14-Create-A-For-Loop,solution.hide.py,Function,1,4,0,A1
+15-Looping-With-FizzBuzz,test.py,Files --> 'open' call function,21,21,9,A2
+15-Looping-With-FizzBuzz,test.py,Files --> 'read' call function,22,22,18,A2
+15-Looping-With-FizzBuzz,test.py,Simple Atributte,3,3,0,A2
+15-Looping-With-FizzBuzz,test.py,Simple Atributte,3,3,22,A2
+15-Looping-With-FizzBuzz,test.py,Simple Atributte,12,12,1,A2
+15-Looping-With-FizzBuzz,test.py,Simple Atributte,19,19,1,A2
+15-Looping-With-FizzBuzz,test.py,Simple Atributte,26,26,1,A2
+15-Looping-With-FizzBuzz,test.py,Simple Atributte,10,10,7,A2
+15-Looping-With-FizzBuzz,test.py,Simple Atributte,15,15,8,A2
+15-Looping-With-FizzBuzz,test.py,Simple Atributte,12,12,1,A2
+15-Looping-With-FizzBuzz,test.py,Simple Atributte,19,19,1,A2
+15-Looping-With-FizzBuzz,test.py,Simple Atributte,29,29,15,A2
+15-Looping-With-FizzBuzz,test.py,Simple Atributte,30,30,531,A2
+15-Looping-With-FizzBuzz,test.py,Simple Atributte,26,26,1,A2
+15-Looping-With-FizzBuzz,test.py,Simple Atributte,10,10,7,A2
+15-Looping-With-FizzBuzz,test.py,Simple Atributte,10,10,23,A2
+15-Looping-With-FizzBuzz,test.py,Simple Atributte,22,22,18,A2
+15-Looping-With-FizzBuzz,test.py,Simple Atributte,23,23,16,A2
+15-Looping-With-FizzBuzz,test.py,Simple Atributte,10,10,23,A2
+15-Looping-With-FizzBuzz,test.py,Simple Atributte,24,24,20,A2
+15-Looping-With-FizzBuzz,test.py,Simple Assignment,3,3,0,A1
+15-Looping-With-FizzBuzz,test.py,Assigment with sum (total = total + 1),10,10,0,A1
+15-Looping-With-FizzBuzz,test.py,Simple Assignment,29,29,4,A1
+15-Looping-With-FizzBuzz,test.py,Simple Assignment,22,22,8,A1
+15-Looping-With-FizzBuzz,test.py,Simple Assignment,23,23,8,A1
+15-Looping-With-FizzBuzz,test.py,'raise' exception,17,17,8,B1
+15-Looping-With-FizzBuzz,test.py,'assert' exception,30,30,4,B2
+15-Looping-With-FizzBuzz,test.py,'assert' exception,24,24,8,B2
+15-Looping-With-FizzBuzz,test.py,Import,1,1,0,A2
+15-Looping-With-FizzBuzz,test.py,Import,2,2,0,A2
+15-Looping-With-FizzBuzz,test.py,Import,6,6,0,A2
+15-Looping-With-FizzBuzz,test.py,Import,7,7,0,A2
+15-Looping-With-FizzBuzz,test.py,Import,8,8,0,A2
+15-Looping-With-FizzBuzz,test.py,Import're' module,9,9,0,C1
+15-Looping-With-FizzBuzz,test.py,From,4,4,0,A2
+15-Looping-With-FizzBuzz,test.py,Alias,1,1,7,A1
+15-Looping-With-FizzBuzz,test.py,Alias,2,2,7,A1
+15-Looping-With-FizzBuzz,test.py,Alias,4,4,16,A1
+15-Looping-With-FizzBuzz,test.py,Alias,6,6,7,A1
+15-Looping-With-FizzBuzz,test.py,Alias,7,7,7,A1
+15-Looping-With-FizzBuzz,test.py,Alias,8,8,7,A1
+15-Looping-With-FizzBuzz,test.py,Alias,9,9,7,A1
+15-Looping-With-FizzBuzz,test.py,Exception --> try/except,14,17,4,B1
+15-Looping-With-FizzBuzz,test.py,With,21,24,4,B1
+15-Looping-With-FizzBuzz,test.py,Except Handler,16,17,4,A1
+15-Looping-With-FizzBuzz,test.py,Function,13,17,0,A1
+15-Looping-With-FizzBuzz,test.py,Function,20,24,0,A1
+15-Looping-With-FizzBuzz,test.py,Function with Simple argument,27,30,0,A1
+15-Looping-With-FizzBuzz,solution.hide.py,'range' call function,3,3,13,A2
+15-Looping-With-FizzBuzz,solution.hide.py,Print,5,5,12,A1
+15-Looping-With-FizzBuzz,solution.hide.py,Print,7,7,12,A1
+15-Looping-With-FizzBuzz,solution.hide.py,Print,9,9,12,A1
+15-Looping-With-FizzBuzz,solution.hide.py,Print,11,11,12,A1
+15-Looping-With-FizzBuzz,solution.hide.py,Boolean Operation,4,4,11,A1
+15-Looping-With-FizzBuzz,solution.hide.py,Simple If statements,4,11,8,A1
+15-Looping-With-FizzBuzz,solution.hide.py,Simple If statements,6,11,8,A1
+15-Looping-With-FizzBuzz,solution.hide.py,Simple If statements,8,11,8,A1
+15-Looping-With-FizzBuzz,solution.hide.py,Simple For Loop,3,11,4,A1
+15-Looping-With-FizzBuzz,solution.hide.py,Function,1,11,0,A1
+01-Console,test.py,Files --> 'open' call function,13,13,9,A2
+01-Console,test.py,Files --> 'read' call function,14,14,18,A2
+01-Console,test.py,Simple Atributte,3,3,0,A2
+01-Console,test.py,Simple Atributte,3,3,22,A2
+01-Console,test.py,Simple Atributte,10,10,1,A2
+01-Console,test.py,Simple Atributte,19,19,1,A2
+01-Console,test.py,Simple Atributte,8,8,7,A2
+01-Console,test.py,Simple Atributte,10,10,1,A2
+01-Console,test.py,Simple Atributte,21,21,15,A2
+01-Console,test.py,Simple Atributte,19,19,1,A2
+01-Console,test.py,Simple Atributte,8,8,7,A2
+01-Console,test.py,Simple Atributte,8,8,23,A2
+01-Console,test.py,Simple Atributte,14,14,18,A2
+01-Console,test.py,Simple Atributte,16,16,16,A2
+01-Console,test.py,Simple Atributte,8,8,23,A2
+01-Console,test.py,Simple Atributte,17,17,20,A2
+01-Console,test.py,Simple Assignment,3,3,0,A1
+01-Console,test.py,Assigment with sum (total = total + 1),8,8,0,A1
+01-Console,test.py,Simple Assignment,21,21,4,A1
+01-Console,test.py,Simple Assignment,14,14,8,A1
+01-Console,test.py,Simple Assignment,15,15,8,A1
+01-Console,test.py,Simple Assignment,16,16,8,A1
+01-Console,test.py,'assert' exception,22,22,4,B2
+01-Console,test.py,'assert' exception,17,17,8,B2
+01-Console,test.py,Import,1,1,0,A2
+01-Console,test.py,Import,2,2,0,A2
+01-Console,test.py,Import,4,4,0,A2
+01-Console,test.py,Import're' module,5,5,0,C1
+01-Console,test.py,Import,6,6,0,A2
+01-Console,test.py,Import,7,7,0,A2
+01-Console,test.py,Alias,1,1,7,A1
+01-Console,test.py,Alias,2,2,7,A1
+01-Console,test.py,Alias,4,4,7,A1
+01-Console,test.py,Alias,5,5,7,A1
+01-Console,test.py,Alias,6,6,7,A1
+01-Console,test.py,Alias,7,7,7,A1
+01-Console,test.py,With,13,17,4,B1
+01-Console,test.py,Function with Simple argument,11,17,0,A1
+01-Console,test.py,Function with Simple argument,20,22,0,A1
+01-Console,solution.hide.py,Print,3,3,0,A1
+02-Declare-Variables,test.py,Files --> 'open' call function,14,14,9,A2
+02-Declare-Variables,test.py,Files --> 'read' call function,15,15,18,A2
+02-Declare-Variables,test.py,Files --> 'open' call function,22,22,9,A2
+02-Declare-Variables,test.py,Files --> 'read' call function,23,23,18,A2
+02-Declare-Variables,test.py,Simple Atributte,3,3,0,A2
+02-Declare-Variables,test.py,Simple Atributte,3,3,22,A2
+02-Declare-Variables,test.py,Simple Atributte,11,11,1,A2
+02-Declare-Variables,test.py,Simple Atributte,19,19,1,A2
+02-Declare-Variables,test.py,Simple Atributte,27,27,1,A2
+02-Declare-Variables,test.py,Simple Atributte,9,9,7,A2
+02-Declare-Variables,test.py,Simple Atributte,11,11,1,A2
+02-Declare-Variables,test.py,Simple Atributte,19,19,1,A2
+02-Declare-Variables,test.py,Simple Atributte,29,29,15,A2
+02-Declare-Variables,test.py,Simple Atributte,27,27,1,A2
+02-Declare-Variables,test.py,Simple Atributte,9,9,7,A2
+02-Declare-Variables,test.py,Simple Atributte,9,9,23,A2
+02-Declare-Variables,test.py,Simple Atributte,15,15,18,A2
+02-Declare-Variables,test.py,Simple Atributte,16,16,16,A2
+02-Declare-Variables,test.py,Simple Atributte,23,23,18,A2
+02-Declare-Variables,test.py,Simple Atributte,24,24,16,A2
+02-Declare-Variables,test.py,Simple Atributte,9,9,23,A2
+02-Declare-Variables,test.py,Simple Atributte,17,17,20,A2
+02-Declare-Variables,test.py,Simple Atributte,25,25,20,A2
+02-Declare-Variables,test.py,Simple Assignment,3,3,0,A1
+02-Declare-Variables,test.py,Assigment with sum (total = total + 1),9,9,0,A1
+02-Declare-Variables,test.py,Simple Assignment,29,29,4,A1
+02-Declare-Variables,test.py,Simple Assignment,15,15,8,A1
+02-Declare-Variables,test.py,Simple Assignment,16,16,8,A1
+02-Declare-Variables,test.py,Simple Assignment,23,23,8,A1
+02-Declare-Variables,test.py,Simple Assignment,24,24,8,A1
+02-Declare-Variables,test.py,'assert' exception,30,30,4,B2
+02-Declare-Variables,test.py,'assert' exception,17,17,8,B2
+02-Declare-Variables,test.py,'assert' exception,25,25,8,B2
+02-Declare-Variables,test.py,Import,1,1,0,A2
+02-Declare-Variables,test.py,Import,2,2,0,A2
+02-Declare-Variables,test.py,Import,4,4,0,A2
+02-Declare-Variables,test.py,Import,6,6,0,A2
+02-Declare-Variables,test.py,Import,7,7,0,A2
+02-Declare-Variables,test.py,Import're' module,8,8,0,C1
+02-Declare-Variables,test.py,Alias,1,1,7,A1
+02-Declare-Variables,test.py,Alias,2,2,7,A1
+02-Declare-Variables,test.py,Alias,4,4,7,A1
+02-Declare-Variables,test.py,Alias,6,6,7,A1
+02-Declare-Variables,test.py,Alias,7,7,7,A1
+02-Declare-Variables,test.py,Alias,8,8,7,A1
+02-Declare-Variables,test.py,With,14,17,4,B1
+02-Declare-Variables,test.py,With,22,25,4,B1
+02-Declare-Variables,test.py,Function,12,17,0,A1
+02-Declare-Variables,test.py,Function,20,25,0,A1
+02-Declare-Variables,test.py,Function with Simple argument,28,30,0,A1
+02-Declare-Variables,solution.hide.py,Print,4,4,0,A1
+02-Declare-Variables,solution.hide.py,Simple Assignment,3,3,0,A1
+12-Rand-From-One-to-Twelve,test.py,Files --> 'open' call function,21,21,9,A2
+12-Rand-From-One-to-Twelve,test.py,Files --> 'read' call function,22,22,18,A2
+12-Rand-From-One-to-Twelve,test.py,Files --> 'open' call function,34,34,9,A2
+12-Rand-From-One-to-Twelve,test.py,Files --> 'read' call function,35,35,18,A2
+12-Rand-From-One-to-Twelve,test.py,Simple Atributte,3,3,0,A2
+12-Rand-From-One-to-Twelve,test.py,Simple Atributte,3,3,22,A2
+12-Rand-From-One-to-Twelve,test.py,Simple Atributte,12,12,1,A2
+12-Rand-From-One-to-Twelve,test.py,Simple Atributte,19,19,1,A2
+12-Rand-From-One-to-Twelve,test.py,Simple Atributte,27,27,1,A2
+12-Rand-From-One-to-Twelve,test.py,Simple Atributte,32,32,1,A2
+12-Rand-From-One-to-Twelve,test.py,Simple Atributte,10,10,7,A2
+12-Rand-From-One-to-Twelve,test.py,Simple Atributte,15,15,8,A2
+12-Rand-From-One-to-Twelve,test.py,Simple Atributte,12,12,1,A2
+12-Rand-From-One-to-Twelve,test.py,Simple Atributte,19,19,1,A2
+12-Rand-From-One-to-Twelve,test.py,Simple Atributte,29,29,13,A2
+12-Rand-From-One-to-Twelve,test.py,Simple Atributte,27,27,1,A2
+12-Rand-From-One-to-Twelve,test.py,Simple Atributte,32,32,1,A2
+12-Rand-From-One-to-Twelve,test.py,Simple Atributte,10,10,7,A2
+12-Rand-From-One-to-Twelve,test.py,Simple Atributte,10,10,23,A2
+12-Rand-From-One-to-Twelve,test.py,Simple Atributte,22,22,18,A2
+12-Rand-From-One-to-Twelve,test.py,Simple Atributte,24,24,16,A2
+12-Rand-From-One-to-Twelve,test.py,Simple Atributte,35,35,18,A2
+12-Rand-From-One-to-Twelve,test.py,Simple Atributte,36,36,16,A2
+12-Rand-From-One-to-Twelve,test.py,Simple Atributte,10,10,23,A2
+12-Rand-From-One-to-Twelve,test.py,Simple Atributte,25,25,20,A2
+12-Rand-From-One-to-Twelve,test.py,Simple Atributte,37,37,20,A2
+12-Rand-From-One-to-Twelve,test.py,Boolean Operation,30,30,11,A1
+12-Rand-From-One-to-Twelve,test.py,Simple Assignment,3,3,0,A1
+12-Rand-From-One-to-Twelve,test.py,Assigment with sum (total = total + 1),10,10,0,A1
+12-Rand-From-One-to-Twelve,test.py,Simple Assignment,29,29,4,A1
+12-Rand-From-One-to-Twelve,test.py,Simple Assignment,22,22,8,A1
+12-Rand-From-One-to-Twelve,test.py,Simple Assignment,23,23,8,A1
+12-Rand-From-One-to-Twelve,test.py,Simple Assignment,24,24,8,A1
+12-Rand-From-One-to-Twelve,test.py,Simple Assignment,35,35,8,A1
+12-Rand-From-One-to-Twelve,test.py,Simple Assignment,36,36,8,A1
+12-Rand-From-One-to-Twelve,test.py,'raise' exception,17,17,8,B1
+12-Rand-From-One-to-Twelve,test.py,'assert' exception,30,30,4,B2
+12-Rand-From-One-to-Twelve,test.py,'assert' exception,25,25,8,B2
+12-Rand-From-One-to-Twelve,test.py,'assert' exception,37,37,8,B2
+12-Rand-From-One-to-Twelve,test.py,Import,1,1,0,A2
+12-Rand-From-One-to-Twelve,test.py,Import,2,2,0,A2
+12-Rand-From-One-to-Twelve,test.py,Import,6,6,0,A2
+12-Rand-From-One-to-Twelve,test.py,Import,7,7,0,A2
+12-Rand-From-One-to-Twelve,test.py,Import,8,8,0,A2
+12-Rand-From-One-to-Twelve,test.py,Import're' module,9,9,0,C1
+12-Rand-From-One-to-Twelve,test.py,Alias,1,1,7,A1
+12-Rand-From-One-to-Twelve,test.py,Alias,2,2,7,A1
+12-Rand-From-One-to-Twelve,test.py,Alias,6,6,7,A1
+12-Rand-From-One-to-Twelve,test.py,Alias,7,7,7,A1
+12-Rand-From-One-to-Twelve,test.py,Alias,8,8,7,A1
+12-Rand-From-One-to-Twelve,test.py,Alias,9,9,7,A1
+12-Rand-From-One-to-Twelve,test.py,Exception --> try/except,14,17,4,B1
+12-Rand-From-One-to-Twelve,test.py,With,21,25,4,B1
+12-Rand-From-One-to-Twelve,test.py,With,34,37,4,B1
+12-Rand-From-One-to-Twelve,test.py,Except Handler,16,17,4,A1
+12-Rand-From-One-to-Twelve,test.py,Function with Simple argument,13,17,0,A1
+12-Rand-From-One-to-Twelve,test.py,Function,20,25,0,A1
+12-Rand-From-One-to-Twelve,test.py,Function with Simple argument,28,30,0,A1
+12-Rand-From-One-to-Twelve,test.py,Function,33,37,0,A1
+12-Rand-From-One-to-Twelve,solution.hide.py,Print,9,9,0,A1
+12-Rand-From-One-to-Twelve,solution.hide.py,Simple Atributte,5,5,17,A2
+12-Rand-From-One-to-Twelve,solution.hide.py,Simple Assignment,5,5,1,A1
+12-Rand-From-One-to-Twelve,solution.hide.py,Import,1,1,0,A2
+12-Rand-From-One-to-Twelve,solution.hide.py,Alias,1,1,7,A1
+12-Rand-From-One-to-Twelve,solution.hide.py,Function,3,6,0,A1
+12-Rand-From-One-to-Twelve,solution.hide.py,Return,6,6,1,A1
+12-Rand-From-One-to-Twelve,app.py,Print,8,8,0,A1
+12-Rand-From-One-to-Twelve,app.py,Import,1,1,0,A2
+12-Rand-From-One-to-Twelve,app.py,Alias,1,1,7,A1
+12-Rand-From-One-to-Twelve,app.py,Function,3,5,0,A1
+12-Rand-From-One-to-Twelve,app.py,Return,5,5,1,A1
+13-Your-First-Loop,test.py,Files --> 'open' call function,27,27,9,A2
+13-Your-First-Loop,test.py,Files --> 'read' call function,28,28,18,A2
+13-Your-First-Loop,test.py,Simple Atributte,3,3,0,A2
+13-Your-First-Loop,test.py,Simple Atributte,3,3,22,A2
+13-Your-First-Loop,test.py,Simple Atributte,12,12,1,A2
+13-Your-First-Loop,test.py,Simple Atributte,19,19,1,A2
+13-Your-First-Loop,test.py,Simple Atributte,25,25,1,A2
+13-Your-First-Loop,test.py,Simple Atributte,10,10,7,A2
+13-Your-First-Loop,test.py,Simple Atributte,15,15,8,A2
+13-Your-First-Loop,test.py,Simple Atributte,12,12,1,A2
+13-Your-First-Loop,test.py,Simple Atributte,21,21,4,A2
+13-Your-First-Loop,test.py,Simple Atributte,22,22,15,A2
+13-Your-First-Loop,test.py,Simple Atributte,23,23,55,A2
+13-Your-First-Loop,test.py,Simple Atributte,19,19,1,A2
+13-Your-First-Loop,test.py,Simple Atributte,25,25,1,A2
+13-Your-First-Loop,test.py,Simple Atributte,10,10,7,A2
+13-Your-First-Loop,test.py,Simple Atributte,10,10,23,A2
+13-Your-First-Loop,test.py,Simple Atributte,28,28,18,A2
+13-Your-First-Loop,test.py,Simple Atributte,29,29,16,A2
+13-Your-First-Loop,test.py,Simple Atributte,10,10,23,A2
+13-Your-First-Loop,test.py,Simple Atributte,30,30,20,A2
+13-Your-First-Loop,test.py,Simple Assignment,3,3,0,A1
+13-Your-First-Loop,test.py,Assigment with sum (total = total + 1),10,10,0,A1
+13-Your-First-Loop,test.py,Simple Assignment,22,22,4,A1
+13-Your-First-Loop,test.py,Simple Assignment,28,28,8,A1
+13-Your-First-Loop,test.py,Simple Assignment,29,29,8,A1
+13-Your-First-Loop,test.py,'raise' exception,17,17,8,B1
+13-Your-First-Loop,test.py,'assert' exception,23,23,4,B2
+13-Your-First-Loop,test.py,'assert' exception,30,30,8,B2
+13-Your-First-Loop,test.py,Import,1,1,0,A2
+13-Your-First-Loop,test.py,Import,2,2,0,A2
+13-Your-First-Loop,test.py,Import,6,6,0,A2
+13-Your-First-Loop,test.py,Import,7,7,0,A2
+13-Your-First-Loop,test.py,Import,8,8,0,A2
+13-Your-First-Loop,test.py,Import're' module,9,9,0,C1
+13-Your-First-Loop,test.py,Alias,1,1,7,A1
+13-Your-First-Loop,test.py,Alias,2,2,7,A1
+13-Your-First-Loop,test.py,Alias,6,6,7,A1
+13-Your-First-Loop,test.py,Alias,7,7,7,A1
+13-Your-First-Loop,test.py,Alias,8,8,7,A1
+13-Your-First-Loop,test.py,Alias,9,9,7,A1
+13-Your-First-Loop,test.py,Exception --> try/except,14,17,4,B1
+13-Your-First-Loop,test.py,With,27,30,4,B1
+13-Your-First-Loop,test.py,Except Handler,16,17,4,A1
+13-Your-First-Loop,test.py,Function,13,17,0,A1
+13-Your-First-Loop,test.py,Function with Simple argument,20,23,0,A1
+13-Your-First-Loop,test.py,Function,26,30,0,A1
+13-Your-First-Loop,solution.hide.py,'range' call function,2,2,10,A2
+13-Your-First-Loop,solution.hide.py,Print,3,3,2,A1
+13-Your-First-Loop,solution.hide.py,Simple For Loop,2,3,1,A1
+13-Your-First-Loop,solution.hide.py,Function,1,4,0,A1
+13-Your-First-Loop,solution.hide.py,Return,4,4,1,A1
+13-Your-First-Loop,app.py,'range' call function,2,2,10,A2
+13-Your-First-Loop,app.py,Print,3,3,2,A1
+13-Your-First-Loop,app.py,Simple For Loop,2,3,1,A1
+13-Your-First-Loop,app.py,Function,1,4,0,A1
+13-Your-First-Loop,app.py,Return,4,4,1,A1
+05-User-Inputed-Values,test.py,Files --> 'open' call function,6,6,9,A2
+05-User-Inputed-Values,test.py,Files --> 'read' call function,7,7,18,A2
+05-User-Inputed-Values,test.py,Simple Atributte,4,4,1,A2
+05-User-Inputed-Values,test.py,Simple Atributte,16,16,4,A2
+05-User-Inputed-Values,test.py,Simple Atributte,12,12,1,A2
+05-User-Inputed-Values,test.py,Simple Atributte,13,13,1,A2
+05-User-Inputed-Values,test.py,Simple Atributte,2,2,7,A2
+05-User-Inputed-Values,test.py,Simple Atributte,4,4,1,A2
+05-User-Inputed-Values,test.py,Simple Atributte,16,16,26,A2
+05-User-Inputed-Values,test.py,Simple Atributte,18,18,15,A2
+05-User-Inputed-Values,test.py,Simple Atributte,12,12,1,A2
+05-User-Inputed-Values,test.py,Simple Atributte,2,2,7,A2
+05-User-Inputed-Values,test.py,Simple Atributte,2,2,23,A2
+05-User-Inputed-Values,test.py,Simple Atributte,7,7,18,A2
+05-User-Inputed-Values,test.py,Simple Atributte,9,9,16,A2
+05-User-Inputed-Values,test.py,Simple Atributte,2,2,23,A2
+05-User-Inputed-Values,test.py,Simple Atributte,10,10,20,A2
+05-User-Inputed-Values,test.py,Assigment with sum (total = total + 1),2,2,0,A1
+05-User-Inputed-Values,test.py,Simple Assignment,16,16,4,A1
+05-User-Inputed-Values,test.py,Simple Assignment,18,18,4,A1
+05-User-Inputed-Values,test.py,Simple Assignment,7,7,8,A1
+05-User-Inputed-Values,test.py,Simple Assignment,8,8,8,A1
+05-User-Inputed-Values,test.py,Simple Assignment,9,9,8,A1
+05-User-Inputed-Values,test.py,'assert' exception,19,19,4,B2
+05-User-Inputed-Values,test.py,'assert' exception,10,10,8,B2
+05-User-Inputed-Values,test.py,Import're' module,1,1,0,C1
+05-User-Inputed-Values,test.py,Import,17,17,4,A2
+05-User-Inputed-Values,test.py,Alias,1,1,7,A1
+05-User-Inputed-Values,test.py,Alias,1,1,14,A1
+05-User-Inputed-Values,test.py,Alias,1,1,17,A1
+05-User-Inputed-Values,test.py,Alias,1,1,20,A1
+05-User-Inputed-Values,test.py,Alias,1,1,23,A1
+05-User-Inputed-Values,test.py,Alias,1,1,27,A1
+05-User-Inputed-Values,test.py,Alias,1,1,32,A1
+05-User-Inputed-Values,test.py,Alias,17,17,11,A1
+05-User-Inputed-Values,test.py,With,6,10,4,B1
+05-User-Inputed-Values,test.py,Function with Simple argument,5,10,0,A1
+05-User-Inputed-Values,test.py,Function with Simple argument,14,19,0,A1
+05-User-Inputed-Values,test.py,Lambda,13,13,30,B1
+05-User-Inputed-Values,solution.hide.py,Print,4,4,0,A1
+05-User-Inputed-Values,solution.hide.py,Simple Assignment,1,1,0,A1
+05-User-Inputed-Values,solution.hide.py,Assigment with sum (total = total + 1),3,3,0,A1
+05-User-Inputed-Values,app.py,Print,4,4,0,A1
+05-User-Inputed-Values,app.py,Simple Assignment,1,1,0,A1
+18-The-Beatles,test.py,Files --> 'open' call function,21,21,9,A2
+18-The-Beatles,test.py,Files --> 'read' call function,22,22,18,A2
+18-The-Beatles,test.py,Simple Atributte,3,3,0,A2
+18-The-Beatles,test.py,Simple Atributte,3,3,22,A2
+18-The-Beatles,test.py,Simple Atributte,11,11,1,A2
+18-The-Beatles,test.py,Simple Atributte,18,18,1,A2
+18-The-Beatles,test.py,Simple Atributte,26,26,1,A2
+18-The-Beatles,test.py,Simple Atributte,14,14,15,A2
+18-The-Beatles,test.py,Simple Atributte,11,11,1,A2
+18-The-Beatles,test.py,Simple Atributte,18,18,1,A2
+18-The-Beatles,test.py,Simple Atributte,26,26,1,A2
+18-The-Beatles,test.py,Simple Atributte,20,20,11,A2
+18-The-Beatles,test.py,Simple Atributte,22,22,18,A2
+18-The-Beatles,test.py,Simple Atributte,23,23,16,A2
+18-The-Beatles,test.py,Simple Atributte,20,20,11,A2
+18-The-Beatles,test.py,Simple Atributte,20,20,27,A2
+18-The-Beatles,test.py,Simple Atributte,29,29,15,A2
+18-The-Beatles,test.py,Simple Atributte,20,20,27,A2
+18-The-Beatles,test.py,Simple Atributte,24,24,20,A2
+18-The-Beatles,test.py,Simple Assignment,3,3,0,A1
+18-The-Beatles,test.py,Assigment with sum (total = total + 1),20,20,4,A1
+18-The-Beatles,test.py,Simple Assignment,22,22,8,A1
+18-The-Beatles,test.py,Simple Assignment,23,23,8,A1
+18-The-Beatles,test.py,'raise' exception,16,16,8,B1
+18-The-Beatles,test.py,'raise' exception,31,31,8,B1
+18-The-Beatles,test.py,'assert' exception,14,14,8,B2
+18-The-Beatles,test.py,'assert' exception,24,24,8,B2
+18-The-Beatles,test.py,'assert' exception,29,29,8,B2
+18-The-Beatles,test.py,Import,1,1,0,A2
+18-The-Beatles,test.py,Import,2,2,0,A2
+18-The-Beatles,test.py,Import,6,6,0,A2
+18-The-Beatles,test.py,Import,7,7,0,A2
+18-The-Beatles,test.py,Import're' module,8,8,0,C1
+18-The-Beatles,test.py,Import,9,9,0,A2
+18-The-Beatles,test.py,Alias,1,1,7,A1
+18-The-Beatles,test.py,Alias,2,2,7,A1
+18-The-Beatles,test.py,Alias,6,6,7,A1
+18-The-Beatles,test.py,Alias,7,7,7,A1
+18-The-Beatles,test.py,Alias,8,8,7,A1
+18-The-Beatles,test.py,Alias,9,9,7,A1
+18-The-Beatles,test.py,Exception --> try/except,13,16,4,B1
+18-The-Beatles,test.py,Exception --> try/except,28,31,4,B1
+18-The-Beatles,test.py,With,21,24,4,B1
+18-The-Beatles,test.py,Except Handler,15,16,4,A1
+18-The-Beatles,test.py,Except Handler,30,31,4,A1
+18-The-Beatles,test.py,Function with Simple argument,12,16,0,A1
+18-The-Beatles,test.py,Function,19,24,0,A1
+18-The-Beatles,test.py,Function with Simple argument,27,31,0,A1
+18-The-Beatles,solution.hide.py,'range' call function,4,4,13,A2
+18-The-Beatles,solution.hide.py,Simple Assignment,3,3,4,A1
+18-The-Beatles,solution.hide.py,Simplified incremental Assignment with increase amount,6,6,12,A2
+18-The-Beatles,solution.hide.py,Simplified incremental Assignment with increase amount,8,8,12,A2
+18-The-Beatles,solution.hide.py,Simplified incremental Assignment with increase amount,10,10,12,A2
+18-The-Beatles,solution.hide.py,Simple If statements,5,10,8,A1
+18-The-Beatles,solution.hide.py,Simple If statements,7,10,8,A1
+18-The-Beatles,solution.hide.py,Simple For Loop,4,10,4,A1
+18-The-Beatles,solution.hide.py,Function,2,11,0,A1
+18-The-Beatles,solution.hide.py,Return,11,11,4,A1
+07-Create-a-Basic-HTML,test.py,Files --> 'open' call function,23,23,9,A2
+07-Create-a-Basic-HTML,test.py,Files --> 'read' call function,24,24,18,A2
+07-Create-a-Basic-HTML,test.py,Simple Atributte,2,2,0,A2
+07-Create-a-Basic-HTML,test.py,Simple Atributte,2,2,22,A2
+07-Create-a-Basic-HTML,test.py,Simple Atributte,5,5,1,A2
+07-Create-a-Basic-HTML,test.py,Simple Atributte,12,12,1,A2
+07-Create-a-Basic-HTML,test.py,Simple Atributte,20,20,1,A2
+07-Create-a-Basic-HTML,test.py,Simple Atributte,30,30,1,A2
+07-Create-a-Basic-HTML,test.py,Simple Atributte,5,5,1,A2
+07-Create-a-Basic-HTML,test.py,Simple Atributte,12,12,1,A2
+07-Create-a-Basic-HTML,test.py,Simple Atributte,20,20,1,A2
+07-Create-a-Basic-HTML,test.py,Simple Atributte,32,32,15,A2
+07-Create-a-Basic-HTML,test.py,Simple Atributte,30,30,1,A2
+07-Create-a-Basic-HTML,test.py,Simple Atributte,22,22,11,A2
+07-Create-a-Basic-HTML,test.py,Simple Atributte,24,24,18,A2
+07-Create-a-Basic-HTML,test.py,Simple Atributte,26,26,16,A2
+07-Create-a-Basic-HTML,test.py,Simple Atributte,22,22,11,A2
+07-Create-a-Basic-HTML,test.py,Simple Atributte,22,22,27,A2
+07-Create-a-Basic-HTML,test.py,Simple Atributte,22,22,27,A2
+07-Create-a-Basic-HTML,test.py,Simple Atributte,27,27,20,A2
+07-Create-a-Basic-HTML,test.py,Simple Assignment,2,2,0,A1
+07-Create-a-Basic-HTML,test.py,Assigment with sum (total = total + 1),22,22,4,A1
+07-Create-a-Basic-HTML,test.py,Simple Assignment,32,32,4,A1
+07-Create-a-Basic-HTML,test.py,Simple Assignment,24,24,8,A1
+07-Create-a-Basic-HTML,test.py,Simple Assignment,25,25,8,A1
+07-Create-a-Basic-HTML,test.py,Simple Assignment,26,26,8,A1
+07-Create-a-Basic-HTML,test.py,'raise' exception,10,10,8,B1
+07-Create-a-Basic-HTML,test.py,'raise' exception,18,18,8,B1
+07-Create-a-Basic-HTML,test.py,'assert' exception,33,33,4,B2
+07-Create-a-Basic-HTML,test.py,'assert' exception,16,16,8,B2
+07-Create-a-Basic-HTML,test.py,'assert' exception,27,27,8,B2
+07-Create-a-Basic-HTML,test.py,Import're' module,1,1,0,C1
+07-Create-a-Basic-HTML,test.py,Import,3,3,0,A2
+07-Create-a-Basic-HTML,test.py,From,8,8,8,A2
+07-Create-a-Basic-HTML,test.py,From,15,15,8,A2
+07-Create-a-Basic-HTML,test.py,Alias,1,1,7,A1
+07-Create-a-Basic-HTML,test.py,Alias,1,1,11,A1
+07-Create-a-Basic-HTML,test.py,Alias,1,1,16,A1
+07-Create-a-Basic-HTML,test.py,Alias,1,1,20,A1
+07-Create-a-Basic-HTML,test.py,Alias,1,1,24,A1
+07-Create-a-Basic-HTML,test.py,Alias,3,3,7,A1
+07-Create-a-Basic-HTML,test.py,Alias,8,8,24,A1
+07-Create-a-Basic-HTML,test.py,Alias,15,15,24,A1
+07-Create-a-Basic-HTML,test.py,Exception --> try/except,7,10,4,B1
+07-Create-a-Basic-HTML,test.py,Exception --> try/except,14,18,4,B1
+07-Create-a-Basic-HTML,test.py,With,23,27,4,B1
+07-Create-a-Basic-HTML,test.py,Except Handler,9,10,4,A1
+07-Create-a-Basic-HTML,test.py,Except Handler,17,18,4,A1
+07-Create-a-Basic-HTML,test.py,Function,6,10,0,A1
+07-Create-a-Basic-HTML,test.py,Function,13,18,0,A1
+07-Create-a-Basic-HTML,test.py,Function,21,27,0,A1
+07-Create-a-Basic-HTML,test.py,Function,31,33,0,A1
+07-Create-a-Basic-HTML,solution.hide.py,Print,15,15,0,A1
+07-Create-a-Basic-HTML,solution.hide.py,Simple Assignment,1,1,0,A1
+07-Create-a-Basic-HTML,solution.hide.py,Simple Assignment,2,2,0,A1
+07-Create-a-Basic-HTML,solution.hide.py,Simple Assignment,3,3,0,A1
+07-Create-a-Basic-HTML,solution.hide.py,Simple Assignment,4,4,0,A1
+07-Create-a-Basic-HTML,solution.hide.py,Simple Assignment,5,5,0,A1
+07-Create-a-Basic-HTML,solution.hide.py,Simple Assignment,6,6,0,A1
+07-Create-a-Basic-HTML,solution.hide.py,Simple Assignment,7,7,0,A1
+07-Create-a-Basic-HTML,solution.hide.py,Simple Assignment,8,8,0,A1
+07-Create-a-Basic-HTML,solution.hide.py,Assigment with sum (total = total + 1),14,14,0,A1
+07-Create-a-Basic-HTML,app.py,Simple Assignment,1,1,0,A1
+07-Create-a-Basic-HTML,app.py,Simple Assignment,2,2,0,A1
+07-Create-a-Basic-HTML,app.py,Simple Assignment,3,3,0,A1
+07-Create-a-Basic-HTML,app.py,Simple Assignment,4,4,0,A1
+07-Create-a-Basic-HTML,app.py,Simple Assignment,5,5,0,A1
+07-Create-a-Basic-HTML,app.py,Simple Assignment,6,6,0,A1
+07-Create-a-Basic-HTML,app.py,Simple Assignment,7,7,0,A1
+07-Create-a-Basic-HTML,app.py,Simple Assignment,8,8,0,A1
+16-Random-Colors-Loop,test.py,Files --> 'open' call function,37,37,9,A2
+16-Random-Colors-Loop,test.py,Files --> 'read' call function,38,38,18,A2
+16-Random-Colors-Loop,test.py,Simple Atributte,3,3,0,A2
+16-Random-Colors-Loop,test.py,Simple Atributte,3,3,22,A2
+16-Random-Colors-Loop,test.py,Simple Atributte,11,11,1,A2
+16-Random-Colors-Loop,test.py,Simple Atributte,17,17,1,A2
+16-Random-Colors-Loop,test.py,Simple Atributte,24,24,1,A2
+16-Random-Colors-Loop,test.py,Simple Atributte,29,29,1,A2
+16-Random-Colors-Loop,test.py,Simple Atributte,34,34,1,A2
+16-Random-Colors-Loop,test.py,Simple Atributte,14,14,8,A2
+16-Random-Colors-Loop,test.py,Simple Atributte,11,11,1,A2
+16-Random-Colors-Loop,test.py,Simple Atributte,20,20,8,A2
+16-Random-Colors-Loop,test.py,Simple Atributte,17,17,1,A2
+16-Random-Colors-Loop,test.py,Simple Atributte,26,26,13,A2
+16-Random-Colors-Loop,test.py,Simple Atributte,24,24,1,A2
+16-Random-Colors-Loop,test.py,Simple Atributte,31,31,13,A2
+16-Random-Colors-Loop,test.py,Simple Atributte,29,29,1,A2
+16-Random-Colors-Loop,test.py,Simple Atributte,34,34,1,A2
+16-Random-Colors-Loop,test.py,Simple Atributte,32,32,11,A2
+16-Random-Colors-Loop,test.py,Simple Atributte,36,36,11,A2
+16-Random-Colors-Loop,test.py,Simple Atributte,38,38,18,A2
+16-Random-Colors-Loop,test.py,Simple Atributte,40,40,16,A2
+16-Random-Colors-Loop,test.py,Simple Atributte,36,36,11,A2
+16-Random-Colors-Loop,test.py,Simple Atributte,36,36,27,A2
+16-Random-Colors-Loop,test.py,Simple Atributte,36,36,27,A2
+16-Random-Colors-Loop,test.py,Simple Atributte,41,41,20,A2
+16-Random-Colors-Loop,test.py,Simple Assignment,3,3,0,A1
+16-Random-Colors-Loop,test.py,Simple Assignment,26,26,4,A1
+16-Random-Colors-Loop,test.py,Simple Assignment,31,31,4,A1
+16-Random-Colors-Loop,test.py,Assigment with sum (total = total + 1),36,36,4,A1
+16-Random-Colors-Loop,test.py,Simple Assignment,38,38,8,A1
+16-Random-Colors-Loop,test.py,Simple Assignment,39,39,8,A1
+16-Random-Colors-Loop,test.py,Simple Assignment,40,40,8,A1
+16-Random-Colors-Loop,test.py,'raise' exception,16,16,8,B1
+16-Random-Colors-Loop,test.py,'raise' exception,22,22,8,B1
+16-Random-Colors-Loop,test.py,'assert' exception,27,27,4,B2
+16-Random-Colors-Loop,test.py,'assert' exception,32,32,4,B2
+16-Random-Colors-Loop,test.py,'assert' exception,41,41,8,B2
+16-Random-Colors-Loop,test.py,Import,1,1,0,A2
+16-Random-Colors-Loop,test.py,Import,2,2,0,A2
+16-Random-Colors-Loop,test.py,Import,6,6,0,A2
+16-Random-Colors-Loop,test.py,Import,7,7,0,A2
+16-Random-Colors-Loop,test.py,Import,8,8,0,A2
+16-Random-Colors-Loop,test.py,Import're' module,9,9,0,C1
+16-Random-Colors-Loop,test.py,Alias,1,1,7,A1
+16-Random-Colors-Loop,test.py,Alias,2,2,7,A1
+16-Random-Colors-Loop,test.py,Alias,6,6,7,A1
+16-Random-Colors-Loop,test.py,Alias,7,7,7,A1
+16-Random-Colors-Loop,test.py,Alias,8,8,7,A1
+16-Random-Colors-Loop,test.py,Alias,9,9,7,A1
+16-Random-Colors-Loop,test.py,Exception --> try/except,13,16,4,B1
+16-Random-Colors-Loop,test.py,Exception --> try/except,19,22,4,B1
+16-Random-Colors-Loop,test.py,With,37,41,4,B1
+16-Random-Colors-Loop,test.py,Except Handler,15,16,4,A1
+16-Random-Colors-Loop,test.py,Except Handler,21,22,4,A1
+16-Random-Colors-Loop,test.py,Function with Simple argument,12,16,0,A1
+16-Random-Colors-Loop,test.py,Function with Simple argument,18,22,0,A1
+16-Random-Colors-Loop,test.py,Function with Simple argument,25,27,0,A1
+16-Random-Colors-Loop,test.py,Function with Simple argument,30,32,0,A1
+16-Random-Colors-Loop,test.py,Function with Simple argument,35,41,0,A1
+16-Random-Colors-Loop,solution.hide.py,Simple List,21,21,21,A1
+16-Random-Colors-Loop,solution.hide.py,Simple Dictionary,7,13,15,A2
+16-Random-Colors-Loop,solution.hide.py,Print,29,29,0,A1
+16-Random-Colors-Loop,solution.hide.py,'range' call function,23,23,13,A2
+16-Random-Colors-Loop,solution.hide.py,Simple Atributte,15,15,11,A2
+16-Random-Colors-Loop,solution.hide.py,Simple Atributte,24,24,8,A2
+16-Random-Colors-Loop,solution.hide.py,Simple Atributte,24,24,40,A2
+16-Random-Colors-Loop,solution.hide.py,Simple Assignment,5,5,4,A1
+16-Random-Colors-Loop,solution.hide.py,Simple Assignment,7,13,4,A1
+16-Random-Colors-Loop,solution.hide.py,Simple Assignment,20,20,4,A1
+16-Random-Colors-Loop,solution.hide.py,Simple Assignment,21,21,4,A1
+16-Random-Colors-Loop,solution.hide.py,Import,1,1,0,A2
+16-Random-Colors-Loop,solution.hide.py,Alias,1,1,7,A1
+16-Random-Colors-Loop,solution.hide.py,Simple For Loop,23,24,4,A1
+16-Random-Colors-Loop,solution.hide.py,Function with Simple argument with Default argument,3,15,0,A2
+16-Random-Colors-Loop,solution.hide.py,Function,19,26,0,A1
+16-Random-Colors-Loop,solution.hide.py,Return,15,15,4,A1
+16-Random-Colors-Loop,solution.hide.py,Return,26,26,4,A1
+16-Random-Colors-Loop,app.py,Simple List,21,21,21,A1
+16-Random-Colors-Loop,app.py,Simple Dictionary,7,13,15,A2
+16-Random-Colors-Loop,app.py,Print,25,25,0,A1
+16-Random-Colors-Loop,app.py,Simple Atributte,15,15,11,A2
+16-Random-Colors-Loop,app.py,Simple Assignment,5,5,4,A1
+16-Random-Colors-Loop,app.py,Simple Assignment,7,13,4,A1
+16-Random-Colors-Loop,app.py,Simple Assignment,20,20,4,A1
+16-Random-Colors-Loop,app.py,Simple Assignment,21,21,4,A1
+16-Random-Colors-Loop,app.py,Import,1,1,0,A2
+16-Random-Colors-Loop,app.py,Alias,1,1,7,A1
+16-Random-Colors-Loop,app.py,Function with Simple argument with Default argument,3,15,0,A2
+16-Random-Colors-Loop,app.py,Function,19,21,0,A1
+16-Random-Colors-Loop,app.py,Return,15,15,4,A1
+19-Bottles-Of-Milk,test.py,Files --> 'open' call function,17,17,8,A2
+19-Bottles-Of-Milk,test.py,'range' call function,33,33,13,A2
+19-Bottles-Of-Milk,test.py,Simple Atributte,3,3,0,A2
+19-Bottles-Of-Milk,test.py,Simple Atributte,3,3,22,A2
+19-Bottles-Of-Milk,test.py,Simple Atributte,10,10,1,A2
+19-Bottles-Of-Milk,test.py,Simple Atributte,28,28,1,A2
+19-Bottles-Of-Milk,test.py,Simple Atributte,13,13,8,A2
+19-Bottles-Of-Milk,test.py,Simple Atributte,18,18,14,A2
+19-Bottles-Of-Milk,test.py,Simple Atributte,20,20,21,A2
+19-Bottles-Of-Milk,test.py,Simple Atributte,22,22,11,A2
+19-Bottles-Of-Milk,test.py,Simple Atributte,24,24,22,A2
+19-Bottles-Of-Milk,test.py,Simple Atributte,26,26,11,A2
+19-Bottles-Of-Milk,test.py,Simple Atributte,10,10,1,A2
+19-Bottles-Of-Milk,test.py,Simple Atributte,31,31,15,A2
+19-Bottles-Of-Milk,test.py,Simple Atributte,43,43,11,A2
+19-Bottles-Of-Milk,test.py,Simple Atributte,28,28,1,A2
+19-Bottles-Of-Milk,test.py,Simple Atributte,17,17,13,A2
+19-Bottles-Of-Milk,test.py,Simple Atributte,17,17,13,A2
+19-Bottles-Of-Milk,test.py,Simple Atributte,17,17,29,A2
+19-Bottles-Of-Milk,test.py,Simple Atributte,17,17,29,A2
+19-Bottles-Of-Milk,test.py,Unary Operation,33,33,22,A1
+19-Bottles-Of-Milk,test.py,Unary Operation,33,33,25,A1
+19-Bottles-Of-Milk,test.py,Subscript,20,20,35,A1
+19-Bottles-Of-Milk,test.py,Subscript,22,22,27,A1
+19-Bottles-Of-Milk,test.py,Subscript,24,24,36,A1
+19-Bottles-Of-Milk,test.py,Subscript,26,26,27,A1
+19-Bottles-Of-Milk,test.py,Subscript,23,23,31,A1
+19-Bottles-Of-Milk,test.py,Slice,23,23,39,A1
+19-Bottles-Of-Milk,test.py,List Comprehension with 1If statements,19,19,18,C1
+19-Bottles-Of-Milk,test.py,List Comprehension with 1If statements,23,23,19,C1
+19-Bottles-Of-Milk,test.py,Simple Assignment,3,3,0,A1
+19-Bottles-Of-Milk,test.py,Simple Assignment,17,17,4,A1
+19-Bottles-Of-Milk,test.py,Simple Assignment,18,18,4,A1
+19-Bottles-Of-Milk,test.py,Simple Assignment,19,19,4,A1
+19-Bottles-Of-Milk,test.py,Simple Assignment,20,20,4,A1
+19-Bottles-Of-Milk,test.py,Simple Assignment,21,21,4,A1
+19-Bottles-Of-Milk,test.py,Simple Assignment,23,23,4,A1
+19-Bottles-Of-Milk,test.py,Simple Assignment,24,24,4,A1
+19-Bottles-Of-Milk,test.py,Simple Assignment,25,25,4,A1
+19-Bottles-Of-Milk,test.py,Simple Assignment,31,31,4,A1
+19-Bottles-Of-Milk,test.py,Simple Assignment,32,32,4,A1
+19-Bottles-Of-Milk,test.py,Simplified incremental Assignment with increase amount,35,35,12,A2
+19-Bottles-Of-Milk,test.py,Simplified incremental Assignment with increase amount,37,37,12,A2
+19-Bottles-Of-Milk,test.py,Simplified incremental Assignment with increase amount,39,39,12,A2
+19-Bottles-Of-Milk,test.py,Simplified incremental Assignment with increase amount,41,41,12,A2
+19-Bottles-Of-Milk,test.py,'raise' exception,15,15,8,B1
+19-Bottles-Of-Milk,test.py,'assert' exception,22,22,4,B2
+19-Bottles-Of-Milk,test.py,'assert' exception,26,26,4,B2
+19-Bottles-Of-Milk,test.py,'assert' exception,43,43,4,B2
+19-Bottles-Of-Milk,test.py,Import,1,1,0,A2
+19-Bottles-Of-Milk,test.py,Import,2,2,0,A2
+19-Bottles-Of-Milk,test.py,Import,5,5,0,A2
+19-Bottles-Of-Milk,test.py,Import,6,6,0,A2
+19-Bottles-Of-Milk,test.py,Import,7,7,0,A2
+19-Bottles-Of-Milk,test.py,Import're' module,8,8,0,C1
+19-Bottles-Of-Milk,test.py,From,4,4,0,A2
+19-Bottles-Of-Milk,test.py,Alias,1,1,7,A1
+19-Bottles-Of-Milk,test.py,Alias,2,2,7,A1
+19-Bottles-Of-Milk,test.py,Alias,4,4,16,A1
+19-Bottles-Of-Milk,test.py,Alias,5,5,7,A1
+19-Bottles-Of-Milk,test.py,Alias,6,6,7,A1
+19-Bottles-Of-Milk,test.py,Alias,7,7,7,A1
+19-Bottles-Of-Milk,test.py,Alias,8,8,7,A1
+19-Bottles-Of-Milk,test.py,Simple If statements,34,41,8,A1
+19-Bottles-Of-Milk,test.py,Simple If statements,36,41,8,A1
+19-Bottles-Of-Milk,test.py,Simple If statements,38,41,8,A1
+19-Bottles-Of-Milk,test.py,Simple For Loop,33,41,4,A1
+19-Bottles-Of-Milk,test.py,Exception --> try/except,12,15,4,B1
+19-Bottles-Of-Milk,test.py,Except Handler,14,15,4,A1
+19-Bottles-Of-Milk,test.py,Function with Simple argument,11,26,0,A1
+19-Bottles-Of-Milk,test.py,Function with Simple argument,29,43,0,A1
+19-Bottles-Of-Milk,solution.hide.py,'range' call function,3,3,13,A2
+19-Bottles-Of-Milk,solution.hide.py,Print,5,5,4,A1
+19-Bottles-Of-Milk,solution.hide.py,Print,6,6,4,A1
+19-Bottles-Of-Milk,solution.hide.py,Print,7,7,4,A1
+19-Bottles-Of-Milk,solution.hide.py,Print,4,4,8,A1
+19-Bottles-Of-Milk,solution.hide.py,Unary Operation,3,3,24,A1
+19-Bottles-Of-Milk,solution.hide.py,Simple For Loop,3,4,4,A1
+19-Bottles-Of-Milk,solution.hide.py,Function,2,8,0,A1
+19-Bottles-Of-Milk,solution.hide.py,Return,8,8,4,A1
+10-Calling-Your-First-Function,test.py,Files --> 'open' call function,20,20,9,A2
+10-Calling-Your-First-Function,test.py,Files --> 'read' call function,21,21,18,A2
+10-Calling-Your-First-Function,test.py,Simple Atributte,3,3,1,A2
+10-Calling-Your-First-Function,test.py,Simple Atributte,10,10,1,A2
+10-Calling-Your-First-Function,test.py,Simple Atributte,17,17,1,A2
+10-Calling-Your-First-Function,test.py,Simple Atributte,25,25,1,A2
+10-Calling-Your-First-Function,test.py,Simple Atributte,32,32,1,A2
+10-Calling-Your-First-Function,test.py,Simple Atributte,6,6,8,A2
+10-Calling-Your-First-Function,test.py,Simple Atributte,3,3,1,A2
+10-Calling-Your-First-Function,test.py,Simple Atributte,13,13,8,A2
+10-Calling-Your-First-Function,test.py,Simple Atributte,10,10,1,A2
+10-Calling-Your-First-Function,test.py,Simple Atributte,17,17,1,A2
+10-Calling-Your-First-Function,test.py,Simple Atributte,25,25,1,A2
+10-Calling-Your-First-Function,test.py,Simple Atributte,36,36,15,A2
+10-Calling-Your-First-Function,test.py,Simple Atributte,37,37,23,A2
+10-Calling-Your-First-Function,test.py,Simple Atributte,32,32,1,A2
+10-Calling-Your-First-Function,test.py,Simple Atributte,19,19,11,A2
+10-Calling-Your-First-Function,test.py,Simple Atributte,21,21,18,A2
+10-Calling-Your-First-Function,test.py,Simple Atributte,22,22,16,A2
+10-Calling-Your-First-Function,test.py,Simple Atributte,27,27,9,A2
+10-Calling-Your-First-Function,test.py,Simple Atributte,30,30,8,A2
+10-Calling-Your-First-Function,test.py,Simple Atributte,19,19,11,A2
+10-Calling-Your-First-Function,test.py,Simple Atributte,19,19,27,A2
+10-Calling-Your-First-Function,test.py,Simple Atributte,19,19,27,A2
+10-Calling-Your-First-Function,test.py,Simple Atributte,23,23,20,A2
+10-Calling-Your-First-Function,test.py,Assigment with sum (total = total + 1),19,19,4,A1
+10-Calling-Your-First-Function,test.py,Simple Assignment,36,36,4,A1
+10-Calling-Your-First-Function,test.py,Simple Assignment,21,21,8,A1
+10-Calling-Your-First-Function,test.py,Simple Assignment,22,22,8,A1
+10-Calling-Your-First-Function,test.py,'raise' exception,8,8,8,B1
+10-Calling-Your-First-Function,test.py,'raise' exception,15,15,8,B1
+10-Calling-Your-First-Function,test.py,'assert' exception,37,37,4,B2
+10-Calling-Your-First-Function,test.py,'assert' exception,23,23,8,B2
+10-Calling-Your-First-Function,test.py,Import're' module,1,1,0,C1
+10-Calling-Your-First-Function,test.py,From,34,34,4,A2
+10-Calling-Your-First-Function,test.py,From,28,28,8,A2
+10-Calling-Your-First-Function,test.py,Alias,1,1,7,A1
+10-Calling-Your-First-Function,test.py,Alias,1,1,11,A1
+10-Calling-Your-First-Function,test.py,Alias,1,1,17,A1
+10-Calling-Your-First-Function,test.py,Alias,1,1,25,A1
+10-Calling-Your-First-Function,test.py,Alias,1,1,29,A1
+10-Calling-Your-First-Function,test.py,Alias,1,1,33,A1
+10-Calling-Your-First-Function,test.py,Alias,34,34,20,A1
+10-Calling-Your-First-Function,test.py,Alias,28,28,24,A1
+10-Calling-Your-First-Function,test.py,Exception --> try/except,5,8,4,B1
+10-Calling-Your-First-Function,test.py,Exception --> try/except,12,15,4,B1
+10-Calling-Your-First-Function,test.py,With,20,23,4,B1
+10-Calling-Your-First-Function,test.py,With,27,30,4,B1
+10-Calling-Your-First-Function,test.py,Except Handler,7,8,4,A1
+10-Calling-Your-First-Function,test.py,Except Handler,14,15,4,A1
+10-Calling-Your-First-Function,test.py,Function with Simple argument,4,8,0,A1
+10-Calling-Your-First-Function,test.py,Function with Simple argument,11,15,0,A1
+10-Calling-Your-First-Function,test.py,Function,18,23,0,A1
+10-Calling-Your-First-Function,test.py,Function,26,30,0,A1
+10-Calling-Your-First-Function,test.py,Function with Simple argument,33,37,0,A1
+10-Calling-Your-First-Function,solution.hide.py,Print,7,7,4,A1
+10-Calling-Your-First-Function,solution.hide.py,Function with Simple argument,1,2,0,A1
+10-Calling-Your-First-Function,solution.hide.py,Function,5,7,0,A1
+10-Calling-Your-First-Function,solution.hide.py,Return,2,2,3,A1

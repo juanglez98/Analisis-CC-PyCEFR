@@ -1,0 +1,5 @@
+case,file,path,extension,detected_kind,size_kb
+python-beginner-programming-exercises,data_pycefr.csv,/home/juan/Documents/Analisis-CC-PyCEFR/data/processed/python-beginner-programming-exercises/data_pycefr.csv,.csv,pycefr_csv,67.03
+python-beginner-programming-exercises,data_pycefr.json,/home/juan/Documents/Analisis-CC-PyCEFR/data/processed/python-beginner-programming-exercises/data_pycefr.json,.json,pycefr_json,242.52
+python-beginner-programming-exercises,radon_output_python-beginner-programming-exercises.csv,/home/juan/Documents/Analisis-CC-PyCEFR/data/processed/python-beginner-programming-exercises/radon_output_python-beginner-programming-exercises.csv,.csv,radon_csv,10.03
+python-beginner-programming-exercises,radon_output_python-beginner-programming-exercises.json,/home/juan/Documents/Analisis-CC-PyCEFR/data/processed/python-beginner-programming-exercises/radon_output_python-beginner-programming-exercises.json,.json,radon_json,38.13

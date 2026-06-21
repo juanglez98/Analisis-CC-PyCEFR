@@ -1,0 +1,1182 @@
+{
+    "python-beginner-programming-exercises": {
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/11-Create-A-New-Function/test.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_return",
+                "col_offset": 0,
+                "complexity": 4,
+                "lineno": 21,
+                "endline": 26,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_function_exists",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 12,
+                "endline": 17,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_type_random",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 31,
+                "endline": 35,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_function_called_for",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 41,
+                "endline": 41,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/11-Create-A-New-Function/solution.hide.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "generate_random",
+                "col_offset": 0,
+                "complexity": 1,
+                "lineno": 4,
+                "endline": 6,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/04-Multiply-Two-Values/test.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_variable_exists",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 12,
+                "endline": 16,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_use_variable_name",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 19,
+                "endline": 19,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_file_output",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 24,
+                "endline": 24,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_print",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 29,
+                "endline": 33,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_print",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 37,
+                "endline": 39,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/06-String-Concatenation/test.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_my_var1_exists",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 7,
+                "endline": 11,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_my_var2_exists",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 14,
+                "endline": 18,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_my_var1_value",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 21,
+                "endline": 21,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_my_var2_value",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 26,
+                "endline": 26,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_the_new_string_exists",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 31,
+                "endline": 36,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_file_output",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 39,
+                "endline": 39,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/09-Random-Numbers/test.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_function_return_no_static",
+                "col_offset": 0,
+                "complexity": 5,
+                "lineno": 40,
+                "endline": 50,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_function_returns_random_integer",
+                "col_offset": 0,
+                "complexity": 4,
+                "lineno": 29,
+                "endline": 36,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_function_exists",
+                "col_offset": 0,
+                "complexity": 3,
+                "lineno": 22,
+                "endline": 26,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_only_change_line_5",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 13,
+                "endline": 18,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/09-Random-Numbers/solution.hide.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "get_randomInt",
+                "col_offset": 0,
+                "complexity": 1,
+                "lineno": 3,
+                "endline": 6,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/09-Random-Numbers/app.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "get_randomInt",
+                "col_offset": 0,
+                "complexity": 1,
+                "lineno": 3,
+                "endline": 6,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/03-Print-Variables-In-The-Console/test.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_declare_variable",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 12,
+                "endline": 12,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_declare_variable",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 17,
+                "endline": 17,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_file_output",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 22,
+                "endline": 22,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/17-Russian-Roulette/test.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_file_output",
+                "col_offset": 0,
+                "complexity": 5,
+                "lineno": 27,
+                "endline": 27,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_function_output",
+                "col_offset": 0,
+                "complexity": 4,
+                "lineno": 20,
+                "endline": 21,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_function_spin_chamber",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 12,
+                "endline": 12,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_function_fire_gun",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 16,
+                "endline": 16,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/17-Russian-Roulette/solution.hide.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "fire_gun",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 10,
+                "endline": 15,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "spin_chamber",
+                "col_offset": 0,
+                "complexity": 1,
+                "lineno": 5,
+                "endline": 7,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/17-Russian-Roulette/app.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "spin_chamber",
+                "col_offset": 0,
+                "complexity": 1,
+                "lineno": 5,
+                "endline": 7,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "fire_gun",
+                "col_offset": 0,
+                "complexity": 1,
+                "lineno": 10,
+                "endline": 12,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/14-Create-A-For-Loop/test.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_file_output",
+                "col_offset": 0,
+                "complexity": 5,
+                "lineno": 27,
+                "endline": 27,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_variable_exists",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 13,
+                "endline": 17,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_loop",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 20,
+                "endline": 23,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_print",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 37,
+                "endline": 40,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_callTheFunction",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 44,
+                "endline": 48,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/14-Create-A-For-Loop/solution.hide.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "standards_maker",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 1,
+                "endline": 4,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/14-Create-A-For-Loop/app.py": {
+            "error": "expected an indented block after function definition on line 1 (<unknown>, line 5)"
+        },
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/15-Looping-With-FizzBuzz/test.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_function_existence",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 13,
+                "endline": 17,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_loop",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 20,
+                "endline": 23,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_function_output",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 27,
+                "endline": 27,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/15-Looping-With-FizzBuzz/solution.hide.py": [
+            {
+                "type": "function",
+                "rank": "B",
+                "name": "fizz_buzz",
+                "col_offset": 0,
+                "complexity": 6,
+                "lineno": 1,
+                "endline": 11,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/15-Looping-With-FizzBuzz/app.py": {
+            "error": "expected an indented block after function definition on line 1 (<unknown>, line 5)"
+        },
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/01-Console/test.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_file_output",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 11,
+                "endline": 16,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_console_log",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 20,
+                "endline": 20,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/02-Declare-Variables/test.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_print",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 12,
+                "endline": 16,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_variable",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 20,
+                "endline": 24,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_file_output",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 28,
+                "endline": 28,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/12-Rand-From-One-to-Twelve/test.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_function_existence",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 13,
+                "endline": 17,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_conditional",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 20,
+                "endline": 24,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_print_output",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 28,
+                "endline": 28,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_function_called_for",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 33,
+                "endline": 36,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/12-Rand-From-One-to-Twelve/solution.hide.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "get_randomInt",
+                "col_offset": 0,
+                "complexity": 1,
+                "lineno": 3,
+                "endline": 6,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/12-Rand-From-One-to-Twelve/app.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "get_randomInt",
+                "col_offset": 0,
+                "complexity": 1,
+                "lineno": 3,
+                "endline": 5,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/10.1-Creating-Your-First-Function/test.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_function",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 11,
+                "endline": 15,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_function_print",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 18,
+                "endline": 22,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_print",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 27,
+                "endline": 30,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_return",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 34,
+                "endline": 34,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_return_2",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 40,
+                "endline": 40,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/10.1-Creating-Your-First-Function/solution.hide.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "add_numbers",
+                "col_offset": 0,
+                "complexity": 1,
+                "lineno": 1,
+                "endline": 3,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/10.1-Creating-Your-First-Function/app.py": {
+            "error": "expected an indented block after function definition on line 1 (<unknown>, line 6)"
+        },
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/13-Your-First-Loop/test.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_function_existence",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 13,
+                "endline": 17,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_function_output",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 20,
+                "endline": 20,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_loop",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 26,
+                "endline": 29,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/13-Your-First-Loop/solution.hide.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "start_counting",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 1,
+                "endline": 4,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/13-Your-First-Loop/app.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "start_counting",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 1,
+                "endline": 4,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/08.2-How-Much-The-Wedding-Costs/test.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_print",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 6,
+                "endline": 9,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_print",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 13,
+                "endline": 16,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test__between_100_and_200",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 21,
+                "endline": 25,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_between_101_and_51",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 30,
+                "endline": 34,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_less_than_50",
+                "col_offset": 0,
+                "complexity": 1,
+                "lineno": 39,
+                "endline": 44,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_t",
+                "col_offset": 0,
+                "complexity": 1,
+                "lineno": 47,
+                "endline": 52,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/05-User-Inputed-Values/test.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_file_output",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 5,
+                "endline": 9,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_plus_ten",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 14,
+                "endline": 14,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/18-The-Beatles/test.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_function_sing_exists",
+                "col_offset": 0,
+                "complexity": 3,
+                "lineno": 12,
+                "endline": 16,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_function_sing_exists",
+                "col_offset": 0,
+                "complexity": 3,
+                "lineno": 27,
+                "endline": 31,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_function_hardcode_output",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 19,
+                "endline": 23,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/18-The-Beatles/solution.hide.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "sing",
+                "col_offset": 0,
+                "complexity": 4,
+                "lineno": 2,
+                "endline": 11,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/07-Create-a-Basic-HTML/test.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_html_document_exists",
+                "col_offset": 0,
+                "complexity": 3,
+                "lineno": 13,
+                "endline": 18,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_html_document_exists",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 6,
+                "endline": 10,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_concat",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 21,
+                "endline": 26,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_file_output",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 31,
+                "endline": 31,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/16-Random-Colors-Loop/test.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_get_color_exists",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 12,
+                "endline": 16,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_get_allStudentColors_exists",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 18,
+                "endline": 22,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_ten_colors",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 25,
+                "endline": 25,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_black_in_array",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 30,
+                "endline": 30,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "use_for_loop",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 35,
+                "endline": 40,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/16-Random-Colors-Loop/solution.hide.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "get_allStudentColors",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 19,
+                "endline": 26,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "get_color",
+                "col_offset": 0,
+                "complexity": 1,
+                "lineno": 3,
+                "endline": 15,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/16-Random-Colors-Loop/app.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "get_color",
+                "col_offset": 0,
+                "complexity": 1,
+                "lineno": 3,
+                "endline": 15,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "get_allStudentColors",
+                "col_offset": 0,
+                "complexity": 1,
+                "lineno": 19,
+                "endline": 21,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/19-Bottles-Of-Milk/test.py": [
+            {
+                "type": "function",
+                "rank": "B",
+                "name": "test_function_spin_chamber",
+                "col_offset": 0,
+                "complexity": 8,
+                "lineno": 11,
+                "endline": 11,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "B",
+                "name": "test_for_function_output",
+                "col_offset": 0,
+                "complexity": 6,
+                "lineno": 29,
+                "endline": 29,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/19-Bottles-Of-Milk/solution.hide.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "number_of_bottles",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 2,
+                "endline": 8,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/10-Calling-Your-First-Function/test.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_functions_existence",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 4,
+                "endline": 8,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_functions_existence_main",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 11,
+                "endline": 15,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_print",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 18,
+                "endline": 22,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_file_output",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 33,
+                "endline": 33,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_call_is_odd",
+                "col_offset": 0,
+                "complexity": 1,
+                "lineno": 26,
+                "endline": 30,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/10-Calling-Your-First-Function/solution.hide.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "is_odd",
+                "col_offset": 0,
+                "complexity": 1,
+                "lineno": 1,
+                "endline": 2,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "my_main_code",
+                "col_offset": 0,
+                "complexity": 1,
+                "lineno": 5,
+                "endline": 7,
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/10-Calling-Your-First-Function/app.py": {
+            "error": "expected an indented block after function definition on line 5 (<unknown>, line 6)"
+        },
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-beginner-programming-exercises/exercises/08.1-Your-First-If/test.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_print",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 6,
+                "endline": 9,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_print",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 13,
+                "endline": 17,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_print",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 21,
+                "endline": 24,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_output_when_101",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 28,
+                "endline": 31,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_output_when_100",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 35,
+                "endline": 38,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_output_when_99",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 42,
+                "endline": 45,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_output_when_51",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 49,
+                "endline": 52,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_output_when_50",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 56,
+                "endline": 59,
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "name": "test_for_output_when_49",
+                "col_offset": 0,
+                "complexity": 2,
+                "lineno": 63,
+                "endline": 66,
+                "closures": []
+            }
+        ]
+    }
+}
