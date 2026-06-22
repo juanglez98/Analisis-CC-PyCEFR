@@ -1,5 +1,366 @@
 {
-    "": {
+    "Analisis-CC-PyCEFR": {
+        "main.py": [
+            {
+                "Class": "Print",
+                "Start Line": "39",
+                "End Line": "39",
+                "Displacement": "8",
+                "Level": "A1"
+            },
+            {
+                "Class": "Simple Atributte",
+                "Start Line": "9",
+                "End Line": "9",
+                "Displacement": "22",
+                "Level": "A2"
+            },
+            {
+                "Class": "Simple Atributte",
+                "Start Line": "36",
+                "End Line": "36",
+                "Displacement": "4",
+                "Level": "A2"
+            },
+            {
+                "Class": "Simple Atributte",
+                "Start Line": "54",
+                "End Line": "54",
+                "Displacement": "22",
+                "Level": "A2"
+            },
+            {
+                "Class": "Simple Atributte",
+                "Start Line": "55",
+                "End Line": "55",
+                "Displacement": "17",
+                "Level": "A2"
+            },
+            {
+                "Class": "Simple Atributte",
+                "Start Line": "60",
+                "End Line": "60",
+                "Displacement": "20",
+                "Level": "A2"
+            },
+            {
+                "Class": "Simple Atributte",
+                "Start Line": "9",
+                "End Line": "9",
+                "Displacement": "22",
+                "Level": "A2"
+            },
+            {
+                "Class": "Simple Atributte",
+                "Start Line": "13",
+                "End Line": "13",
+                "Displacement": "51",
+                "Level": "A2"
+            },
+            {
+                "Class": "Simple Atributte",
+                "Start Line": "38",
+                "End Line": "38",
+                "Displacement": "14",
+                "Level": "A2"
+            },
+            {
+                "Class": "Simple Atributte",
+                "Start Line": "57",
+                "End Line": "57",
+                "Displacement": "8",
+                "Level": "A2"
+            },
+            {
+                "Class": "Simple Atributte",
+                "Start Line": "60",
+                "End Line": "60",
+                "Displacement": "20",
+                "Level": "A2"
+            },
+            {
+                "Class": "Simple Atributte",
+                "Start Line": "60",
+                "End Line": "60",
+                "Displacement": "36",
+                "Level": "A2"
+            },
+            {
+                "Class": "Simple Atributte",
+                "Start Line": "46",
+                "End Line": "46",
+                "Displacement": "8",
+                "Level": "A2"
+            },
+            {
+                "Class": "Simple Atributte",
+                "Start Line": "60",
+                "End Line": "60",
+                "Displacement": "36",
+                "Level": "A2"
+            },
+            {
+                "Class": "Simple Atributte",
+                "Start Line": "17",
+                "End Line": "17",
+                "Displacement": "50",
+                "Level": "A2"
+            },
+            {
+                "Class": "Simple Atributte",
+                "Start Line": "13",
+                "End Line": "13",
+                "Displacement": "51",
+                "Level": "A2"
+            },
+            {
+                "Class": "Unary Operation",
+                "Start Line": "38",
+                "End Line": "38",
+                "Displacement": "32",
+                "Level": "A1"
+            },
+            {
+                "Class": "Unary Operation",
+                "Start Line": "17",
+                "End Line": "17",
+                "Displacement": "73",
+                "Level": "A1"
+            },
+            {
+                "Class": "Unary Operation",
+                "Start Line": "13",
+                "End Line": "13",
+                "Displacement": "74",
+                "Level": "A1"
+            },
+            {
+                "Class": "Subscript",
+                "Start Line": "38",
+                "End Line": "38",
+                "Displacement": "14",
+                "Level": "A1"
+            },
+            {
+                "Class": "Subscript",
+                "Start Line": "54",
+                "End Line": "54",
+                "Displacement": "22",
+                "Level": "A1"
+            },
+            {
+                "Class": "Subscript",
+                "Start Line": "55",
+                "End Line": "55",
+                "Displacement": "17",
+                "Level": "A1"
+            },
+            {
+                "Class": "Subscript",
+                "Start Line": "17",
+                "End Line": "17",
+                "Displacement": "50",
+                "Level": "A1"
+            },
+            {
+                "Class": "Subscript",
+                "Start Line": "13",
+                "End Line": "13",
+                "Displacement": "51",
+                "Level": "A1"
+            },
+            {
+                "Class": "Simple Assignment",
+                "Start Line": "9",
+                "End Line": "9",
+                "Displacement": "8",
+                "Level": "A1"
+            },
+            {
+                "Class": "Assigment with sum (total = total + 1)",
+                "Start Line": "34",
+                "End Line": "34",
+                "Displacement": "4",
+                "Level": "A1"
+            },
+            {
+                "Class": "Simple Assignment",
+                "Start Line": "35",
+                "End Line": "35",
+                "Displacement": "4",
+                "Level": "A1"
+            },
+            {
+                "Class": "Assigment with sum (total = total + 1)",
+                "Start Line": "60",
+                "End Line": "60",
+                "Displacement": "4",
+                "Level": "A1"
+            },
+            {
+                "Class": "Simple Assignment",
+                "Start Line": "38",
+                "End Line": "38",
+                "Displacement": "8",
+                "Level": "A1"
+            },
+            {
+                "Class": "Simple Assignment",
+                "Start Line": "54",
+                "End Line": "54",
+                "Displacement": "8",
+                "Level": "A1"
+            },
+            {
+                "Class": "Simple Assignment",
+                "Start Line": "55",
+                "End Line": "55",
+                "Displacement": "8",
+                "Level": "A1"
+            },
+            {
+                "Class": "Import",
+                "Start Line": "1",
+                "End Line": "1",
+                "Displacement": "0",
+                "Level": "A2"
+            },
+            {
+                "Class": "Import",
+                "Start Line": "2",
+                "End Line": "2",
+                "Displacement": "0",
+                "Level": "A2"
+            },
+            {
+                "Class": "From with *statements ",
+                "Start Line": "3",
+                "End Line": "3",
+                "Displacement": "0",
+                "Level": "B1"
+            },
+            {
+                "Class": "Alias",
+                "Start Line": "1",
+                "End Line": "1",
+                "Displacement": "7",
+                "Level": "A1"
+            },
+            {
+                "Class": "Alias",
+                "Start Line": "2",
+                "End Line": "2",
+                "Displacement": "7",
+                "Level": "A1"
+            },
+            {
+                "Class": "Alias",
+                "Start Line": "3",
+                "End Line": "3",
+                "Displacement": "36",
+                "Level": "A1"
+            },
+            {
+                "Class": "If statements using \u2192 __name__ == \u2018__main__\u2019",
+                "Start Line": "51",
+                "End Line": "64",
+                "Displacement": "0",
+                "Level": "B2"
+            },
+            {
+                "Class": "Simple If statements",
+                "Start Line": "11",
+                "End Line": "21",
+                "Displacement": "8",
+                "Level": "A1"
+            },
+            {
+                "Class": "Simple If statements",
+                "Start Line": "37",
+                "End Line": "46",
+                "Displacement": "4",
+                "Level": "A1"
+            },
+            {
+                "Class": "Simple If statements",
+                "Start Line": "15",
+                "End Line": "21",
+                "Displacement": "8",
+                "Level": "A1"
+            },
+            {
+                "Class": "Simple If statements",
+                "Start Line": "41",
+                "End Line": "46",
+                "Displacement": "4",
+                "Level": "A1"
+            },
+            {
+                "Class": "Simple If statements",
+                "Start Line": "19",
+                "End Line": "21",
+                "Displacement": "8",
+                "Level": "A1"
+            },
+            {
+                "Class": "Simple If statements",
+                "Start Line": "43",
+                "End Line": "46",
+                "Displacement": "4",
+                "Level": "A1"
+            },
+            {
+                "Class": "Exception --> try/except",
+                "Start Line": "53",
+                "End Line": "58",
+                "Displacement": "4",
+                "Level": "B1"
+            },
+            {
+                "Class": "Except Handler",
+                "Start Line": "56",
+                "End Line": "58",
+                "Displacement": "4",
+                "Level": "A1"
+            },
+            {
+                "Class": "Function with Simple argument",
+                "Start Line": "7",
+                "End Line": "21",
+                "Displacement": "0",
+                "Level": "A1"
+            },
+            {
+                "Class": "Function with Simple argument",
+                "Start Line": "32",
+                "End Line": "46",
+                "Displacement": "0",
+                "Level": "A1"
+            },
+            {
+                "Class": "Return",
+                "Start Line": "13",
+                "End Line": "13",
+                "Displacement": "12",
+                "Level": "A1"
+            },
+            {
+                "Class": "Return",
+                "Start Line": "17",
+                "End Line": "17",
+                "Displacement": "12",
+                "Level": "A1"
+            },
+            {
+                "Class": "Return",
+                "Start Line": "21",
+                "End Line": "21",
+                "Displacement": "12",
+                "Level": "A1"
+            }
+        ]
+    },
+    "raw": {
         "generator.py": [
             {
                 "Class": "Simple List",

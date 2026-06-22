@@ -1,0 +1,6 @@
+case,origen,tipo,nivel_esperado,motivo
+Analisis-CC-PyCEFR,Repositorio propio / herramienta del proyecto,Código de la herramienta,B1-B2,Permite analizar el propio código desarrollado y comprobar cómo se comportan las métricas sobre la herramienta.
+4geeks_beginner,4GeeksAcademy/python-beginner-programming-exercises,Ejercicios básicos,A1-A2,Contiene ejercicios introductorios útiles para observar constructos simples.
+30_days_python,Asabeneh/30-Days-Of-Python,Curso progresivo,A1-B2,Está organizado como material de aprendizaje progresivo.
+python_projects,python-online/python-projects,Proyectos pequeños,A2-C1,"Incluye proyectos de distintos niveles, útiles para comparar casos prácticos."
+python_algorithms,david-legend/python-algorithms u otro repositorio de algoritmos,Algoritmos y estructuras de datos,B1-C2,Aporta funciones con mayor densidad algorítmica y estructuras de control más complejas.

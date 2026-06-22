@@ -1,5 +1,6 @@
 import os
 import sys
+from src.getradon import generate
 from src.lib.pycerfl.pycerfl import * 
 
 
@@ -10,6 +11,7 @@ def get_folder_name(type_option,option):
         
         if type_option == 'repo-url':
             # Caso URL: https://github.com/user/mi-repo.git -> "mi-repo"
+            print(target_folder + 'processed/' +  clean_input.split('/')[-1].replace('.git', ''))
             return target_folder + 'processed/' +  clean_input.split('/')[-1].replace('.git', '')
         
         elif type_option == 'user':
@@ -31,19 +33,21 @@ def get_folder_name(type_option,option):
 
 def choose_option(type_option,option,target_folder):
     """ Choose option. """
-    source_path = target_folder + 'raw/'
-    target_path = get_folder_name(type_option,option) 
+    source_path = None
+    target_path = get_folder_name(type_option,option)
     os.makedirs(target_path, exist_ok=True)
     if type_option == 'directory':
+        source_path = option
         dir = option.split('/')[-1]        
         print(dir)
-        read_Directory(option, dir,target_path)
+        read_Directory(source_path, dir,target_path)
     elif type_option == 'repo-url':
-        request_url(option,target_folder)
+        source_path = request_url(option,target_path)
     elif type_option == 'user':
-        run_user(option,target_folder)
+        source_path = run_user(option,target_path)
     else:
         sys.exit('Incorrect Option')
+    return target_path, source_path
 
 
 
@@ -58,12 +62,14 @@ if __name__ == "__main__":
                  "'repo-url', 'user') option(directory, url, user)")
     
     target_folder = os.path.dirname(os.path.abspath(__file__)) + "/data/"
- 
-
+  
      
-    choose_option(type_option, option,target_folder)
+    # processed_path, source_path = choose_option(type_option, option, target_folder)
+    # print("Processed path: ", processed_path)
+    # summary_Levels(processed_path)
+    # generate(source_path, processed_path)
 
-
+    generate('/home/juan/Documents/Analisis-CC-PyCEFR/python-algorithms/','/home/juan/Documents/Analisis-CC-PyCEFR/data/processed/python-algorithms')    
 
 
     
