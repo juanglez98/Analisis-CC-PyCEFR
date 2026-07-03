@@ -1,2 +1,6 @@
 case,n_constructs,n_classes,max_level_num,mean_level_num,max_displacement,max_level
+30-Days-Of-Python,1358,29,4,1.4425625920471281,89,B2
+Analisis-CC-PyCEFR,482,39,5,1.3443983402489628,103,C1
+python-algorithms,21724,57,6,1.4118026146197753,313,C2
 python-beginner-programming-exercises,1176,32,5,1.780612244897959,531,C1
+python-mini-projects,10907,83,6,1.5478133308884203,170,C2

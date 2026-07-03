@@ -1,0 +1,4607 @@
+{
+    "python-mini-projects": {
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/birthDateToCurrentAge.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 4,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 27,
+                "name": "ageCalculator",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Snake Game/snake_game.py": [
+            {
+                "type": "function",
+                "rank": "B",
+                "lineno": 87,
+                "col_offset": 0,
+                "complexity": 9,
+                "endline": 102,
+                "name": "change_direction",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "B",
+                "lineno": 41,
+                "col_offset": 0,
+                "complexity": 8,
+                "endline": 84,
+                "name": "next_turn",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "B",
+                "lineno": 105,
+                "col_offset": 0,
+                "complexity": 8,
+                "endline": 118,
+                "name": "check_collisions",
+                "closures": []
+            },
+            {
+                "type": "class",
+                "rank": "A",
+                "lineno": 14,
+                "col_offset": 0,
+                "complexity": 4,
+                "endline": 26,
+                "name": "Snake",
+                "methods": [
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "Snake",
+                        "lineno": 16,
+                        "col_offset": 4,
+                        "complexity": 3,
+                        "endline": 26,
+                        "name": "__init__",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "Snake",
+                "lineno": 16,
+                "col_offset": 4,
+                "complexity": 3,
+                "endline": 26,
+                "name": "__init__",
+                "closures": []
+            },
+            {
+                "type": "class",
+                "rank": "A",
+                "lineno": 29,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 38,
+                "name": "Food",
+                "methods": [
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "Food",
+                        "lineno": 31,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 38,
+                        "name": "__init__",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 121,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 125,
+                "name": "game_over",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "Food",
+                "lineno": 31,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 38,
+                "name": "__init__",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Capture_Video_Frames/capture_video_frames.py": [
+            {
+                "type": "class",
+                "rank": "A",
+                "lineno": 6,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 36,
+                "name": "FrameCapture",
+                "methods": [
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "FrameCapture",
+                        "lineno": 10,
+                        "col_offset": 4,
+                        "complexity": 2,
+                        "endline": 19,
+                        "name": "__init__",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "FrameCapture",
+                        "lineno": 21,
+                        "col_offset": 4,
+                        "complexity": 2,
+                        "endline": 36,
+                        "name": "capture_frames",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "FrameCapture",
+                "lineno": 10,
+                "col_offset": 4,
+                "complexity": 2,
+                "endline": 19,
+                "name": "__init__",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "FrameCapture",
+                "lineno": 21,
+                "col_offset": 4,
+                "complexity": 2,
+                "endline": 36,
+                "name": "capture_frames",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Random_password_generator/random_password_gen.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 20,
+                "col_offset": 0,
+                "complexity": 4,
+                "endline": 28,
+                "name": "generate_pass",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Bouncing_ball_simulator/ball_bounce.py": [
+            {
+                "type": "method",
+                "rank": "B",
+                "classname": "ball",
+                "lineno": 26,
+                "col_offset": 4,
+                "complexity": 7,
+                "endline": 40,
+                "name": "move_ball",
+                "closures": []
+            },
+            {
+                "type": "class",
+                "rank": "A",
+                "lineno": 15,
+                "col_offset": 0,
+                "complexity": 4,
+                "endline": 40,
+                "name": "ball",
+                "methods": [
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "ball",
+                        "lineno": 18,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 22,
+                        "name": "__init__",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "ball",
+                        "lineno": 24,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 25,
+                        "name": "render_ball",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "B",
+                        "classname": "ball",
+                        "lineno": 26,
+                        "col_offset": 4,
+                        "complexity": 7,
+                        "endline": 40,
+                        "name": "move_ball",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "ball",
+                "lineno": 18,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 22,
+                "name": "__init__",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "ball",
+                "lineno": 24,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 25,
+                "name": "render_ball",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Convert_numbers_to_word/converter.py": [
+            {
+                "type": "function",
+                "rank": "E",
+                "lineno": 19,
+                "col_offset": 0,
+                "complexity": 34,
+                "endline": 72,
+                "name": "converter",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Find_out_hostname_and_ip_address/Hostname_IPaddress.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 4,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 10,
+                "name": "get_hostname_IP",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/detect_align_faces/main.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 20,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 33,
+                "name": "main",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 36,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 59,
+                "name": "detect_align_faces",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 62,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 70,
+                "name": "shape_to_pos",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Organized_download_folder_with_different_categories/file-sortor.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 25,
+                "col_offset": 0,
+                "complexity": 4,
+                "endline": 31,
+                "name": "sorting",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Recursive_password_generator/generator.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 4,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 9,
+                "name": "stretch",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 11,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 14,
+                "name": "get_random_char",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Speech_to_text/speech_to_text.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 3,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 15,
+                "name": "record_voice",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/GUI Rock-Paper-Scissors Game/Rock-Paper-Scissors Game.py": [
+            {
+                "type": "function",
+                "rank": "C",
+                "lineno": 23,
+                "col_offset": 0,
+                "complexity": 16,
+                "endline": 58,
+                "name": "spin",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Merge_pdfs/merge_pdfs.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 7,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 15,
+                "name": "by_appending",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 19,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 23,
+                "name": "by_inserting",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Speed_Game/macOS/main.py": [
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "CountryPage",
+                "lineno": 161,
+                "col_offset": 4,
+                "complexity": 4,
+                "endline": 202,
+                "name": "checkBtn_click",
+                "closures": []
+            },
+            {
+                "type": "class",
+                "rank": "A",
+                "lineno": 16,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 27,
+                "name": "SampleApp",
+                "methods": [
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "SampleApp",
+                        "lineno": 17,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 20,
+                        "name": "__init__",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "SampleApp",
+                        "lineno": 22,
+                        "col_offset": 4,
+                        "complexity": 2,
+                        "endline": 27,
+                        "name": "switch_frame",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "class",
+                "rank": "A",
+                "lineno": 82,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 237,
+                "name": "CountryPage",
+                "methods": [
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "CountryPage",
+                        "lineno": 83,
+                        "col_offset": 4,
+                        "complexity": 2,
+                        "endline": 142,
+                        "name": "__init__",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "CountryPage",
+                        "lineno": 144,
+                        "col_offset": 4,
+                        "complexity": 3,
+                        "endline": 158,
+                        "name": "count",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "CountryPage",
+                        "lineno": 161,
+                        "col_offset": 4,
+                        "complexity": 4,
+                        "endline": 202,
+                        "name": "checkBtn_click",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "CountryPage",
+                        "lineno": 204,
+                        "col_offset": 4,
+                        "complexity": 3,
+                        "endline": 234,
+                        "name": "passBtn_click",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "CountryPage",
+                        "lineno": 236,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 237,
+                        "name": "delete_img",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "CountryPage",
+                "lineno": 144,
+                "col_offset": 4,
+                "complexity": 3,
+                "endline": 158,
+                "name": "count",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "CountryPage",
+                "lineno": 204,
+                "col_offset": 4,
+                "complexity": 3,
+                "endline": 234,
+                "name": "passBtn_click",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "SampleApp",
+                "lineno": 22,
+                "col_offset": 4,
+                "complexity": 2,
+                "endline": 27,
+                "name": "switch_frame",
+                "closures": []
+            },
+            {
+                "type": "class",
+                "rank": "A",
+                "lineno": 30,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 48,
+                "name": "StartPage",
+                "methods": [
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "StartPage",
+                        "lineno": 31,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 48,
+                        "name": "__init__",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "class",
+                "rank": "A",
+                "lineno": 51,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 79,
+                "name": "CategoryPage",
+                "methods": [
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "CategoryPage",
+                        "lineno": 52,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 79,
+                        "name": "__init__",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "CountryPage",
+                "lineno": 83,
+                "col_offset": 4,
+                "complexity": 2,
+                "endline": 142,
+                "name": "__init__",
+                "closures": []
+            },
+            {
+                "type": "class",
+                "rank": "A",
+                "lineno": 240,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 251,
+                "name": "FinishPage",
+                "methods": [
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "FinishPage",
+                        "lineno": 241,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 251,
+                        "name": "__init__",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "SampleApp",
+                "lineno": 17,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 20,
+                "name": "__init__",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "StartPage",
+                "lineno": 31,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 48,
+                "name": "__init__",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "CategoryPage",
+                "lineno": 52,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 79,
+                "name": "__init__",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "CountryPage",
+                "lineno": 236,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 237,
+                "name": "delete_img",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "FinishPage",
+                "lineno": 241,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 251,
+                "name": "__init__",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Speed_Game/windows/main.py": [
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "CountryPage",
+                "lineno": 164,
+                "col_offset": 4,
+                "complexity": 4,
+                "endline": 205,
+                "name": "checkBtn_click",
+                "closures": []
+            },
+            {
+                "type": "class",
+                "rank": "A",
+                "lineno": 19,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 30,
+                "name": "SampleApp",
+                "methods": [
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "SampleApp",
+                        "lineno": 20,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 23,
+                        "name": "__init__",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "SampleApp",
+                        "lineno": 25,
+                        "col_offset": 4,
+                        "complexity": 2,
+                        "endline": 30,
+                        "name": "switch_frame",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "class",
+                "rank": "A",
+                "lineno": 85,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 240,
+                "name": "CountryPage",
+                "methods": [
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "CountryPage",
+                        "lineno": 86,
+                        "col_offset": 4,
+                        "complexity": 2,
+                        "endline": 145,
+                        "name": "__init__",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "CountryPage",
+                        "lineno": 147,
+                        "col_offset": 4,
+                        "complexity": 3,
+                        "endline": 161,
+                        "name": "count",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "CountryPage",
+                        "lineno": 164,
+                        "col_offset": 4,
+                        "complexity": 4,
+                        "endline": 205,
+                        "name": "checkBtn_click",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "CountryPage",
+                        "lineno": 207,
+                        "col_offset": 4,
+                        "complexity": 3,
+                        "endline": 237,
+                        "name": "passBtn_click",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "CountryPage",
+                        "lineno": 239,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 240,
+                        "name": "delete_img",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "CountryPage",
+                "lineno": 147,
+                "col_offset": 4,
+                "complexity": 3,
+                "endline": 161,
+                "name": "count",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "CountryPage",
+                "lineno": 207,
+                "col_offset": 4,
+                "complexity": 3,
+                "endline": 237,
+                "name": "passBtn_click",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "SampleApp",
+                "lineno": 25,
+                "col_offset": 4,
+                "complexity": 2,
+                "endline": 30,
+                "name": "switch_frame",
+                "closures": []
+            },
+            {
+                "type": "class",
+                "rank": "A",
+                "lineno": 33,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 51,
+                "name": "StartPage",
+                "methods": [
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "StartPage",
+                        "lineno": 34,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 51,
+                        "name": "__init__",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "class",
+                "rank": "A",
+                "lineno": 54,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 82,
+                "name": "CategoryPage",
+                "methods": [
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "CategoryPage",
+                        "lineno": 55,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 82,
+                        "name": "__init__",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "CountryPage",
+                "lineno": 86,
+                "col_offset": 4,
+                "complexity": 2,
+                "endline": 145,
+                "name": "__init__",
+                "closures": []
+            },
+            {
+                "type": "class",
+                "rank": "A",
+                "lineno": 243,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 254,
+                "name": "FinishPage",
+                "methods": [
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "FinishPage",
+                        "lineno": 244,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 254,
+                        "name": "__init__",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "SampleApp",
+                "lineno": 20,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 23,
+                "name": "__init__",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "StartPage",
+                "lineno": 34,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 51,
+                "name": "__init__",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "CategoryPage",
+                "lineno": 55,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 82,
+                "name": "__init__",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "CountryPage",
+                "lineno": 239,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 240,
+                "name": "delete_img",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "FinishPage",
+                "lineno": 244,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 254,
+                "name": "__init__",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/S3_File_Upload/main.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 10,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 23,
+                "name": "upload_to_s3",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/convert_png_images_to_ico_format/convertUI.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 20,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 28,
+                "name": "convertToICO",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 14,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 18,
+                "name": "getPNG",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Network Usage Tracker/network_usage_tracker.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 78,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 103,
+                "name": "update_label",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 38,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 40,
+                "name": "exit_win",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 109,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 111,
+                "name": "exit_win",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 22,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 23,
+                "name": "start_fun",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 73,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 74,
+                "name": "convert_to_gbit",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/steganography/dct.py": [
+            {
+                "type": "function",
+                "rank": "B",
+                "lineno": 32,
+                "col_offset": 0,
+                "complexity": 7,
+                "endline": 64,
+                "name": "insert",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "B",
+                "lineno": 93,
+                "col_offset": 0,
+                "complexity": 7,
+                "endline": 120,
+                "name": "extract",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 68,
+                "col_offset": 0,
+                "complexity": 4,
+                "endline": 81,
+                "name": "encode",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 85,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 90,
+                "name": "decode",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/steganography/lsb.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 43,
+                "col_offset": 0,
+                "complexity": 5,
+                "endline": 63,
+                "name": "extract",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 22,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 40,
+                "name": "insert",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 66,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 70,
+                "name": "encode",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 73,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 77,
+                "name": "decode",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/cat_command/cat.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 26,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 40,
+                "name": "readFile",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 57,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 73,
+                "name": "main",
+                "closures": []
+            },
+            {
+                "type": "class",
+                "rank": "A",
+                "lineno": 11,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 16,
+                "name": "Logger",
+                "methods": [
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "Logger",
+                        "lineno": 12,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 13,
+                        "name": "__init__",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "Logger",
+                        "lineno": 15,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 16,
+                        "name": "error",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 42,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 55,
+                "name": "cli",
+                "closures": []
+            },
+            {
+                "type": "class",
+                "rank": "A",
+                "lineno": 8,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 9,
+                "name": "CatError",
+                "methods": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "Logger",
+                "lineno": 12,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 13,
+                "name": "__init__",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "Logger",
+                "lineno": 15,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 16,
+                "name": "error",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Convert_JPEG_to_PNG/converter_GUI.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 28,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 35,
+                "name": "convertToPNG",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 14,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 18,
+                "name": "getJPG",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Alarm clock/alarm_clock.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 19,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 36,
+                "name": "alarm",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 15,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 17,
+                "name": "Threading",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/export_mysql_to_csv_send_to_wocom/export_mysql_data_to_csv.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 26,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 33,
+                "name": "read_mysql_to_csv",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 15,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 23,
+                "name": "sql",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 36,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 42,
+                "name": "upload_file_robots",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 45,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 50,
+                "name": "send_file_robots",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Ascii_art/make_art.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 11,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 18,
+                "name": "print_out_ascii",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 21,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 38,
+                "name": "img_to_ascii",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Tic_tac_toe_with_ai/tic-tac-toe-AI.py": [
+            {
+                "type": "function",
+                "rank": "D",
+                "lineno": 154,
+                "col_offset": 0,
+                "complexity": 24,
+                "endline": 168,
+                "name": "win_check",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "C",
+                "lineno": 95,
+                "col_offset": 0,
+                "complexity": 14,
+                "endline": 124,
+                "name": "CompAI",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "B",
+                "lineno": 37,
+                "col_offset": 0,
+                "complexity": 7,
+                "endline": 63,
+                "name": "choice",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "B",
+                "lineno": 81,
+                "col_offset": 0,
+                "complexity": 6,
+                "endline": 91,
+                "name": "player_choice",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 146,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 151,
+                "name": "full_board_check",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 170,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 173,
+                "name": "delay",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 8,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 10,
+                "name": "default",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 13,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 21,
+                "name": "rules",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 24,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 26,
+                "name": "play",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 29,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 34,
+                "name": "names",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 67,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 70,
+                "name": "first_player",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 73,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 78,
+                "name": "display_board",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 128,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 132,
+                "name": "selectRandom",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 135,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 138,
+                "name": "place_marker",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 141,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 143,
+                "name": "space_check",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 175,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 177,
+                "name": "replay",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Wikipedia_search_wordcloud/wiki-search-cloud.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 11,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 20,
+                "name": "gen_cloud",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 24,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 25,
+                "name": "save_cloud",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 29,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 32,
+                "name": "show_cloud",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/dork_search_google/main.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 40,
+                "col_offset": 4,
+                "complexity": 4,
+                "endline": 55,
+                "name": "Exploit",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Set_Alarm/alarm.py": [
+            {
+                "type": "function",
+                "rank": "B",
+                "lineno": 18,
+                "col_offset": 0,
+                "complexity": 10,
+                "endline": 66,
+                "name": "set_alarm",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 7,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 11,
+                "name": "rename_files_with_whitespaces",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 14,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 15,
+                "name": "clean_filename",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 68,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 72,
+                "name": "display_header",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Split_folder_into_subfolders/split_and_copy.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 32,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 41,
+                "name": "split",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 44,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 51,
+                "name": "start_process",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 22,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 29,
+                "name": "copyfiles",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 7,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 12,
+                "name": "get_files",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 15,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 19,
+                "name": "getfullpath",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Password_generator/password_generator.py": [
+            {
+                "type": "class",
+                "rank": "A",
+                "lineno": 5,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 37,
+                "name": "App",
+                "methods": [
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "App",
+                        "lineno": 6,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 17,
+                        "name": "__init__",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "App",
+                        "lineno": 19,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 21,
+                        "name": "label",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "App",
+                        "lineno": 23,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 25,
+                        "name": "entry",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "App",
+                        "lineno": 27,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 29,
+                        "name": "button",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "App",
+                        "lineno": 31,
+                        "col_offset": 4,
+                        "complexity": 2,
+                        "endline": 37,
+                        "name": "generate_password",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "App",
+                "lineno": 31,
+                "col_offset": 4,
+                "complexity": 2,
+                "endline": 37,
+                "name": "generate_password",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "App",
+                "lineno": 6,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 17,
+                "name": "__init__",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "App",
+                "lineno": 19,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 21,
+                "name": "label",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "App",
+                "lineno": 23,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 25,
+                "name": "entry",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "App",
+                "lineno": 27,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 29,
+                "name": "button",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Write_script_to_compress_folder_and_files/zipfiles.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 14,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 26,
+                "name": "retrieve_file_paths",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 29,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 35,
+                "name": "zip_dir",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 7,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 10,
+                "name": "zip_file",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/MasterMind/Mastermind_GUIinterface.py": [
+            {
+                "type": "method",
+                "rank": "B",
+                "classname": "MasterMind",
+                "lineno": 51,
+                "col_offset": 4,
+                "complexity": 7,
+                "endline": 86,
+                "name": "guess",
+                "closures": []
+            },
+            {
+                "type": "class",
+                "rank": "A",
+                "lineno": 22,
+                "col_offset": 0,
+                "complexity": 5,
+                "endline": 96,
+                "name": "MasterMind",
+                "methods": [
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "MasterMind",
+                        "lineno": 23,
+                        "col_offset": 4,
+                        "complexity": 4,
+                        "endline": 50,
+                        "name": "__init__",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "B",
+                        "classname": "MasterMind",
+                        "lineno": 51,
+                        "col_offset": 4,
+                        "complexity": 7,
+                        "endline": 86,
+                        "name": "guess",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "MasterMind",
+                        "lineno": 89,
+                        "col_offset": 4,
+                        "complexity": 2,
+                        "endline": 96,
+                        "name": "hint",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "class",
+                "rank": "A",
+                "lineno": 2,
+                "col_offset": 0,
+                "complexity": 4,
+                "endline": 21,
+                "name": "medium",
+                "methods": [
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "medium",
+                        "lineno": 3,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 4,
+                        "name": "user",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "medium",
+                        "lineno": 5,
+                        "col_offset": 4,
+                        "complexity": 3,
+                        "endline": 13,
+                        "name": "__init__",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "medium",
+                        "lineno": 14,
+                        "col_offset": 4,
+                        "complexity": 4,
+                        "endline": 21,
+                        "name": "compare",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "medium",
+                "lineno": 14,
+                "col_offset": 4,
+                "complexity": 4,
+                "endline": 21,
+                "name": "compare",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "MasterMind",
+                "lineno": 23,
+                "col_offset": 4,
+                "complexity": 4,
+                "endline": 50,
+                "name": "__init__",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "medium",
+                "lineno": 5,
+                "col_offset": 4,
+                "complexity": 3,
+                "endline": 13,
+                "name": "__init__",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "MasterMind",
+                "lineno": 89,
+                "col_offset": 4,
+                "complexity": 2,
+                "endline": 96,
+                "name": "hint",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "medium",
+                "lineno": 3,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 4,
+                "name": "user",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Get_meta_information_of_images/get_meta_from_pic.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 14,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 19,
+                "name": "get_labeled_exif",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 9,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 11,
+                "name": "get_exif",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Get_meta_information_of_images/author_utils.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 160,
+                "col_offset": 0,
+                "complexity": 4,
+                "endline": 171,
+                "name": "get_author",
+                "closures": []
+            },
+            {
+                "type": "class",
+                "rank": "A",
+                "lineno": 31,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 48,
+                "name": "SID_NAME_USE",
+                "methods": [
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "SID_NAME_USE",
+                        "lineno": 36,
+                        "col_offset": 4,
+                        "complexity": 3,
+                        "endline": 40,
+                        "name": "__init__",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "SID_NAME_USE",
+                        "lineno": 42,
+                        "col_offset": 4,
+                        "complexity": 2,
+                        "endline": 45,
+                        "name": "__str__",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "SID_NAME_USE",
+                        "lineno": 47,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 48,
+                        "name": "__repr__",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "SID_NAME_USE",
+                "lineno": 36,
+                "col_offset": 4,
+                "complexity": 3,
+                "endline": 40,
+                "name": "__init__",
+                "closures": []
+            },
+            {
+                "type": "class",
+                "rank": "A",
+                "lineno": 52,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 61,
+                "name": "PLOCAL",
+                "methods": [
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "PLOCAL",
+                        "lineno": 54,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 56,
+                        "name": "__init__",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "PLOCAL",
+                        "lineno": 58,
+                        "col_offset": 4,
+                        "complexity": 3,
+                        "endline": 61,
+                        "name": "__del__",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "PLOCAL",
+                "lineno": 58,
+                "col_offset": 4,
+                "complexity": 3,
+                "endline": 61,
+                "name": "__del__",
+                "closures": []
+            },
+            {
+                "type": "class",
+                "rank": "A",
+                "lineno": 65,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 78,
+                "name": "PSID",
+                "methods": [
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "PSID",
+                        "lineno": 66,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 67,
+                        "name": "__init__",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "PSID",
+                        "lineno": 69,
+                        "col_offset": 4,
+                        "complexity": 3,
+                        "endline": 78,
+                        "name": "__str__",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "PSID",
+                "lineno": 69,
+                "col_offset": 4,
+                "complexity": 3,
+                "endline": 78,
+                "name": "__str__",
+                "closures": []
+            },
+            {
+                "type": "class",
+                "rank": "A",
+                "lineno": 80,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 101,
+                "name": "PSECURITY_DESCRIPTOR",
+                "methods": [
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "PSECURITY_DESCRIPTOR",
+                        "lineno": 81,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 91,
+                        "name": "__init__",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "PSECURITY_DESCRIPTOR",
+                        "lineno": 93,
+                        "col_offset": 4,
+                        "complexity": 3,
+                        "endline": 96,
+                        "name": "get_owner",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "PSECURITY_DESCRIPTOR",
+                        "lineno": 98,
+                        "col_offset": 4,
+                        "complexity": 3,
+                        "endline": 101,
+                        "name": "get_group",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "PSECURITY_DESCRIPTOR",
+                "lineno": 93,
+                "col_offset": 4,
+                "complexity": 3,
+                "endline": 96,
+                "name": "get_owner",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "PSECURITY_DESCRIPTOR",
+                "lineno": 98,
+                "col_offset": 4,
+                "complexity": 3,
+                "endline": 101,
+                "name": "get_group",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 103,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 106,
+                "name": "_check_bool",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 148,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 158,
+                "name": "get_file_security",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "SID_NAME_USE",
+                "lineno": 42,
+                "col_offset": 4,
+                "complexity": 2,
+                "endline": 45,
+                "name": "__str__",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 137,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 146,
+                "name": "look_up_account_sid",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "SID_NAME_USE",
+                "lineno": 47,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 48,
+                "name": "__repr__",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "PLOCAL",
+                "lineno": 54,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 56,
+                "name": "__init__",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "PSID",
+                "lineno": 66,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 67,
+                "name": "__init__",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "PSECURITY_DESCRIPTOR",
+                "lineno": 81,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 91,
+                "name": "__init__",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Get_meta_information_of_images/gps_utils.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 5,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 15,
+                "name": "format_lati_long",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 17,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 23,
+                "name": "get_location",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Baidu_POI_crawl/main.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 7,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 15,
+                "name": "run",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Baidu_POI_crawl/util.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 7,
+                "col_offset": 0,
+                "complexity": 5,
+                "endline": 47,
+                "name": "get_baidu_poi",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Create_a_script_to_encrypt_files_and_folder/encrypt.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 8,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 13,
+                "name": "encrypt_dir",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 16,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 30,
+                "name": "encrypt_file",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Plagarism_checker/plag.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 21,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 32,
+                "name": "check_plagiarism",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 12,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 12,
+                "name": "vectorize",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 13,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 13,
+                "name": "similarity",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Shutdown_or_restart_your_device/PowerOptions.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 4,
+                "col_offset": 0,
+                "complexity": 4,
+                "endline": 10,
+                "name": "shutdown",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 12,
+                "col_offset": 0,
+                "complexity": 4,
+                "endline": 18,
+                "name": "restart",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Send_email_from_csv/Sending_mail.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 23,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 48,
+                "name": "send_mail",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 6,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 10,
+                "name": "get_credentials",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 13,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 20,
+                "name": "login",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Write_script_to_move_files_into_alphabetically_ordered_folder/main.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 30,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 38,
+                "name": "readdirectory",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 42,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 52,
+                "name": "createfolder",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 16,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 27,
+                "name": "getfoldername",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 56,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 69,
+                "name": "movetofolder",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Unstructured Supplemenrary  Service Data/ussdtim.py": [
+            {
+                "type": "function",
+                "rank": "B",
+                "lineno": 96,
+                "col_offset": 0,
+                "complexity": 7,
+                "endline": 123,
+                "name": "transf",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 167,
+                "col_offset": 0,
+                "complexity": 5,
+                "endline": 186,
+                "name": "log_in",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 55,
+                "col_offset": 0,
+                "complexity": 4,
+                "endline": 70,
+                "name": "upgrade_migrate",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 72,
+                "col_offset": 0,
+                "complexity": 4,
+                "endline": 94,
+                "name": "balance",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 125,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 137,
+                "name": "funds",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 157,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 164,
+                "name": "exit",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 20,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 23,
+                "name": "BVN_checker",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 26,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 53,
+                "name": "open_acct",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 142,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 154,
+                "name": "options_menu",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Create_calculator_app/calculator.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 21,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 29,
+                "name": "calc",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 8,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 9,
+                "name": "get_input",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 12,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 14,
+                "name": "backspace",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 17,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 18,
+                "name": "clear",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 32,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 40,
+                "name": "popupmsg",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 43,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 133,
+                "name": "cal",
+                "closures": [
+                    {
+                        "type": "function",
+                        "rank": "A",
+                        "lineno": 128,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 129,
+                        "name": "quit",
+                        "closures": []
+                    }
+                ]
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Digital_clock/digital_clock.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 5,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 16,
+                "name": "light_theme",
+                "closures": [
+                    {
+                        "type": "function",
+                        "rank": "A",
+                        "lineno": 12,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 15,
+                        "name": "time",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 19,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 30,
+                "name": "dark_theme",
+                "closures": [
+                    {
+                        "type": "function",
+                        "rank": "A",
+                        "lineno": 26,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 29,
+                        "name": "time",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 44,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 47,
+                "name": "time",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Scraping Medium Articles/scraping_medium.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 33,
+                "col_offset": 0,
+                "complexity": 5,
+                "endline": 57,
+                "name": "collect_text",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 11,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 21,
+                "name": "get_page",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 24,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 30,
+                "name": "purify",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 60,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 66,
+                "name": "save_file",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/chatbot/simple-bot.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 4,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 6,
+                "name": "on_message",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 8,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 11,
+                "name": "main",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/chatbot/bot.py": [
+            {
+                "type": "method",
+                "rank": "E",
+                "classname": "MyBot",
+                "lineno": 41,
+                "col_offset": 4,
+                "complexity": 34,
+                "endline": 171,
+                "name": "on_message",
+                "closures": []
+            },
+            {
+                "type": "class",
+                "rank": "B",
+                "lineno": 24,
+                "col_offset": 0,
+                "complexity": 8,
+                "endline": 229,
+                "name": "MyBot",
+                "methods": [
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "MyBot",
+                        "lineno": 30,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 34,
+                        "name": "__init__",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "MyBot",
+                        "lineno": 36,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 38,
+                        "name": "on_ready",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "E",
+                        "classname": "MyBot",
+                        "lineno": 41,
+                        "col_offset": 4,
+                        "complexity": 34,
+                        "endline": 171,
+                        "name": "on_message",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "MyBot",
+                        "lineno": 174,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 181,
+                        "name": "on_login",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "B",
+                        "classname": "MyBot",
+                        "lineno": 183,
+                        "col_offset": 4,
+                        "complexity": 6,
+                        "endline": 211,
+                        "name": "on_friendship",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "MyBot",
+                        "lineno": 213,
+                        "col_offset": 4,
+                        "complexity": 2,
+                        "endline": 229,
+                        "name": "on_room_join",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "method",
+                "rank": "B",
+                "classname": "MyBot",
+                "lineno": 183,
+                "col_offset": 4,
+                "complexity": 6,
+                "endline": 211,
+                "name": "on_friendship",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "MyBot",
+                "lineno": 213,
+                "col_offset": 4,
+                "complexity": 2,
+                "endline": 229,
+                "name": "on_room_join",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 232,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 235,
+                "name": "main",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "MyBot",
+                "lineno": 30,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 34,
+                "name": "__init__",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "MyBot",
+                "lineno": 36,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 38,
+                "name": "on_ready",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "MyBot",
+                "lineno": 174,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 181,
+                "name": "on_login",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Extract_zip_files/extract_zip_files.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 21,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 33,
+                "name": "extract",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/String_search_from_multiple_files/findstring.py": [
+            {
+                "type": "function",
+                "rank": "B",
+                "lineno": 10,
+                "col_offset": 0,
+                "complexity": 6,
+                "endline": 30,
+                "name": "getfiles",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Wifi_windows_password_displayer/main.py": [
+            {
+                "type": "class",
+                "rank": "A",
+                "lineno": 6,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 57,
+                "name": "PwdDisplay",
+                "methods": [
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "PwdDisplay",
+                        "lineno": 7,
+                        "col_offset": 4,
+                        "complexity": 2,
+                        "endline": 15,
+                        "name": "__init__",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "PwdDisplay",
+                        "lineno": 17,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 21,
+                        "name": "export_xml",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "PwdDisplay",
+                        "lineno": 23,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 26,
+                        "name": "file_path",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "PwdDisplay",
+                        "lineno": 28,
+                        "col_offset": 4,
+                        "complexity": 2,
+                        "endline": 36,
+                        "name": "get_ssid_pwd",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "PwdDisplay",
+                        "lineno": 38,
+                        "col_offset": 4,
+                        "complexity": 2,
+                        "endline": 50,
+                        "name": "display_password",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "PwdDisplay",
+                        "lineno": 52,
+                        "col_offset": 4,
+                        "complexity": 3,
+                        "endline": 57,
+                        "name": "__del__",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "PwdDisplay",
+                "lineno": 52,
+                "col_offset": 4,
+                "complexity": 3,
+                "endline": 57,
+                "name": "__del__",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "PwdDisplay",
+                "lineno": 7,
+                "col_offset": 4,
+                "complexity": 2,
+                "endline": 15,
+                "name": "__init__",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "PwdDisplay",
+                "lineno": 28,
+                "col_offset": 4,
+                "complexity": 2,
+                "endline": 36,
+                "name": "get_ssid_pwd",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "PwdDisplay",
+                "lineno": 38,
+                "col_offset": 4,
+                "complexity": 2,
+                "endline": 50,
+                "name": "display_password",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "PwdDisplay",
+                "lineno": 17,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 21,
+                "name": "export_xml",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "PwdDisplay",
+                "lineno": 23,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 26,
+                "name": "file_path",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Write_a_script_to_download_a_random_image_from_unsplash_and_set_it_as_wallpaper/background_windows.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 22,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 29,
+                "name": "setup",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 9,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 10,
+                "name": "is_64bit",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 13,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 19,
+                "name": "download",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Write_a_script_to_download_a_random_image_from_unsplash_and_set_it_as_wallpaper/background_linux.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 9,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 15,
+                "name": "download",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 18,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 22,
+                "name": "setup",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/News_website_scraper/moneycontrol_scrapper.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 27,
+                "col_offset": 0,
+                "complexity": 4,
+                "endline": 42,
+                "name": "scrap",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 14,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 24,
+                "name": "setup",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 45,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 48,
+                "name": "json_dump",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Terminal_progress_bar_with_images_resizing/progress_bar_ with_images_resizing.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 7,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 14,
+                "name": "Resize_image",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Terminal_Based_Hangman_Game/hangman.py": [
+            {
+                "type": "function",
+                "rank": "C",
+                "lineno": 16,
+                "col_offset": 0,
+                "complexity": 16,
+                "endline": 101,
+                "name": "play",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 174,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 179,
+                "name": "main",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 6,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 12,
+                "name": "get_word",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 105,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 170,
+                "name": "display_hangman",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Calculate_age/calculate.py": [
+            {
+                "type": "function",
+                "rank": "B",
+                "lineno": 14,
+                "col_offset": 0,
+                "complexity": 7,
+                "endline": 22,
+                "name": "month_days",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 6,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 10,
+                "name": "judge_leap_year",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Movie Information Scraper/movieInfoScraper.py": [
+            {
+                "type": "function",
+                "rank": "C",
+                "lineno": 7,
+                "col_offset": 0,
+                "complexity": 11,
+                "endline": 82,
+                "name": "getMovieDetails",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Drowsiness detection/model.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 12,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 14,
+                "name": "generator",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Internet_connection_check/internet_connection_check.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 4,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 21,
+                "name": "internet_connection_test",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Countdown_timer/main.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 3,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 11,
+                "name": "countdown",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Zip_Bruter/zipbruter.py": [
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "ZipBruter",
+                "lineno": 33,
+                "col_offset": 4,
+                "complexity": 4,
+                "endline": 51,
+                "name": "worker",
+                "closures": []
+            },
+            {
+                "type": "class",
+                "rank": "A",
+                "lineno": 20,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 74,
+                "name": "ZipBruter",
+                "methods": [
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "ZipBruter",
+                        "lineno": 24,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 31,
+                        "name": "__init__",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "ZipBruter",
+                        "lineno": 33,
+                        "col_offset": 4,
+                        "complexity": 4,
+                        "endline": 51,
+                        "name": "worker",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "ZipBruter",
+                        "lineno": 53,
+                        "col_offset": 4,
+                        "complexity": 2,
+                        "endline": 56,
+                        "name": "start_workers",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "ZipBruter",
+                        "lineno": 58,
+                        "col_offset": 4,
+                        "complexity": 3,
+                        "endline": 68,
+                        "name": "main",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "ZipBruter",
+                        "lineno": 70,
+                        "col_offset": 4,
+                        "complexity": 2,
+                        "endline": 74,
+                        "name": "read_wordlist",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "ZipBruter",
+                "lineno": 58,
+                "col_offset": 4,
+                "complexity": 3,
+                "endline": 68,
+                "name": "main",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "ZipBruter",
+                "lineno": 53,
+                "col_offset": 4,
+                "complexity": 2,
+                "endline": 56,
+                "name": "start_workers",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "ZipBruter",
+                "lineno": 70,
+                "col_offset": 4,
+                "complexity": 2,
+                "endline": 74,
+                "name": "read_wordlist",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "ZipBruter",
+                "lineno": 24,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 31,
+                "name": "__init__",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Download_images_from_website/scrap-img.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 30,
+                "col_offset": 0,
+                "complexity": 4,
+                "endline": 45,
+                "name": "download_img",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 15,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 21,
+                "name": "get_url",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 24,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 27,
+                "name": "get_img_links",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Speaking_Dictionary/SpeakingDictionary.py": [
+            {
+                "type": "class",
+                "rank": "A",
+                "lineno": 8,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 17,
+                "name": "Speak",
+                "methods": [
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "Speak",
+                        "lineno": 9,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 17,
+                        "name": "SpeakWord",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "Speak",
+                "lineno": 9,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 17,
+                "name": "SpeakWord",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Captcha_Genrator/Captcha_Genrator.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 22,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 29,
+                "name": "verify",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 31,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 39,
+                "name": "refresh",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Easy_cartoonify/easy_cartoonify.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 9,
+                "col_offset": 0,
+                "complexity": 4,
+                "endline": 18,
+                "name": "find_the_image",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Image_watermark/watermark.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 4,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 29,
+                "name": "watermark_photo",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Time_to_load_website/time_to_load_website.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 5,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 26,
+                "name": "get_load_time",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Billing_system/biling_system.py": [
+            {
+                "type": "method",
+                "rank": "D",
+                "classname": "Bill_App",
+                "lineno": 288,
+                "col_offset": 4,
+                "complexity": 27,
+                "endline": 345,
+                "name": "bill_area",
+                "closures": []
+            },
+            {
+                "type": "class",
+                "rank": "B",
+                "lineno": 7,
+                "col_offset": 0,
+                "complexity": 6,
+                "endline": 420,
+                "name": "Bill_App",
+                "methods": [
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "Bill_App",
+                        "lineno": 8,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 235,
+                        "name": "__init__",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "Bill_App",
+                        "lineno": 238,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 275,
+                        "name": "total",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "Bill_App",
+                        "lineno": 278,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 285,
+                        "name": "welcome_bill",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "D",
+                        "classname": "Bill_App",
+                        "lineno": 288,
+                        "col_offset": 4,
+                        "complexity": 27,
+                        "endline": 345,
+                        "name": "bill_area",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "Bill_App",
+                        "lineno": 348,
+                        "col_offset": 4,
+                        "complexity": 2,
+                        "endline": 357,
+                        "name": "save_bill",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "Bill_App",
+                        "lineno": 360,
+                        "col_offset": 4,
+                        "complexity": 5,
+                        "endline": 371,
+                        "name": "find_bill",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "Bill_App",
+                        "lineno": 374,
+                        "col_offset": 4,
+                        "complexity": 2,
+                        "endline": 414,
+                        "name": "clear_data",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "Bill_App",
+                        "lineno": 417,
+                        "col_offset": 4,
+                        "complexity": 2,
+                        "endline": 420,
+                        "name": "exit_app",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "Bill_App",
+                "lineno": 360,
+                "col_offset": 4,
+                "complexity": 5,
+                "endline": 371,
+                "name": "find_bill",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "Bill_App",
+                "lineno": 348,
+                "col_offset": 4,
+                "complexity": 2,
+                "endline": 357,
+                "name": "save_bill",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "Bill_App",
+                "lineno": 374,
+                "col_offset": 4,
+                "complexity": 2,
+                "endline": 414,
+                "name": "clear_data",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "Bill_App",
+                "lineno": 417,
+                "col_offset": 4,
+                "complexity": 2,
+                "endline": 420,
+                "name": "exit_app",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "Bill_App",
+                "lineno": 8,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 235,
+                "name": "__init__",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "Bill_App",
+                "lineno": 238,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 275,
+                "name": "total",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "Bill_App",
+                "lineno": 278,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 285,
+                "name": "welcome_bill",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Space_bullet_shooter_game/space_bullet_shooter.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 109,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 116,
+                "name": "is_collision",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 53,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 54,
+                "name": "player",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 95,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 96,
+                "name": "enemy",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 101,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 104,
+                "name": "fire_bullet",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 125,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 127,
+                "name": "showscore",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 133,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 136,
+                "name": "game_over",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 140,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 142,
+                "name": "final_score",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 148,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 151,
+                "name": "author_name",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/cli_proxy_tester/proxytest.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 12,
+                "col_offset": 0,
+                "complexity": 5,
+                "endline": 40,
+                "name": "add_proxies_to_file",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 43,
+                "col_offset": 0,
+                "complexity": 5,
+                "endline": 75,
+                "name": "test_proxy",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 86,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 103,
+                "name": "test_csv_file",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 106,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 119,
+                "name": "add_from_text_file",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 78,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 83,
+                "name": "test_single_proxy",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/cli_proxy_tester/cli.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 10,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 20,
+                "name": "validate_proxy",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 24,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 25,
+                "name": "cli",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 33,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 34,
+                "name": "single",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 41,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 42,
+                "name": "csv_file",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 50,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 51,
+                "name": "add_from_txt_file",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/telegram_bot/main.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 32,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 43,
+                "name": "coin",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 15,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 16,
+                "name": "error_callback",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 19,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 29,
+                "name": "start",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 46,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 69,
+                "name": "main",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/EasyVideoPlayer/EasyVideoPlayer.py": [
+            {
+                "type": "function",
+                "rank": "B",
+                "lineno": 40,
+                "col_offset": 0,
+                "complexity": 6,
+                "endline": 57,
+                "name": "PlayVideo",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 15,
+                "col_offset": 0,
+                "complexity": 4,
+                "endline": 24,
+                "name": "find_the_video",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/download GeeksForGeeks articles/downloader.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 12,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 32,
+                "name": "get_driver",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 35,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 41,
+                "name": "download_article",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Currency_converter/cc.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 196,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 211,
+                "name": "function1",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Split_File/split_files.py": [
+            {
+                "type": "class",
+                "rank": "A",
+                "lineno": 6,
+                "col_offset": 0,
+                "complexity": 5,
+                "endline": 50,
+                "name": "Split_Files",
+                "methods": [
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "Split_Files",
+                        "lineno": 10,
+                        "col_offset": 4,
+                        "complexity": 3,
+                        "endline": 26,
+                        "name": "__init__",
+                        "closures": []
+                    },
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "Split_Files",
+                        "lineno": 28,
+                        "col_offset": 4,
+                        "complexity": 5,
+                        "endline": 50,
+                        "name": "split_data",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "Split_Files",
+                "lineno": 28,
+                "col_offset": 4,
+                "complexity": 5,
+                "endline": 50,
+                "name": "split_data",
+                "closures": []
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "Split_Files",
+                "lineno": 10,
+                "col_offset": 4,
+                "complexity": 3,
+                "endline": 26,
+                "name": "__init__",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Check_website_connectivity/check_connectivity.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 9,
+                "col_offset": 0,
+                "complexity": 4,
+                "endline": 21,
+                "name": "main",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Duplicate files remover/duplicatefileremover.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 7,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 17,
+                "name": "hashFile",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Create_a_simple_stopwatch/stopwatch.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 54,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 63,
+                "name": "Reset",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 7,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 31,
+                "name": "counter_label",
+                "closures": [
+                    {
+                        "type": "function",
+                        "rank": "A",
+                        "lineno": 8,
+                        "col_offset": 4,
+                        "complexity": 3,
+                        "endline": 28,
+                        "name": "count",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 35,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 41,
+                "name": "Start",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 45,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 50,
+                "name": "Stop",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Tic_tac_toe/tic_tac_toe.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 18,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 21,
+                "name": "check_win",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Web_page_summation/app.py": [
+            {
+                "type": "function",
+                "rank": "B",
+                "lineno": 93,
+                "col_offset": 0,
+                "complexity": 9,
+                "endline": 138,
+                "name": "main",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 42,
+                "col_offset": 0,
+                "complexity": 4,
+                "endline": 56,
+                "name": "readCsv",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 59,
+                "col_offset": 0,
+                "complexity": 4,
+                "endline": 79,
+                "name": "writeCsv",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 82,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 90,
+                "name": "processCsv",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 12,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 39,
+                "name": "parse_args",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Web_page_summation/utils/test.py": [
+            {
+                "type": "class",
+                "rank": "A",
+                "lineno": 10,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 11,
+                "name": "args",
+                "methods": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Web_page_summation/utils/model.py": [
+            {
+                "type": "class",
+                "rank": "C",
+                "lineno": 6,
+                "col_offset": 0,
+                "complexity": 11,
+                "endline": 131,
+                "name": "Model",
+                "methods": [
+                    {
+                        "type": "method",
+                        "rank": "B",
+                        "classname": "Model",
+                        "lineno": 7,
+                        "col_offset": 4,
+                        "complexity": 10,
+                        "endline": 131,
+                        "name": "__init__",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "method",
+                "rank": "B",
+                "classname": "Model",
+                "lineno": 7,
+                "col_offset": 4,
+                "complexity": 10,
+                "endline": 131,
+                "name": "__init__",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Web_page_summation/utils/comparison.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 9,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 43,
+                "name": "eval_rouges",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Web_page_summation/utils/train.py": [
+            {
+                "type": "class",
+                "rank": "A",
+                "lineno": 10,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 11,
+                "name": "args",
+                "methods": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Web_page_summation/utils/summarize.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 11,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 30,
+                "name": "summarize",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Web_page_summation/utils/utils.py": [
+            {
+                "type": "function",
+                "rank": "C",
+                "lineno": 59,
+                "col_offset": 0,
+                "complexity": 13,
+                "endline": 80,
+                "name": "build_dataset",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "B",
+                "lineno": 25,
+                "col_offset": 0,
+                "complexity": 6,
+                "endline": 56,
+                "name": "build_dict",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 17,
+                "col_offset": 0,
+                "complexity": 4,
+                "endline": 22,
+                "name": "get_text_list",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 83,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 92,
+                "name": "batch_iter",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 95,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 118,
+                "name": "get_init_embedding",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 12,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 14,
+                "name": "clean_str",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Store_emails_in_csv/store_emails.py": [
+            {
+                "type": "function",
+                "rank": "C",
+                "lineno": 44,
+                "col_offset": 0,
+                "complexity": 12,
+                "endline": 96,
+                "name": "write_to_csv",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 98,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 114,
+                "name": "main",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 24,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 35,
+                "name": "connect_to_mailbox",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 39,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 41,
+                "name": "get_text",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/convert_dictionary_to_python_object/conversion.py": [
+            {
+                "type": "class",
+                "rank": "A",
+                "lineno": 1,
+                "col_offset": 0,
+                "complexity": 4,
+                "endline": 4,
+                "name": "obj",
+                "methods": [
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "obj",
+                        "lineno": 2,
+                        "col_offset": 4,
+                        "complexity": 3,
+                        "endline": 4,
+                        "name": "__init__",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "obj",
+                "lineno": 2,
+                "col_offset": 4,
+                "complexity": 3,
+                "endline": 4,
+                "name": "__init__",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Scrape_Hacker_News/main.py": [
+            {
+                "type": "function",
+                "rank": "C",
+                "lineno": 15,
+                "col_offset": 0,
+                "complexity": 17,
+                "endline": 82,
+                "name": "fetch",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Instagram_profile/main.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 14,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 50,
+                "name": "main",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 8,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 11,
+                "name": "banner",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Instagram_profile/InstgramProfile.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 7,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 41,
+                "name": "main",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Instagram_profile/profilepic.py": [
+            {
+                "type": "function",
+                "rank": "C",
+                "lineno": 8,
+                "col_offset": 0,
+                "complexity": 13,
+                "endline": 59,
+                "name": "pp_download",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Compute_IoU/Compute_IoU.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 3,
+                "col_offset": 0,
+                "complexity": 1,
+                "endline": 28,
+                "name": "Cal_IoU",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Cli_todo/todo.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 46,
+                "col_offset": 0,
+                "complexity": 5,
+                "endline": 65,
+                "name": "done",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 31,
+                "col_offset": 0,
+                "complexity": 4,
+                "endline": 41,
+                "name": "add",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 17,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 26,
+                "name": "tasks",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 5,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 13,
+                "name": "todo",
+                "closures": []
+            }
+        ],
+        "/home/juan/Documents/Analisis-CC-PyCEFR/python-mini-projects/projects/Todo_app/app.py": [
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 22,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 34,
+                "name": "index",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 49,
+                "col_offset": 0,
+                "complexity": 3,
+                "endline": 62,
+                "name": "update",
+                "closures": []
+            },
+            {
+                "type": "function",
+                "rank": "A",
+                "lineno": 38,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 45,
+                "name": "delete",
+                "closures": []
+            },
+            {
+                "type": "class",
+                "rank": "A",
+                "lineno": 11,
+                "col_offset": 0,
+                "complexity": 2,
+                "endline": 18,
+                "name": "Todo",
+                "methods": [
+                    {
+                        "type": "method",
+                        "rank": "A",
+                        "classname": "Todo",
+                        "lineno": 17,
+                        "col_offset": 4,
+                        "complexity": 1,
+                        "endline": 18,
+                        "name": "__repr__",
+                        "closures": []
+                    }
+                ]
+            },
+            {
+                "type": "method",
+                "rank": "A",
+                "classname": "Todo",
+                "lineno": 17,
+                "col_offset": 4,
+                "complexity": 1,
+                "endline": 18,
+                "name": "__repr__",
+                "closures": []
+            }
+        ]
+    }
+}

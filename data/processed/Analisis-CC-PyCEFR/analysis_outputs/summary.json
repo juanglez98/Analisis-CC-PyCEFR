@@ -1,0 +1,10 @@
+{
+  "case": "Analisis-CC-PyCEFR",
+  "n_pycefr_constructs": 482,
+  "n_pycefr_classes": 39,
+  "max_pycefr_level": "C1",
+  "n_radon_functions": 16,
+  "max_radon_complexity": 10.0,
+  "max_radon_grade": "B",
+  "n_interesting_cases": 4
+}

@@ -170,7 +170,7 @@ def write_radon_csv(radon_data, target_folder, repo_name):
 
     return csv_path
 
-def generate(repo_path, target_folder):
+def generate_radon(repo_path, target_folder):
     """Generate a Radon complexity report in JSON and CSV formats."""
     if not repo_path:
         print('Radon generation skipped: repo_path is empty.')

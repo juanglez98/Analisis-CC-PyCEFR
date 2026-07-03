@@ -1,2 +1,6 @@
-case,n_functions,max_complexity,mean_complexity,max_rank_num,n_closures,max_rank
+case,n_functions,max_complexity,mean_complexity,max_radon_grade_num,n_closures,max_radon_grade
+30-Days-Of-Python,22,3,1.1818181818181819,1,0,A
+Analisis-CC-PyCEFR,16,10,4.9375,2,1,B
+python-algorithms,1474,16,2.9579375848032563,3,119,C
 python-beginner-programming-exercises,109,8,2.165137614678899,2,0,B
+python-mini-projects,340,34,3.0205882352941176,5,4,E

@@ -1,0 +1,10 @@
+{
+  "case": "python-algorithms",
+  "n_pycefr_constructs": 21724,
+  "n_pycefr_classes": 57,
+  "max_pycefr_level": "C2",
+  "n_radon_functions": 1474,
+  "max_radon_complexity": 16.0,
+  "max_radon_grade": "C",
+  "n_interesting_cases": 232
+}
