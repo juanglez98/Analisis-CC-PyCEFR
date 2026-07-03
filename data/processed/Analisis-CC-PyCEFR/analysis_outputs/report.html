@@ -1,0 +1,247 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Informe Analisis-CC-PyCEFR</title>
+<style>
+body { font-family: Arial, sans-serif; max-width: 1000px; margin: 40px auto; line-height: 1.5; }
+table { border-collapse: collapse; width: 100%; margin: 1em 0; }
+th, td { border: 1px solid #ddd; padding: 6px; }
+th { background: #f2f2f2; }
+img { max-width: 900px; display: block; margin: 20px 0; }
+</style>
+</head>
+<body><h1>Informe del caso: Analisis-CC-PyCEFR</h1>
+<h2>Resumen general</h2>
+<ul>
+<li>
+<p>Constructos PyCEFR detectados: 482</p>
+</li>
+<li>
+<p>Clases PyCEFR distintas: 39</p>
+</li>
+<li>
+<p>Nivel máximo PyCEFR: C1</p>
+</li>
+<li>
+<p>Funciones Radon detectadas: 16</p>
+</li>
+<li>
+<p>Complejidad máxima Radon: 10.0</p>
+</li>
+<li>
+<p>Calificación máxima de Radon: B</p>
+</li>
+<li>
+<p>Casos interesantes detectados: 4</p>
+</li>
+</ul>
+<h2>Interpretación inicial</h2>
+<p>Este caso contiene funciones donde las herramientas muestran patrones de coincidencia o discrepancia. Estos ejemplos son candidatos para comentarse en la memoria.</p>
+<h2>Constructos PyCEFR más frecuentes</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">class</th>
+<th style="text-align: right;">count</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Subscript</td>
+<td style="text-align: right;">82</td>
+</tr>
+<tr>
+<td style="text-align: left;">Simple Atributte</td>
+<td style="text-align: right;">74</td>
+</tr>
+<tr>
+<td style="text-align: left;">Simple Assignment</td>
+<td style="text-align: right;">61</td>
+</tr>
+<tr>
+<td style="text-align: left;">Formatted Value</td>
+<td style="text-align: right;">31</td>
+</tr>
+<tr>
+<td style="text-align: left;">Simple If statements</td>
+<td style="text-align: right;">30</td>
+</tr>
+<tr>
+<td style="text-align: left;">Simple Tuple</td>
+<td style="text-align: right;">30</td>
+</tr>
+<tr>
+<td style="text-align: left;">Return</td>
+<td style="text-align: right;">21</td>
+</tr>
+<tr>
+<td style="text-align: left;">Print</td>
+<td style="text-align: right;">17</td>
+</tr>
+<tr>
+<td style="text-align: left;">Joined String</td>
+<td style="text-align: right;">14</td>
+</tr>
+<tr>
+<td style="text-align: left;">Function with Simple argument</td>
+<td style="text-align: right;">13</td>
+</tr>
+</tbody>
+</table>
+<h2>Funciones más complejas según Radon</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">file_name</th>
+<th style="text-align: left;">name</th>
+<th style="text-align: right;">complexity</th>
+<th style="text-align: left;">radon_grade</th>
+<th style="text-align: right;">lineno</th>
+<th style="text-align: right;">endline</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">generator.py</td>
+<td style="text-align: left;">walk</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: right;">228</td>
+<td style="text-align: right;">245</td>
+</tr>
+<tr>
+<td style="text-align: left;">generator.py</td>
+<td style="text-align: left;">extract_records</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: right;">206</td>
+<td style="text-align: right;">248</td>
+</tr>
+<tr>
+<td style="text-align: left;">generator.py</td>
+<td style="text-align: left;">print_report</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: right;">328</td>
+<td style="text-align: right;">370</td>
+</tr>
+<tr>
+<td style="text-align: left;">generator.py</td>
+<td style="text-align: left;">read_json</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: right;">66</td>
+<td style="text-align: right;">157</td>
+</tr>
+<tr>
+<td style="text-align: left;">generator.py</td>
+<td style="text-align: left;">normalize_record</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: right;">182</td>
+<td style="text-align: right;">202</td>
+</tr>
+<tr>
+<td style="text-align: left;">generator.py</td>
+<td style="text-align: left;">compare</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: right;">269</td>
+<td style="text-align: right;">324</td>
+</tr>
+<tr>
+<td style="text-align: left;">main.py</td>
+<td style="text-align: left;">get_folder_name</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">21</td>
+</tr>
+<tr>
+<td style="text-align: left;">main.py</td>
+<td style="text-align: left;">choose_option</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: right;">32</td>
+<td style="text-align: right;">46</td>
+</tr>
+<tr>
+<td style="text-align: left;">generator.py</td>
+<td style="text-align: left;">as_number</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: right;">160</td>
+<td style="text-align: right;">168</td>
+</tr>
+<tr>
+<td style="text-align: left;">generator.py</td>
+<td style="text-align: left;">pick_first</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: right;">171</td>
+<td style="text-align: right;">175</td>
+</tr>
+</tbody>
+</table>
+<h2>Casos interesantes</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">file_name</th>
+<th style="text-align: left;">function</th>
+<th style="text-align: right;">complexity</th>
+<th style="text-align: left;">radon_grade</th>
+<th style="text-align: left;">max_level</th>
+<th style="text-align: right;">n_pycefr_constructs</th>
+<th style="text-align: left;">case_type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">generator.py</td>
+<td style="text-align: left;">extract_records</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">C1</td>
+<td style="text-align: right;">50</td>
+<td style="text-align: left;">Coincidencia en dificultad alta</td>
+</tr>
+<tr>
+<td style="text-align: left;">generator.py</td>
+<td style="text-align: left;">walk</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">B2</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: left;">Coincidencia en dificultad alta</td>
+</tr>
+<tr>
+<td style="text-align: left;">generator.py</td>
+<td style="text-align: left;">print_report</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">A1</td>
+<td style="text-align: right;">104</td>
+<td style="text-align: left;">Radon alto / PyCEFR bajo; Muchos constructos simples acumulados</td>
+</tr>
+<tr>
+<td style="text-align: left;">generator.py</td>
+<td style="text-align: left;">read_json</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: left;">B</td>
+<td style="text-align: left;">C1</td>
+<td style="text-align: right;">47</td>
+<td style="text-align: left;">Coincidencia en dificultad alta</td>
+</tr>
+</tbody>
+</table>
+<h2>Figuras generadas</h2>
+<p><img alt="pycefr_level_distribution" src="pycefr_level_distribution.png" /></p>
+<p><img alt="pycefr_top_classes" src="pycefr_top_classes.png" /></p>
+<p><img alt="radon_calificaciones" src="radon_calificaciones.png" /></p>
+<p><img alt="radon_complexity_histogram" src="radon_complexity_histogram.png" /></p>
+<p><img alt="radon_vs_pycefr_scatter" src="radon_vs_pycefr_scatter.png" /></p>
+<h2>Nota para revisión manual</h2>
+<p>Este informe se genera automáticamente. Las conclusiones finales deben revisarse manualmente para comprobar que los ejemplos seleccionados son representativos y adecuados para la memoria.</p></body>
+</html>

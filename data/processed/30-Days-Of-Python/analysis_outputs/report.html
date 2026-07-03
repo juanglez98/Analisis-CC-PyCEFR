@@ -1,0 +1,197 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Informe 30-Days-Of-Python</title>
+<style>
+body { font-family: Arial, sans-serif; max-width: 1000px; margin: 40px auto; line-height: 1.5; }
+table { border-collapse: collapse; width: 100%; margin: 1em 0; }
+th, td { border: 1px solid #ddd; padding: 6px; }
+th { background: #f2f2f2; }
+img { max-width: 900px; display: block; margin: 20px 0; }
+</style>
+</head>
+<body><h1>Informe del caso: 30-Days-Of-Python</h1>
+<h2>Resumen general</h2>
+<ul>
+<li>
+<p>Constructos PyCEFR detectados: 1358</p>
+</li>
+<li>
+<p>Clases PyCEFR distintas: 29</p>
+</li>
+<li>
+<p>Nivel máximo PyCEFR: B2</p>
+</li>
+<li>
+<p>Funciones Radon detectadas: 22</p>
+</li>
+<li>
+<p>Complejidad máxima Radon: 3.0</p>
+</li>
+<li>
+<p>Calificación máxima de Radon: A</p>
+</li>
+<li>
+<p>Casos interesantes detectados: 0</p>
+</li>
+</ul>
+<h2>Interpretación inicial</h2>
+<p>En este caso no se han detectado grandes discrepancias automáticas con las reglas actuales. Aun así, puede ser útil revisar las funciones más complejas o los constructos de nivel más alto.</p>
+<h2>Constructos PyCEFR más frecuentes</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">class</th>
+<th style="text-align: right;">count</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Print</td>
+<td style="text-align: right;">331</td>
+</tr>
+<tr>
+<td style="text-align: left;">Simple List</td>
+<td style="text-align: right;">297</td>
+</tr>
+<tr>
+<td style="text-align: left;">1 List Dictionary</td>
+<td style="text-align: right;">250</td>
+</tr>
+<tr>
+<td style="text-align: left;">Simple Assignment</td>
+<td style="text-align: right;">181</td>
+</tr>
+<tr>
+<td style="text-align: left;">Simple Atributte</td>
+<td style="text-align: right;">80</td>
+</tr>
+<tr>
+<td style="text-align: left;">Assigment with sum (total = total + 1)</td>
+<td style="text-align: right;">38</td>
+</tr>
+<tr>
+<td style="text-align: left;">Unary Operation</td>
+<td style="text-align: right;">33</td>
+</tr>
+<tr>
+<td style="text-align: left;">Subscript</td>
+<td style="text-align: right;">31</td>
+</tr>
+<tr>
+<td style="text-align: left;">Return</td>
+<td style="text-align: right;">23</td>
+</tr>
+<tr>
+<td style="text-align: left;">Function with Simple argument</td>
+<td style="text-align: right;">16</td>
+</tr>
+</tbody>
+</table>
+<h2>Funciones más complejas según Radon</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">file_name</th>
+<th style="text-align: left;">name</th>
+<th style="text-align: right;">complexity</th>
+<th style="text-align: left;">radon_grade</th>
+<th style="text-align: right;">lineno</th>
+<th style="text-align: right;">endline</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">app.py</td>
+<td style="text-align: left;">post</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: right;">29</td>
+<td style="text-align: right;">35</td>
+</tr>
+<tr>
+<td style="text-align: left;">arithmetic.py</td>
+<td style="text-align: left;">add_numbers</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">5</td>
+</tr>
+<tr>
+<td style="text-align: left;">arithmetics.py</td>
+<td style="text-align: left;">add_numbers</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">5</td>
+</tr>
+<tr>
+<td style="text-align: left;">mymodule.py</td>
+<td style="text-align: left;">generate_full_name</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">4</td>
+</tr>
+<tr>
+<td style="text-align: left;">mymodule.py</td>
+<td style="text-align: left;">sum_two_nums</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">8</td>
+</tr>
+<tr>
+<td style="text-align: left;">mymodule.py</td>
+<td style="text-align: left;">generate_full_name</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">4</td>
+</tr>
+<tr>
+<td style="text-align: left;">arithmetic.py</td>
+<td style="text-align: left;">subtract</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">9</td>
+</tr>
+<tr>
+<td style="text-align: left;">mymodule.py</td>
+<td style="text-align: left;">sum_two_nums</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">7</td>
+</tr>
+<tr>
+<td style="text-align: left;">arithmetic.py</td>
+<td style="text-align: left;">remainder</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: right;">20</td>
+<td style="text-align: right;">21</td>
+</tr>
+<tr>
+<td style="text-align: left;">arithmetic.py</td>
+<td style="text-align: left;">multiple</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: left;">A</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">13</td>
+</tr>
+</tbody>
+</table>
+<h2>Casos interesantes</h2>
+<p>No se han detectado casos destacados con las reglas actuales.</p>
+<h2>Figuras generadas</h2>
+<p><img alt="pycefr_level_distribution" src="pycefr_level_distribution.png" /></p>
+<p><img alt="pycefr_top_classes" src="pycefr_top_classes.png" /></p>
+<p><img alt="radon_calificaciones" src="radon_calificaciones.png" /></p>
+<p><img alt="radon_complexity_histogram" src="radon_complexity_histogram.png" /></p>
+<p><img alt="radon_vs_pycefr_scatter" src="radon_vs_pycefr_scatter.png" /></p>
+<h2>Nota para revisión manual</h2>
+<p>Este informe se genera automáticamente. Las conclusiones finales deben revisarse manualmente para comprobar que los ejemplos seleccionados son representativos y adecuados para la memoria.</p></body>
+</html>

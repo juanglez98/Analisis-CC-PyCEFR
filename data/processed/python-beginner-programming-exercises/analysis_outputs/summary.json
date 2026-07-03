@@ -5,6 +5,6 @@
   "max_pycefr_level": "C1",
   "n_radon_functions": 109,
   "max_radon_complexity": 8.0,
-  "max_radon_rank": "B",
+  "max_radon_grade": "B",
   "n_interesting_cases": 46
 }

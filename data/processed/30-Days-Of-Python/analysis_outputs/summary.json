@@ -1,0 +1,10 @@
+{
+  "case": "30-Days-Of-Python",
+  "n_pycefr_constructs": 1358,
+  "n_pycefr_classes": 29,
+  "max_pycefr_level": "B2",
+  "n_radon_functions": 22,
+  "max_radon_complexity": 3.0,
+  "max_radon_grade": "A",
+  "n_interesting_cases": 0
+}

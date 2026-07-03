@@ -1,0 +1,10 @@
+{
+  "case": "python-mini-projects",
+  "n_pycefr_constructs": 10907,
+  "n_pycefr_classes": 83,
+  "max_pycefr_level": "C2",
+  "n_radon_functions": 340,
+  "max_radon_complexity": 34.0,
+  "max_radon_grade": "E",
+  "n_interesting_cases": 83
+}

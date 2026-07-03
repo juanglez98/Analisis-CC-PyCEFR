@@ -63,12 +63,12 @@ if __name__ == "__main__":
     
     target_folder = os.path.dirname(os.path.abspath(__file__)) + "/data/"
   
-     
     processed_path, source_path = choose_option(type_option, option, target_folder)
-    print("Processed path: ", processed_path)
-    print("Repo path: ", source_path)
+    
+    if source_path is None:
+        sys.exit(f"Repo or user under 50% python code : Exiting ")
     summary_Levels(processed_path)
-    generate(source_path, processed_path)
+    generate_radon(source_path, processed_path)
 
 
 
